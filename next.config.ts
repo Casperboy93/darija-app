@@ -15,13 +15,6 @@ const nextConfig: NextConfig = {
   },
   poweredByHeader: false,
   compress: true,
-  // Configure server for production deployment
-  ...(process.env.NODE_ENV === 'production' && {
-    server: {
-      host: '0.0.0.0',
-      port: parseInt(process.env.PORT || '10000', 10),
-    },
-  }),
 };
 
 export default nextConfig;
