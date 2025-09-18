@@ -3,11 +3,13 @@ services:
     name: darija-app
     env: node
     buildCommand: NODE_ENV=production npm install && NODE_ENV=production npm run build
-    startCommand: NODE_ENV=production npm start
+    startCommand: NODE_ENV=production PORT=10000 npm start
     envVars:
       - key: NODE_OPTIONS
         value: --max-old-space-size=256
       - key: NEXT_TELEMETRY_DISABLED
         value: "1"
+      - key: PORT
+        value: "10000"
     autoDeploy: true
     plan: free
