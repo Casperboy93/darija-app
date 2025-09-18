@@ -5,8 +5,6 @@ services:
     buildCommand: npm install && npm run build
     startCommand: npm start
     envVars:
-      - key: NODE_ENV
-        value: production
       - key: NODE_OPTIONS
         value: --max-old-space-size=256
     autoDeploy: true
