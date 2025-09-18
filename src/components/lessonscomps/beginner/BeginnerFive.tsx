@@ -1,155 +1,375 @@
 "use client";
 
 import React from 'react';
-import Link from 'next/link';
+import LessonLayout from '../common/LessonLayout';
 
 export default function BeginnerFive() {
   return (
-    <div className="max-w-4xl mx-auto py-8 px-4">
-      <div className="mb-6">
-        <Link href="/lessons" className="text-blue-600 hover:text-blue-800 flex items-center">
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
-            <path fillRule="evenodd" d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z" clipRule="evenodd" />
+    <LessonLayout 
+      title="Food and Dining" 
+      level="beginner" 
+      lessonNumber={5}
+      nextLesson="intermediate-one"
+    >
+      {/* Lesson Overview */}
+      <div className="bg-green-50 border border-green-200 p-6 rounded-lg mb-8">
+        <h2 className="text-xl font-semibold mb-3 text-green-800 flex items-center">
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
-          Back to Lessons
-        </Link>
-      </div>
-      
-      <h1 className="text-3xl font-bold mb-6">Beginner Lesson 5: Food and Dining</h1>
-      
-      <div className="bg-blue-50 p-4 rounded-lg mb-8">
-        <h2 className="text-xl font-semibold mb-2">Lesson Overview</h2>
-        <p>Learn essential vocabulary and phrases related to food, ordering meals, and dining experiences in Morocco.</p>
-      </div>
-      
-      <div className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4">Common Foods</h2>
+          Lesson Overview
+        </h2>
+        <p className="text-gray-700">Learn essential vocabulary and phrases related to food, ordering meals, and dining experiences in Morocco. Master the art of navigating restaurants and markets like a local.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Khobz</p>
-            <p className="text-gray-600">Bread</p>
-            <p className="text-sm italic mt-2">Pronounced: kh-obz</p>
-          </div>
-          
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Tajine</p>
-            <p className="text-gray-600">Traditional Moroccan stew</p>
-            <p className="text-sm italic mt-2">Pronounced: ta-jeen</p>
-          </div>
-          
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Kefta</p>
-            <p className="text-gray-600">Meatballs</p>
-            <p className="text-sm italic mt-2">Pronounced: kef-ta</p>
-          </div>
-          
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Couscous</p>
-            <p className="text-gray-600">Traditional grain dish</p>
-            <p className="text-sm italic mt-2">Pronounced: koos-koos</p>
-          </div>
+        <div className="mt-4 bg-white p-4 rounded-md border border-green-100">
+          <p className="font-medium text-green-800">Learning Goals:</p>
+          <ul className="list-disc ml-5 mt-2 space-y-1 text-gray-700">
+            <li>Master common Moroccan food vocabulary</li>
+            <li>Learn restaurant ordering phrases</li>
+            <li>Understand dining etiquette and customs</li>
+            <li>Practice market shopping conversations</li>
+          </ul>
         </div>
       </div>
       
-      <div className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4">Drinks</h2>
+      {/* Traditional Moroccan Dishes */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Traditional Moroccan Dishes
+        </h2>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Atay</p>
-            <p className="text-gray-600">Tea (usually mint tea)</p>
-            <p className="text-sm italic mt-2">Pronounced: a-tay</p>
+        <p className="text-gray-700 mb-6">These are the iconic dishes you'll encounter throughout Morocco, each with its own cultural significance and regional variations.</p>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+          <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
+            <div className="flex justify-between">
+              <p className="font-bold text-lg text-gray-900">Tajine</p>
+              <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Main Dish</span>
+            </div>
+            <p className="text-gray-600">Traditional slow-cooked stew</p>
+            <p className="text-sm italic mt-2 text-gray-500">Pronounced: ta-jeen</p>
+            <div className="mt-3 pt-3 border-t border-gray-100">
+              <p className="text-sm text-gray-600"><span className="font-medium">Varieties:</span> Chicken, lamb, vegetable, fish</p>
+            </div>
           </div>
           
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Qahwa</p>
-            <p className="text-gray-600">Coffee</p>
-            <p className="text-sm italic mt-2">Pronounced: qah-wa</p>
+          <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
+            <div className="flex justify-between">
+              <p className="font-bold text-lg text-gray-900">Couscous</p>
+              <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Staple</span>
+            </div>
+            <p className="text-gray-600">Steamed semolina grain dish</p>
+            <p className="text-sm italic mt-2 text-gray-500">Pronounced: koos-koos</p>
+            <div className="mt-3 pt-3 border-t border-gray-100">
+              <p className="text-sm text-gray-600"><span className="font-medium">Tradition:</span> Served on Fridays after prayer</p>
+            </div>
           </div>
           
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">Ma</p>
-            <p className="text-gray-600">Water</p>
-            <p className="text-sm italic mt-2">Pronounced: ma</p>
+          <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
+            <div className="flex justify-between">
+              <p className="font-bold text-lg text-gray-900">Pastilla</p>
+              <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Specialty</span>
+            </div>
+            <p className="text-gray-600">Sweet and savory pastry</p>
+            <p className="text-sm italic mt-2 text-gray-500">Pronounced: pas-tee-ya</p>
+            <div className="mt-3 pt-3 border-t border-gray-100">
+              <p className="text-sm text-gray-600"><span className="font-medium">Filling:</span> Usually pigeon, chicken, or seafood</p>
+            </div>
           </div>
           
-          <div className="border rounded-lg p-4">
-            <p className="font-bold text-lg">3asir</p>
-            <p className="text-gray-600">Juice</p>
-            <p className="text-sm italic mt-2">Pronounced: a-seer</p>
+          <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
+            <div className="flex justify-between">
+              <p className="font-bold text-lg text-gray-900">Harira</p>
+              <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Soup</span>
+            </div>
+            <p className="text-gray-600">Traditional tomato-based soup</p>
+            <p className="text-sm italic mt-2 text-gray-500">Pronounced: ha-ree-ra</p>
+            <div className="mt-3 pt-3 border-t border-gray-100">
+              <p className="text-sm text-gray-600"><span className="font-medium">When:</span> Popular during Ramadan for iftar</p>
+            </div>
+          </div>
+          
+          <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
+            <div className="flex justify-between">
+              <p className="font-bold text-lg text-gray-900">Kefta</p>
+              <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Meat</span>
+            </div>
+            <p className="text-gray-600">Spiced meatballs or kebabs</p>
+            <p className="text-sm italic mt-2 text-gray-500">Pronounced: kef-ta</p>
+            <div className="mt-3 pt-3 border-t border-gray-100">
+              <p className="text-sm text-gray-600"><span className="font-medium">Style:</span> Grilled, in tajine, or with eggs</p>
+            </div>
+          </div>
+          
+          <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
+            <div className="flex justify-between">
+              <p className="font-bold text-lg text-gray-900">Khobz</p>
+              <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Bread</span>
+            </div>
+            <p className="text-gray-600">Traditional round flatbread</p>
+            <p className="text-sm italic mt-2 text-gray-500">Pronounced: kh-obz</p>
+            <div className="mt-3 pt-3 border-t border-gray-100">
+              <p className="text-sm text-gray-600"><span className="font-medium">Usage:</span> Eaten with every meal</p>
+            </div>
           </div>
         </div>
       </div>
       
-      <div className="mb-8">
-        <h2 className="text-2xl font-semibold mb-4">Restaurant Phrases</h2>
+      {/* Beverages & Drinks */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Beverages & Drinks
+        </h2>
         
-        <div className="bg-white shadow-sm rounded-lg p-6 mb-6">
-          <p className="font-bold mb-2">Bghit menu, afak. (I would like a menu, please.)</p>
-          <p className="text-gray-600">Asking for a menu</p>
-          <p className="text-sm italic mt-2">Pronounced: b-gheet men-u, a-fak</p>
-        </div>
+        <p className="text-gray-700 mb-6">Essential drinks you'll encounter in Moroccan cafes, restaurants, and homes.</p>
         
-        <div className="bg-white shadow-sm rounded-lg p-6 mb-6">
-          <p className="font-bold mb-2">Shnu katqtereh? (What do you recommend?)</p>
-          <p className="text-gray-600">Asking for recommendations</p>
-          <p className="text-sm italic mt-2">Pronounced: sh-nu kat-q-ter-eh</p>
-        </div>
-        
-        <div className="bg-white shadow-sm rounded-lg p-6 mb-6">
-          <p className="font-bold mb-2">L-hsab, afak. (The bill, please.)</p>
-          <p className="text-gray-600">Asking for the check</p>
-          <p className="text-sm italic mt-2">Pronounced: l-hsab, a-fak</p>
-        </div>
-        
-        <div className="bg-white shadow-sm rounded-lg p-6">
-          <p className="font-bold mb-2">Bshha. (Enjoy your meal.)</p>
-          <p className="text-gray-600">Wishing someone a good meal</p>
-          <p className="text-sm italic mt-2">Pronounced: b-sh-ha</p>
-        </div>
-      </div>
-      
-      <div className="bg-gray-50 p-6 rounded-lg mb-8">
-        <h2 className="text-xl font-semibold mb-3">Practice Conversation</h2>
         <div className="space-y-4">
-          <div>
-            <p className="font-medium">Customer:</p>
-            <p className="pl-4">Sbah l-khir. Bghit menu, afak. (Good morning. I would like a menu, please.)</p>
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div>
+                <p className="font-medium text-lg mb-2">Atay (أتاي)</p>
+                <p className="text-gray-600 mb-1">Moroccan mint tea</p>
+                <p className="text-sm italic text-gray-500">Pronounced: ah-tie</p>
+              </div>
+              <div>
+                <p className="font-medium text-lg mb-2">Qahwa</p>
+                <p className="text-gray-600 mb-1">Coffee</p>
+                <p className="text-sm italic text-gray-500">Pronounced: qah-wa</p>
+              </div>
+            </div>
           </div>
-          <div>
-            <p className="font-medium">Waiter:</p>
-            <p className="pl-4">Tfaddal. Shnu bghiti tshreb? (Here you are. What would you like to drink?)</p>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div>
+                <p className="font-medium text-lg mb-2">Ma</p>
+                <p className="text-gray-600 mb-1">Water</p>
+                <p className="text-sm italic text-gray-500">Pronounced: mah</p>
+              </div>
+              <div>
+                <p className="font-medium text-lg mb-2">3asir</p>
+                <p className="text-gray-600 mb-1">Fresh juice</p>
+                <p className="text-sm italic text-gray-500">Pronounced: ah-seer</p>
+              </div>
+            </div>
           </div>
-          <div>
-            <p className="font-medium">Customer:</p>
-            <p className="pl-4">Bghit atay b n3na3, afak. (I would like mint tea, please.)</p>
-          </div>
-          <div>
-            <p className="font-medium">Waiter:</p>
-            <p className="pl-4">Waخa. U shnu bghiti takul? (Okay. And what would you like to eat?)</p>
-          </div>
-          <div>
-            <p className="font-medium">Customer:</p>
-            <p className="pl-4">Bghit tajine d djaj, afak. (I would like chicken tajine, please.)</p>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div>
+                <p className="font-medium text-lg mb-2">Lben</p>
+                <p className="text-gray-600 mb-1">Buttermilk</p>
+                <p className="text-sm italic text-gray-500">Pronounced: l-ben</p>
+              </div>
+              <div>
+                <p className="font-medium text-lg mb-2">Coca</p>
+                <p className="text-gray-600 mb-1">Coca-Cola / Soda</p>
+                <p className="text-sm italic text-gray-500">Pronounced: ko-ka</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       
-      <div className="mt-8 flex justify-between">
-        <Link href="/lessons/beginner-four" className="bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-2 px-4 rounded transition-colors duration-300 flex items-center">
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
-            <path fillRule="evenodd" d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z" clipRule="evenodd" />
-          </svg>
-          Previous Lesson
-        </Link>
-        <Link href="/lessons" className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded transition-colors duration-300 flex items-center">
-          Back to All Lessons
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1" viewBox="0 0 20 20" fill="currentColor">
-            <path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd" />
-          </svg>
-        </Link>
+      {/* Restaurant Phrases */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Restaurant Phrases
+        </h2>
+        
+        <div className="space-y-4">
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <p className="font-medium text-lg mb-2">Bghit nshuf l-menu (I want to see the menu)</p>
+            <p className="text-gray-600 mb-1">Asking for the menu</p>
+            <p className="text-sm italic text-gray-500">Pronounced: bghit n-shoof l-me-noo</p>
+          </div>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <p className="font-medium text-lg mb-2">Ash katnsah? (What do you recommend?)</p>
+            <p className="text-gray-600 mb-1">Asking for recommendations</p>
+            <p className="text-sm italic text-gray-500">Pronounced: ash kat-n-sah</p>
+          </div>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <p className="font-medium text-lg mb-2">Bghit tajine djaj (I want chicken tajine)</p>
+            <p className="text-gray-600 mb-1">Ordering a specific dish</p>
+            <p className="text-sm italic text-gray-500">Pronounced: bghit ta-jeen d-jaj</p>
+          </div>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <p className="font-medium text-lg mb-2">Bla harr, afak (Not spicy, please)</p>
+            <p className="text-gray-600 mb-1">Requesting no spice</p>
+            <p className="text-sm italic text-gray-500">Pronounced: bla har, ah-fak</p>
+          </div>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <p className="font-medium text-lg mb-2">L-7sab, afak (The bill, please)</p>
+            <p className="text-gray-600 mb-1">Asking for the check</p>
+            <p className="text-sm italic text-gray-500">Pronounced: l-h-sab, ah-fak</p>
+          </div>
+        </div>
       </div>
-    </div>
+      
+      {/* Market Shopping */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Market Shopping
+        </h2>
+        
+        <div className="bg-white border border-green-200 rounded-lg p-6">
+          <h3 className="text-lg font-medium mb-4 text-green-800">Essential Market Phrases:</h3>
+          
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="p-3 bg-green-50 rounded-md">
+              <p className="font-medium">Bsh7al hada?</p>
+              <p className="text-gray-700 text-sm">How much is this?</p>
+            </div>
+            <div className="p-3 bg-green-50 rounded-md">
+              <p className="font-medium">Ghali bzaf</p>
+              <p className="text-gray-700 text-sm">Too expensive</p>
+            </div>
+            <div className="p-3 bg-green-50 rounded-md">
+              <p className="font-medium">3tini kilo</p>
+              <p className="text-gray-700 text-sm">Give me a kilo</p>
+            </div>
+            <div className="p-3 bg-green-50 rounded-md">
+              <p className="font-medium">Wash 3andek...?</p>
+              <p className="text-gray-700 text-sm">Do you have...?</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      {/* Common Ingredients */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Common Ingredients
+        </h2>
+        
+        <div className="space-y-4">
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <h4 className="font-medium text-gray-800 mb-3">Vegetables (Khodar)</h4>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-sm">
+              <div><span className="font-medium">Basal</span> - Onions</div>
+              <div><span className="font-medium">Matisha</span> - Tomatoes</div>
+              <div><span className="font-medium">Khizzu</span> - Carrots</div>
+              <div><span className="font-medium">Batata</span> - Potatoes</div>
+              <div><span className="font-medium">Felfel</span> - Peppers</div>
+              <div><span className="font-medium">Khass</span> - Lettuce</div>
+            </div>
+          </div>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <h4 className="font-medium text-gray-800 mb-3">Fruits (Fawakeh)</h4>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-sm">
+              <div><span className="font-medium">Tuffah</span> - Apples</div>
+              <div><span className="font-medium">Moz</span> - Bananas</div>
+              <div><span className="font-medium">Burtuqal</span> - Oranges</div>
+              <div><span className="font-medium">Inab</span> - Grapes</div>
+              <div><span className="font-medium">Tin</span> - Figs</div>
+              <div><span className="font-medium">Dellah</span> - Watermelon</div>
+            </div>
+          </div>
+          
+          <div className="bg-white border border-green-200 rounded-lg p-5">
+            <h4 className="font-medium text-gray-800 mb-3">Spices (Tawabel)</h4>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-sm">
+              <div><span className="font-medium">Kamun</span> - Cumin</div>
+              <div><span className="font-medium">Qirfa</span> - Cinnamon</div>
+              <div><span className="font-medium">Zanjabil</span> - Ginger</div>
+              <div><span className="font-medium">Ras el hanout</span> - Spice mix</div>
+              <div><span className="font-medium">Harissa</span> - Hot sauce</div>
+              <div><span className="font-medium">Za3tar</span> - Herb mix</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      {/* Dining Conversations */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Dining Conversations
+        </h2>
+        
+        <div className="bg-white border border-green-200 rounded-lg p-6">
+          <h3 className="text-lg font-medium mb-4 text-green-800">Restaurant Scenarios:</h3>
+          
+          <div className="space-y-6">
+            <div className="border-l-4 border-green-400 pl-4">
+              <h4 className="font-medium text-gray-800 mb-2">Ordering at a Restaurant</h4>
+              <div className="space-y-2 text-sm">
+                <p><span className="font-medium">Waiter:</span> "Ahlan wa sahlan! Ash bghiti?" (Welcome! What would you like?)</p>
+                <p><span className="font-medium">You:</span> "Bghit tajine kefta, afak" (I want kefta tajine, please)</p>
+                <p><span className="font-medium">Waiter:</span> "Wash bghiti atay?" (Would you like tea?)</p>
+                <p><span className="font-medium">You:</span> "Ah, atay bi na3na3" (Yes, mint tea)</p>
+              </div>
+            </div>
+            
+            <div className="border-l-4 border-blue-400 pl-4">
+              <h4 className="font-medium text-gray-800 mb-2">At the Market</h4>
+              <div className="space-y-2 text-sm">
+                <p><span className="font-medium">Vendor:</span> "Ash bghiti, a lalla?" (What do you want, madam?)</p>
+                <p><span className="font-medium">You:</span> "3tini kilo matisha" (Give me a kilo of tomatoes)</p>
+                <p><span className="font-medium">Vendor:</span> "Hadi zina bzaf!" (These are very good!)</p>
+                <p><span className="font-medium">You:</span> "Bsh7al?" (How much?)</p>
+              </div>
+            </div>
+            
+            <div className="border-l-4 border-yellow-400 pl-4">
+              <h4 className="font-medium text-gray-800 mb-2">Complimenting Food</h4>
+              <div className="space-y-2 text-sm">
+                <p><span className="font-medium">Host:</span> "Kifash l-makla?" (How is the food?)</p>
+                <p><span className="font-medium">You:</span> "Bnina bzaf! Shukran" (Very delicious! Thank you)</p>
+                <p><span className="font-medium">Host:</span> "Kul aktar!" (Eat more!)</p>
+                <p><span className="font-medium">You:</span> "Shb3t, shukran" (I'm full, thank you)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      {/* Cultural Tips */}
+      <div className="mb-6">
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800 flex items-center">
+          <div className="h-8 w-1.5 bg-green-500 rounded-full mr-3"></div>
+          Cultural Tips
+        </h2>
+        
+        <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
+          <ul className="space-y-3">
+            <li className="flex items-start">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-yellow-600 mr-2 mt-0.5" viewBox="0 0 20 20" fill="currentColor">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+              </svg>
+              <p className="text-gray-700">Bread is sacred in Moroccan culture - never throw it away or let it touch the ground</p>
+            </li>
+            <li className="flex items-start">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-yellow-600 mr-2 mt-0.5" viewBox="0 0 20 20" fill="currentColor">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+              </svg>
+              <p className="text-gray-700">Mint tea is offered as a sign of hospitality - it's polite to accept at least one glass</p>
+            </li>
+            <li className="flex items-start">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-yellow-600 mr-2 mt-0.5" viewBox="0 0 20 20" fill="currentColor">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+              </svg>
+              <p className="text-gray-700">Bargaining is expected in markets - start at about half the asking price and negotiate respectfully</p>
+            </li>
+            <li className="flex items-start">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-yellow-600 mr-2 mt-0.5" viewBox="0 0 20 20" fill="currentColor">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+              </svg>
+              <p className="text-gray-700">Eating with your right hand is traditional - the left hand is considered unclean</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </LessonLayout>
   );
 }
