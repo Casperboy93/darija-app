@@ -3,7 +3,7 @@ import BeginnerCard from '../levelcomps/BeginnerCard';
 import MediumCard from '../levelcomps/MediumCard';
 import AdvancedCard from '../levelcomps/AdvancedCard';
 
-const FeaturedLessons: React.FC = () => {
+const FeaturedLevels: React.FC = () => {
   return (
     <section className="py-12 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -18,4 +18,4 @@ const FeaturedLessons: React.FC = () => {
   );
 };
 
-export default FeaturedLessons;
+export default FeaturedLevels;
