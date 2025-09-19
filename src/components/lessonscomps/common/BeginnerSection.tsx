@@ -6,38 +6,73 @@ import LessonCard from './LessonCard';
 const beginnerLessons = [
   {
     id: 1,
-    title: "Basic Greetings & Introductions",
-    description: "Learn essential Darija greetings and how to introduce yourself in everyday situations.",
-    timeNeeded: "20 min",
+    title: "Greetings and Introductions",
+    description: "Learn essential greetings, how to introduce yourself, and basic polite expressions in Darija.",
+    timeNeeded: "15 min",
     slug: "beginner-one"
   },
   {
     id: 2,
-    title: "Numbers & Counting",
-    description: "Master numbers in Darija and learn how to count, tell time, and discuss prices.",
-    timeNeeded: "25 min",
+    title: "Numbers and Counting",
+    description: "Master numbers from 1-100, learn to tell time, and practice counting in everyday situations.",
+    timeNeeded: "20 min",
     slug: "beginner-two"
   },
   {
     id: 3,
-    title: "Family & Relationships",
-    description: "Learn vocabulary for family members and how to discuss relationships in Darija.",
-    timeNeeded: "30 min",
+    title: "Basic Phrases",
+    description: "Essential everyday phrases for shopping, asking for help, expressing gratitude, and common interactions.",
+    timeNeeded: "18 min",
     slug: "beginner-three"
   },
   {
     id: 4,
-    title: "Food & Dining",
-    description: "Discover Moroccan food vocabulary and phrases for ordering in restaurants.",
-    timeNeeded: "25 min",
+    title: "Family and Relations",
+    description: "Learn vocabulary for family members, relationships, and how to talk about your loved ones.",
+    timeNeeded: "22 min",
     slug: "beginner-four"
   },
   {
     id: 5,
-    title: "Daily Routines",
-    description: "Learn how to describe your daily activities and routines in Darija.",
-    timeNeeded: "30 min",
+    title: "Food and Dining",
+    description: "Discover Moroccan cuisine vocabulary, restaurant phrases, and dining etiquette.",
+    timeNeeded: "25 min",
     slug: "beginner-five"
+  },
+  {
+    id: 6,
+    title: "Shopping and Markets",
+    description: "Navigate Moroccan markets and shops with essential vocabulary for buying and bargaining.",
+    timeNeeded: "20 min",
+    slug: "beginner-six"
+  },
+  {
+    id: 7,
+    title: "Transportation and Directions",
+    description: "Learn how to ask for directions, use public transport, and navigate Moroccan cities.",
+    timeNeeded: "23 min",
+    slug: "beginner-seven"
+  },
+  {
+    id: 8,
+    title: "Food and Dining",
+    description: "Discover Moroccan cuisine and learn essential vocabulary for ordering food, dining out, and discussing meals.",
+    timeNeeded: "25 min",
+    slug: "beginner-eight"
+  },
+  {
+    id: 9,
+    title: "Weather and Seasons",
+    description: "Learn to describe weather conditions, seasons, and climate in Morocco for daily conversations.",
+    timeNeeded: "20 min",
+    slug: "beginner-nine"
+  },
+  {
+    id: 10,
+    title: "Health and Body Parts",
+    description: "Essential vocabulary for health, body parts, medical situations, and wellness conversations.",
+    timeNeeded: "22 min",
+    slug: "beginner-ten"
   }
 ];
 

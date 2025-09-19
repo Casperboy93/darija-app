@@ -6,38 +6,73 @@ import LessonCard from './LessonCard';
 const intermediateLessons = [
   {
     id: 1,
-    title: "Travel & Directions",
-    description: "Learn how to navigate Morocco, ask for directions, and discuss travel plans in Darija.",
+    title: "Past Tense",
+    description: "Learn how to form and use the past tense in Darija to talk about completed actions and events.",
     timeNeeded: "35 min",
     slug: "intermediate-one"
   },
   {
     id: 2,
-    title: "Shopping & Bargaining",
-    description: "Master the art of bargaining and learn essential shopping vocabulary in Moroccan markets.",
+    title: "Future Tense",
+    description: "Master the future tense in Darija to express plans, intentions, and predictions about upcoming events.",
     timeNeeded: "30 min",
     slug: "intermediate-two"
   },
   {
     id: 3,
-    title: "Health & Wellness",
-    description: "Learn how to discuss health concerns, visit a pharmacy, and describe symptoms in Darija.",
+    title: "Conditional Forms",
+    description: "Master conditional forms to express hypothetical situations, possibilities, and cause-and-effect relationships.",
     timeNeeded: "40 min",
     slug: "intermediate-three"
   },
   {
     id: 4,
-    title: "Work & Professional Life",
-    description: "Discover vocabulary and phrases for workplace communication and professional settings.",
+    title: "Comparative Forms",
+    description: "Learn to compare people, objects, and qualities using proper comparative and superlative structures.",
     timeNeeded: "35 min",
     slug: "intermediate-four"
   },
   {
     id: 5,
-    title: "Celebrations & Traditions",
-    description: "Learn about Moroccan celebrations and how to participate in cultural traditions using Darija.",
+    title: "Expressing Opinions",
+    description: "Master the art of expressing opinions, preferences, and thoughts while engaging in meaningful conversations.",
     timeNeeded: "40 min",
     slug: "intermediate-five"
+  },
+  {
+    id: 6,
+    title: "Travel and Directions",
+    description: "Learn advanced travel vocabulary, navigation skills, and how to discuss complex travel plans in Morocco.",
+    timeNeeded: "35 min",
+    slug: "intermediate-six"
+  },
+  {
+    id: 7,
+    title: "Shopping and Bargaining",
+    description: "Master advanced shopping vocabulary, negotiation techniques, and cultural aspects of Moroccan markets.",
+    timeNeeded: "40 min",
+    slug: "intermediate-seven"
+  },
+  {
+    id: 8,
+    title: "Health and Wellness",
+    description: "Learn comprehensive health vocabulary, medical conversations, and wellness discussions in Darija.",
+    timeNeeded: "35 min",
+    slug: "intermediate-eight"
+  },
+  {
+    id: 9,
+    title: "Work and Professional Life",
+    description: "Discover advanced workplace vocabulary and professional communication skills in Moroccan business settings.",
+    timeNeeded: "40 min",
+    slug: "intermediate-nine"
+  },
+  {
+    id: 10,
+    title: "Celebrations and Traditions",
+    description: "Learn about Moroccan celebrations, cultural traditions, and how to participate using advanced Darija.",
+    timeNeeded: "45 min",
+    slug: "intermediate-ten"
   }
 ];
 

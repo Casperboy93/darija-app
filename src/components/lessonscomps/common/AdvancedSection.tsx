@@ -38,6 +38,41 @@ const advancedLessons = [
     description: "Learn advanced vocabulary for discussing current events, technology, and media in Darija.",
     timeNeeded: "40 min",
     slug: "advanced-five"
+  },
+  {
+    id: 6,
+    title: "Professional Communication",
+    description: "Master business Darija for professional settings, meetings, and formal communications.",
+    timeNeeded: "50 min",
+    slug: "advanced-six"
+  },
+  {
+    id: 7,
+    title: "Academic & Intellectual Discourse",
+    description: "Engage in sophisticated academic discussions and express complex intellectual concepts.",
+    timeNeeded: "55 min",
+    slug: "advanced-seven"
+  },
+  {
+    id: 8,
+    title: "Storytelling & Narrative Mastery",
+    description: "Perfect the art of storytelling with rich vocabulary and traditional narrative techniques.",
+    timeNeeded: "45 min",
+    slug: "advanced-eight"
+  },
+  {
+    id: 9,
+    title: "Philosophy & Abstract Thinking",
+    description: "Explore philosophical concepts and engage in deep, abstract conversations in Darija.",
+    timeNeeded: "60 min",
+    slug: "advanced-nine"
+  },
+  {
+    id: 10,
+    title: "Mastery & Fluency Assessment",
+    description: "Comprehensive assessment to evaluate your complete mastery of Moroccan Darija.",
+    timeNeeded: "75 min",
+    slug: "advanced-ten"
   }
 ];
 
