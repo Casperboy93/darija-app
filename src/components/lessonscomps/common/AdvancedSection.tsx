@@ -73,6 +73,76 @@ const advancedLessons = [
     description: "Comprehensive assessment to evaluate your complete mastery of Moroccan Darija.",
     timeNeeded: "75 min",
     slug: "advanced-ten"
+  },
+  {
+    id: 11,
+    title: "Literary and Poetic Expression",
+    description: "Master the art of literary expression and classical poetry in Darija with sophisticated vocabulary.",
+    timeNeeded: "50 min",
+    slug: "advanced-eleven"
+  },
+  {
+    id: 12,
+    title: "Diplomatic and Formal Communication",
+    description: "Learn formal diplomatic language, official correspondence, and high-level negotiation skills.",
+    timeNeeded: "55 min",
+    slug: "advanced-twelve"
+  },
+  {
+    id: 13,
+    title: "Scientific and Technical Discourse",
+    description: "Engage in scientific discussions and master technical terminology across various fields.",
+    timeNeeded: "60 min",
+    slug: "advanced-thirteen"
+  },
+  {
+    id: 14,
+    title: "Media and Journalism",
+    description: "Master media language, news reporting, and journalistic writing in professional contexts.",
+    timeNeeded: "45 min",
+    slug: "advanced-fourteen"
+  },
+  {
+    id: 15,
+    title: "Philosophy and Ethics",
+    description: "Explore deep philosophical concepts and ethical discussions with advanced vocabulary.",
+    timeNeeded: "65 min",
+    slug: "advanced-fifteen"
+  },
+  {
+    id: 16,
+    title: "International Relations and Diplomacy",
+    description: "Navigate complex international relations and diplomatic protocols with confidence.",
+    timeNeeded: "55 min",
+    slug: "advanced-sixteen"
+  },
+  {
+    id: 17,
+    title: "Environmental Science and Sustainability",
+    description: "Discuss environmental issues, climate change, and sustainability with expert-level vocabulary.",
+    timeNeeded: "50 min",
+    slug: "advanced-seventeen"
+  },
+  {
+    id: 18,
+    title: "Healthcare and Medical Research",
+    description: "Master medical terminology and engage in healthcare discussions at a professional level.",
+    timeNeeded: "60 min",
+    slug: "advanced-eighteen"
+  },
+  {
+    id: 19,
+    title: "Artificial Intelligence and Technology",
+    description: "Navigate cutting-edge technology discussions including AI, robotics, and emerging innovations.",
+    timeNeeded: "55 min",
+    slug: "advanced-nineteen"
+  },
+  {
+    id: 20,
+    title: "Global Leadership and Cross-Cultural Communication",
+    description: "Master global leadership skills and cross-cultural communication for international contexts.",
+    timeNeeded: "70 min",
+    slug: "advanced-twenty"
   }
 ];
 

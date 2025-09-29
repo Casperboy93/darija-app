@@ -7,72 +7,142 @@ const intermediateLessons = [
   {
     id: 1,
     title: "Past Tense",
-    description: "Learn how to form and use the past tense in Darija to talk about completed actions and events.",
-    timeNeeded: "35 min",
+    description: "Learn how to talk about past events and experiences in Darija",
+    timeNeeded: "25 min",
     slug: "intermediate-one"
   },
   {
     id: 2,
     title: "Future Tense",
-    description: "Master the future tense in Darija to express plans, intentions, and predictions about upcoming events.",
-    timeNeeded: "30 min",
+    description: "Express future plans and intentions using Darija future tense",
+    timeNeeded: "25 min",
     slug: "intermediate-two"
   },
   {
     id: 3,
-    title: "Conditional Forms",
-    description: "Master conditional forms to express hypothetical situations, possibilities, and cause-and-effect relationships.",
-    timeNeeded: "40 min",
+    title: "Complex Sentences",
+    description: "Build sophisticated sentences with multiple clauses",
+    timeNeeded: "30 min",
     slug: "intermediate-three"
   },
   {
     id: 4,
-    title: "Comparative Forms",
-    description: "Learn to compare people, objects, and qualities using proper comparative and superlative structures.",
-    timeNeeded: "35 min",
+    title: "Emotions and Feelings",
+    description: "Express complex emotions and psychological states",
+    timeNeeded: "25 min",
     slug: "intermediate-four"
   },
   {
     id: 5,
-    title: "Expressing Opinions",
-    description: "Master the art of expressing opinions, preferences, and thoughts while engaging in meaningful conversations.",
-    timeNeeded: "40 min",
+    title: "Giving Advice",
+    description: "Learn to give and receive advice in various situations",
+    timeNeeded: "25 min",
     slug: "intermediate-five"
   },
   {
     id: 6,
-    title: "Travel and Directions",
-    description: "Learn advanced travel vocabulary, navigation skills, and how to discuss complex travel plans in Morocco.",
-    timeNeeded: "35 min",
+    title: "Describing People",
+    description: "Detailed descriptions of personality and physical appearance",
+    timeNeeded: "30 min",
     slug: "intermediate-six"
   },
   {
     id: 7,
-    title: "Shopping and Bargaining",
-    description: "Master advanced shopping vocabulary, negotiation techniques, and cultural aspects of Moroccan markets.",
-    timeNeeded: "40 min",
+    title: "Making Complaints",
+    description: "Express dissatisfaction and make formal complaints",
+    timeNeeded: "25 min",
     slug: "intermediate-seven"
   },
   {
     id: 8,
-    title: "Health and Wellness",
-    description: "Learn comprehensive health vocabulary, medical conversations, and wellness discussions in Darija.",
+    title: "Storytelling",
+    description: "Learn narrative techniques and storytelling in Darija",
     timeNeeded: "35 min",
     slug: "intermediate-eight"
   },
   {
     id: 9,
-    title: "Work and Professional Life",
-    description: "Discover advanced workplace vocabulary and professional communication skills in Moroccan business settings.",
-    timeNeeded: "40 min",
+    title: "Conditional Sentences",
+    description: "Master if-then statements and hypothetical situations",
+    timeNeeded: "30 min",
     slug: "intermediate-nine"
   },
   {
     id: 10,
-    title: "Celebrations and Traditions",
-    description: "Learn about Moroccan celebrations, cultural traditions, and how to participate using advanced Darija.",
-    timeNeeded: "45 min",
+    title: "Cultural Discussions",
+    description: "Engage in conversations about Moroccan culture and traditions",
+    timeNeeded: "35 min",
     slug: "intermediate-ten"
+  },
+  {
+    id: 11,
+    title: "Advanced Grammar Structures",
+    description: "Master complex grammatical patterns and advanced sentence structures",
+    timeNeeded: "40 min",
+    slug: "intermediate-eleven"
+  },
+  {
+    id: 12,
+    title: "Business and Professional Communication",
+    description: "Learn formal language for workplace and business interactions",
+    timeNeeded: "35 min",
+    slug: "intermediate-twelve"
+  },
+  {
+    id: 13,
+    title: "Cultural Customs and Etiquette",
+    description: "Understand social norms, customs, and proper etiquette in Morocco",
+    timeNeeded: "30 min",
+    slug: "intermediate-thirteen"
+  },
+  {
+    id: 14,
+    title: "Advanced Conversation Skills",
+    description: "Develop sophisticated discussion and debate techniques",
+    timeNeeded: "40 min",
+    slug: "intermediate-fourteen"
+  },
+  {
+    id: 15,
+    title: "Media and Technology",
+    description: "Navigate modern technology and media discussions in Darija",
+    timeNeeded: "35 min",
+    slug: "intermediate-fifteen"
+  },
+  {
+    id: 16,
+    title: "Travel and Tourism",
+    description: "Master travel vocabulary and tourist interactions in Morocco",
+    timeNeeded: "35 min",
+    slug: "intermediate-sixteen"
+  },
+  {
+    id: 17,
+    title: "Education and Learning",
+    description: "Discuss academic topics, learning methods, and educational systems",
+    timeNeeded: "35 min",
+    slug: "intermediate-seventeen"
+  },
+  {
+    id: 18,
+    title: "Environment and Nature",
+    description: "Learn vocabulary for environmental topics and nature conservation",
+    timeNeeded: "35 min",
+    slug: "intermediate-eighteen"
+  },
+  {
+    id: 19,
+    title: "Politics and Current Events",
+    description: "Engage in political discussions and current affairs conversations",
+    timeNeeded: "40 min",
+    slug: "intermediate-nineteen"
+  },
+  {
+    id: 20,
+    title: "Advanced Cultural Topics",
+    description: "Explore sophisticated cultural concepts and philosophical discussions",
+    timeNeeded: "45 min",
+    slug: "intermediate-twenty"
   }
 ];
 

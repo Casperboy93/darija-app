@@ -2,26 +2,46 @@
 
 import React from 'react';
 import { useParams } from 'next/navigation';
-import BeginnerOne from '@/components/lessonscomps/beginner/BeginnerOne';
-import BeginnerTwo from '@/components/lessonscomps/beginner/BeginnerTwo';
-import BeginnerThree from '@/components/lessonscomps/beginner/BeginnerThree';
-import BeginnerFour from '@/components/lessonscomps/beginner/BeginnerFour';
-import BeginnerFive from '@/components/lessonscomps/beginner/BeginnerFive';
-import BeginnerSix from '@/components/lessonscomps/beginner/BeginnerSix';
-import BeginnerSeven from '@/components/lessonscomps/beginner/BeginnerSeven';
-import BeginnerEight from '@/components/lessonscomps/beginner/BeginnerEight';
-import BeginnerNine from '@/components/lessonscomps/beginner/BeginnerNine';
-import BeginnerTen from '@/components/lessonscomps/beginner/BeginnerTen';
-import IntermediateOne from '@/components/lessonscomps/medium/IntermediateOne';
-import IntermediateTwo from '@/components/lessonscomps/medium/IntermediateTwo';
-import IntermediateThree from '@/components/lessonscomps/medium/IntermediateThree';
-import IntermediateFour from '@/components/lessonscomps/medium/IntermediateFour';
-import IntermediateFive from '@/components/lessonscomps/medium/IntermediateFive';
-import IntermediateSix from '@/components/lessonscomps/medium/IntermediateSix';
-import IntermediateSeven from '@/components/lessonscomps/medium/IntermediateSeven';
-import IntermediateEight from '@/components/lessonscomps/medium/IntermediateEight';
-import IntermediateNine from '@/components/lessonscomps/medium/IntermediateNine';
-import IntermediateTen from '@/components/lessonscomps/medium/IntermediateTen';
+import BeginnerOne from '@/components/lessonscomps/beginner/courses/BeginnerOne';
+import BeginnerTwo from '@/components/lessonscomps/beginner/courses/BeginnerTwo';
+import BeginnerThree from '@/components/lessonscomps/beginner/courses/BeginnerThree';
+import BeginnerFour from '@/components/lessonscomps/beginner/courses/BeginnerFour';
+import BeginnerFive from '@/components/lessonscomps/beginner/courses/BeginnerFive';
+import BeginnerSix from '@/components/lessonscomps/beginner/courses/BeginnerSix';
+import BeginnerSeven from '@/components/lessonscomps/beginner/courses/BeginnerSeven';
+import BeginnerEight from '@/components/lessonscomps/beginner/courses/BeginnerEight';
+import BeginnerNine from '@/components/lessonscomps/beginner/courses/BeginnerNine';
+import BeginnerTen from '@/components/lessonscomps/beginner/courses/BeginnerTen';
+import BeginnerEleven from '@/components/lessonscomps/beginner/courses/BeginnerEleven';
+import BeginnerTwelve from '@/components/lessonscomps/beginner/courses/BeginnerTwelve';
+import BeginnerThirteen from '@/components/lessonscomps/beginner/courses/BeginnerThirteen';
+import BeginnerFourteen from '@/components/lessonscomps/beginner/courses/BeginnerFourteen';
+import BeginnerFifteen from '@/components/lessonscomps/beginner/courses/BeginnerFifteen';
+import BeginnerSixteen from '@/components/lessonscomps/beginner/courses/BeginnerSixteen';
+import BeginnerSeventeen from '@/components/lessonscomps/beginner/courses/BeginnerSeventeen';
+import BeginnerEighteen from '@/components/lessonscomps/beginner/courses/BeginnerEighteen';
+import BeginnerNineteen from '@/components/lessonscomps/beginner/courses/BeginnerNineteen';
+import BeginnerTwenty from '@/components/lessonscomps/beginner/courses/BeginnerTwenty';
+import IntermediateOne from '@/components/lessonscomps/medium/courses/IntermediateOne';
+import IntermediateTwo from '@/components/lessonscomps/medium/courses/IntermediateTwo';
+import IntermediateThree from '@/components/lessonscomps/medium/courses/IntermediateThree';
+import IntermediateFour from '@/components/lessonscomps/medium/courses/IntermediateFour';
+import IntermediateFive from '@/components/lessonscomps/medium/courses/IntermediateFive';
+import IntermediateSix from '@/components/lessonscomps/medium/courses/IntermediateSix';
+import IntermediateSeven from '@/components/lessonscomps/medium/courses/IntermediateSeven';
+import IntermediateEight from '@/components/lessonscomps/medium/courses/IntermediateEight';
+import IntermediateNine from '@/components/lessonscomps/medium/courses/IntermediateNine';
+import IntermediateTen from '@/components/lessonscomps/medium/courses/IntermediateTen';
+import IntermediateEleven from '@/components/lessonscomps/medium/courses/IntermediateEleven';
+import IntermediateTwelve from '@/components/lessonscomps/medium/courses/IntermediateTwelve';
+import IntermediateThirteen from '@/components/lessonscomps/medium/courses/IntermediateThirteen';
+import IntermediateFourteen from '@/components/lessonscomps/medium/courses/IntermediateFourteen';
+import IntermediateFifteen from '@/components/lessonscomps/medium/courses/IntermediateFifteen';
+import IntermediateSixteen from '@/components/lessonscomps/medium/courses/IntermediateSixteen';
+import IntermediateSeventeen from '@/components/lessonscomps/medium/courses/IntermediateSeventeen';
+import IntermediateEighteen from '@/components/lessonscomps/medium/courses/IntermediateEighteen';
+import IntermediateNineteen from '@/components/lessonscomps/medium/courses/IntermediateNineteen';
+import IntermediateTwenty from '@/components/lessonscomps/medium/courses/IntermediateTwenty';
 import AdvancedOne from '@/components/lessonscomps/advanced/AdvancedOne';
 import AdvancedTwo from '@/components/lessonscomps/advanced/AdvancedTwo';
 import AdvancedThree from '@/components/lessonscomps/advanced/AdvancedThree';
@@ -32,15 +52,31 @@ import AdvancedSeven from '@/components/lessonscomps/advanced/AdvancedSeven';
 import AdvancedEight from '@/components/lessonscomps/advanced/AdvancedEight';
 import AdvancedNine from '@/components/lessonscomps/advanced/AdvancedNine';
 import AdvancedTen from '@/components/lessonscomps/advanced/AdvancedTen';
+import AdvancedEleven from '@/components/lessonscomps/advanced/AdvancedEleven';
+import AdvancedTwelve from '@/components/lessonscomps/advanced/AdvancedTwelve';
+import AdvancedThirteen from '@/components/lessonscomps/advanced/AdvancedThirteen';
+import AdvancedFourteen from '@/components/lessonscomps/advanced/AdvancedFourteen';
+import AdvancedFifteen from '@/components/lessonscomps/advanced/AdvancedFifteen';
+import AdvancedSixteen from '@/components/lessonscomps/advanced/AdvancedSixteen';
+import AdvancedSeventeen from '@/components/lessonscomps/advanced/AdvancedSeventeen';
+import AdvancedEighteen from '@/components/lessonscomps/advanced/AdvancedEighteen';
+import AdvancedNineteen from '@/components/lessonscomps/advanced/AdvancedNineteen';
+import AdvancedTwenty from '@/components/lessonscomps/advanced/AdvancedTwenty';
 
 // Define valid slug types
 type LessonSlug = 
   | 'beginner-one' | 'beginner-two' | 'beginner-three' | 'beginner-four' | 'beginner-five'
   | 'beginner-six' | 'beginner-seven' | 'beginner-eight' | 'beginner-nine' | 'beginner-ten'
+  | 'beginner-eleven' | 'beginner-twelve' | 'beginner-thirteen' | 'beginner-fourteen' | 'beginner-fifteen'
+  | 'beginner-sixteen' | 'beginner-seventeen' | 'beginner-eighteen' | 'beginner-nineteen' | 'beginner-twenty'
   | 'intermediate-one' | 'intermediate-two' | 'intermediate-three' | 'intermediate-four' | 'intermediate-five'
   | 'intermediate-six' | 'intermediate-seven' | 'intermediate-eight' | 'intermediate-nine' | 'intermediate-ten'
+  | 'intermediate-eleven' | 'intermediate-twelve' | 'intermediate-thirteen' | 'intermediate-fourteen' | 'intermediate-fifteen'
+  | 'intermediate-sixteen' | 'intermediate-seventeen' | 'intermediate-eighteen' | 'intermediate-nineteen' | 'intermediate-twenty'
   | 'advanced-one' | 'advanced-two' | 'advanced-three' | 'advanced-four' | 'advanced-five'
-  | 'advanced-six' | 'advanced-seven' | 'advanced-eight' | 'advanced-nine' | 'advanced-ten';
+  | 'advanced-six' | 'advanced-seven' | 'advanced-eight' | 'advanced-nine' | 'advanced-ten'
+  | 'advanced-eleven' | 'advanced-twelve' | 'advanced-thirteen' | 'advanced-fourteen' | 'advanced-fifteen'
+  | 'advanced-sixteen' | 'advanced-seventeen' | 'advanced-eighteen' | 'advanced-nineteen' | 'advanced-twenty';
 
 export default function LessonPage() {
   const params = useParams();
@@ -58,6 +94,16 @@ export default function LessonPage() {
     'beginner-eight': BeginnerEight,
     'beginner-nine': BeginnerNine,
     'beginner-ten': BeginnerTen,
+    'beginner-eleven': BeginnerEleven,
+    'beginner-twelve': BeginnerTwelve,
+    'beginner-thirteen': BeginnerThirteen,
+    'beginner-fourteen': BeginnerFourteen,
+    'beginner-fifteen': BeginnerFifteen,
+    'beginner-sixteen': BeginnerSixteen,
+    'beginner-seventeen': BeginnerSeventeen,
+    'beginner-eighteen': BeginnerEighteen,
+    'beginner-nineteen': BeginnerNineteen,
+    'beginner-twenty': BeginnerTwenty,
     'intermediate-one': IntermediateOne,
     'intermediate-two': IntermediateTwo,
     'intermediate-three': IntermediateThree,
@@ -68,6 +114,16 @@ export default function LessonPage() {
     'intermediate-eight': IntermediateEight,
     'intermediate-nine': IntermediateNine,
     'intermediate-ten': IntermediateTen,
+    'intermediate-eleven': IntermediateEleven,
+    'intermediate-twelve': IntermediateTwelve,
+    'intermediate-thirteen': IntermediateThirteen,
+    'intermediate-fourteen': IntermediateFourteen,
+    'intermediate-fifteen': IntermediateFifteen,
+    'intermediate-sixteen': IntermediateSixteen,
+    'intermediate-seventeen': IntermediateSeventeen,
+    'intermediate-eighteen': IntermediateEighteen,
+    'intermediate-nineteen': IntermediateNineteen,
+    'intermediate-twenty': IntermediateTwenty,
     'advanced-one': AdvancedOne,
     'advanced-two': AdvancedTwo,
     'advanced-three': AdvancedThree,
@@ -78,6 +134,16 @@ export default function LessonPage() {
     'advanced-eight': AdvancedEight,
     'advanced-nine': AdvancedNine,
     'advanced-ten': AdvancedTen,
+    'advanced-eleven': AdvancedEleven,
+    'advanced-twelve': AdvancedTwelve,
+    'advanced-thirteen': AdvancedThirteen,
+    'advanced-fourteen': AdvancedFourteen,
+    'advanced-fifteen': AdvancedFifteen,
+    'advanced-sixteen': AdvancedSixteen,
+    'advanced-seventeen': AdvancedSeventeen,
+    'advanced-eighteen': AdvancedEighteen,
+    'advanced-nineteen': AdvancedNineteen,
+    'advanced-twenty': AdvancedTwenty,
   } as const;
   
   // Check if the slug is a valid key in our components map
