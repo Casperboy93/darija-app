@@ -22,6 +22,16 @@ import BeginnerSeventeen from '@/components/lessonscomps/beginner/courses/Beginn
 import BeginnerEighteen from '@/components/lessonscomps/beginner/courses/BeginnerEighteen';
 import BeginnerNineteen from '@/components/lessonscomps/beginner/courses/BeginnerNineteen';
 import BeginnerTwenty from '@/components/lessonscomps/beginner/courses/BeginnerTwenty';
+import BeginnerTwentyOne from '@/components/lessonscomps/beginner/courses/BeginnerTwentyOne';
+import BeginnerTwentyTwo from '@/components/lessonscomps/beginner/courses/BeginnerTwentyTwo';
+import BeginnerTwentyThree from '@/components/lessonscomps/beginner/courses/BeginnerTwentyThree';
+import BeginnerTwentyFour from '@/components/lessonscomps/beginner/courses/BeginnerTwentyFour';
+import BeginnerTwentyFive from '@/components/lessonscomps/beginner/courses/BeginnerTwentyFive';
+import BeginnerTwentySix from '@/components/lessonscomps/beginner/courses/BeginnerTwentySix';
+import BeginnerTwentySeven from '@/components/lessonscomps/beginner/courses/BeginnerTwentySeven';
+import BeginnerTwentyEight from '@/components/lessonscomps/beginner/courses/BeginnerTwentyEight';
+import BeginnerTwentyNine from '@/components/lessonscomps/beginner/courses/BeginnerTwentyNine';
+import BeginnerThirty from '@/components/lessonscomps/beginner/courses/BeginnerThirty';
 import IntermediateOne from '@/components/lessonscomps/medium/courses/IntermediateOne';
 import IntermediateTwo from '@/components/lessonscomps/medium/courses/IntermediateTwo';
 import IntermediateThree from '@/components/lessonscomps/medium/courses/IntermediateThree';
@@ -69,6 +79,8 @@ type LessonSlug =
   | 'beginner-six' | 'beginner-seven' | 'beginner-eight' | 'beginner-nine' | 'beginner-ten'
   | 'beginner-eleven' | 'beginner-twelve' | 'beginner-thirteen' | 'beginner-fourteen' | 'beginner-fifteen'
   | 'beginner-sixteen' | 'beginner-seventeen' | 'beginner-eighteen' | 'beginner-nineteen' | 'beginner-twenty'
+  | 'beginner-twenty-one' | 'beginner-twenty-two' | 'beginner-twenty-three' | 'beginner-twenty-four' | 'beginner-twenty-five'
+  | 'beginner-twenty-six' | 'beginner-twenty-seven' | 'beginner-twenty-eight' | 'beginner-twenty-nine' | 'beginner-thirty'
   | 'intermediate-one' | 'intermediate-two' | 'intermediate-three' | 'intermediate-four' | 'intermediate-five'
   | 'intermediate-six' | 'intermediate-seven' | 'intermediate-eight' | 'intermediate-nine' | 'intermediate-ten'
   | 'intermediate-eleven' | 'intermediate-twelve' | 'intermediate-thirteen' | 'intermediate-fourteen' | 'intermediate-fifteen'
@@ -104,6 +116,16 @@ export default function LessonPage() {
     'beginner-eighteen': BeginnerEighteen,
     'beginner-nineteen': BeginnerNineteen,
     'beginner-twenty': BeginnerTwenty,
+    'beginner-twenty-one': BeginnerTwentyOne,
+    'beginner-twenty-two': BeginnerTwentyTwo,
+    'beginner-twenty-three': BeginnerTwentyThree,
+    'beginner-twenty-four': BeginnerTwentyFour,
+    'beginner-twenty-five': BeginnerTwentyFive,
+    'beginner-twenty-six': BeginnerTwentySix,
+    'beginner-twenty-seven': BeginnerTwentySeven,
+    'beginner-twenty-eight': BeginnerTwentyEight,
+    'beginner-twenty-nine': BeginnerTwentyNine,
+    'beginner-thirty': BeginnerThirty,
     'intermediate-one': IntermediateOne,
     'intermediate-two': IntermediateTwo,
     'intermediate-three': IntermediateThree,
