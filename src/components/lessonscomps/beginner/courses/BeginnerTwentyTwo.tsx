@@ -6,9 +6,9 @@ import LessonOverview from '../coursecomps/twentytwo/LessonOverview';
 import TravelVocabulary from '../coursecomps/twentytwo/TravelVocabulary';
 import HotelAccommodation from '../coursecomps/twentytwo/HotelAccommodation';
 import TouristAttractions from '../coursecomps/twentytwo/TouristAttractions';
+import TravelDialogue from '../coursecomps/twentytwo/TravelDialogue';
 import TransportationTravel from '../coursecomps/twentytwo/TransportationTravel';
 import TravelPhrases from '../coursecomps/twentytwo/TravelPhrases';
-import TravelDialogue from '../coursecomps/twentytwo/TravelDialogue';
 
 export default function BeginnerTwentyTwo() {
   return (
