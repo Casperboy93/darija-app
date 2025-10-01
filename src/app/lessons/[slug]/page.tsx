@@ -42,26 +42,26 @@ import IntermediateSeventeen from '@/components/lessonscomps/medium/courses/Inte
 import IntermediateEighteen from '@/components/lessonscomps/medium/courses/IntermediateEighteen';
 import IntermediateNineteen from '@/components/lessonscomps/medium/courses/IntermediateNineteen';
 import IntermediateTwenty from '@/components/lessonscomps/medium/courses/IntermediateTwenty';
-import AdvancedOne from '@/components/lessonscomps/advanced/AdvancedOne';
-import AdvancedTwo from '@/components/lessonscomps/advanced/AdvancedTwo';
-import AdvancedThree from '@/components/lessonscomps/advanced/AdvancedThree';
-import AdvancedFour from '@/components/lessonscomps/advanced/AdvancedFour';
-import AdvancedFive from '@/components/lessonscomps/advanced/AdvancedFive';
-import AdvancedSix from '@/components/lessonscomps/advanced/AdvancedSix';
-import AdvancedSeven from '@/components/lessonscomps/advanced/AdvancedSeven';
-import AdvancedEight from '@/components/lessonscomps/advanced/AdvancedEight';
-import AdvancedNine from '@/components/lessonscomps/advanced/AdvancedNine';
-import AdvancedTen from '@/components/lessonscomps/advanced/AdvancedTen';
-import AdvancedEleven from '@/components/lessonscomps/advanced/AdvancedEleven';
-import AdvancedTwelve from '@/components/lessonscomps/advanced/AdvancedTwelve';
-import AdvancedThirteen from '@/components/lessonscomps/advanced/AdvancedThirteen';
-import AdvancedFourteen from '@/components/lessonscomps/advanced/AdvancedFourteen';
-import AdvancedFifteen from '@/components/lessonscomps/advanced/AdvancedFifteen';
-import AdvancedSixteen from '@/components/lessonscomps/advanced/AdvancedSixteen';
-import AdvancedSeventeen from '@/components/lessonscomps/advanced/AdvancedSeventeen';
-import AdvancedEighteen from '@/components/lessonscomps/advanced/AdvancedEighteen';
-import AdvancedNineteen from '@/components/lessonscomps/advanced/AdvancedNineteen';
-import AdvancedTwenty from '@/components/lessonscomps/advanced/AdvancedTwenty';
+import AdvancedOne from '@/components/lessonscomps/advanced/courses/AdvancedOne';
+import AdvancedTwo from '@/components/lessonscomps/advanced/courses/AdvancedTwo';
+import AdvancedThree from '@/components/lessonscomps/advanced/courses/AdvancedThree';
+import AdvancedFour from '@/components/lessonscomps/advanced/courses/AdvancedFour';
+import AdvancedFive from '@/components/lessonscomps/advanced/courses/AdvancedFive';
+import AdvancedSix from '@/components/lessonscomps/advanced/courses/AdvancedSix';
+import AdvancedSeven from '@/components/lessonscomps/advanced/courses/AdvancedSeven';
+import AdvancedEight from '@/components/lessonscomps/advanced/courses/AdvancedEight';
+import AdvancedNine from '@/components/lessonscomps/advanced/courses/AdvancedNine';
+import AdvancedTen from '@/components/lessonscomps/advanced/courses/AdvancedTen';
+import AdvancedEleven from '@/components/lessonscomps/advanced/courses/AdvancedEleven';
+import AdvancedTwelve from '@/components/lessonscomps/advanced/courses/AdvancedTwelve';
+import AdvancedThirteen from '@/components/lessonscomps/advanced/courses/AdvancedThirteen';
+import AdvancedFourteen from '@/components/lessonscomps/advanced/courses/AdvancedFourteen';
+import AdvancedFifteen from '@/components/lessonscomps/advanced/courses/AdvancedFifteen';
+import AdvancedSixteen from '@/components/lessonscomps/advanced/courses/AdvancedSixteen';
+import AdvancedSeventeen from '@/components/lessonscomps/advanced/courses/AdvancedSeventeen';
+import AdvancedEighteen from '@/components/lessonscomps/advanced/courses/AdvancedEighteen';
+import AdvancedNineteen from '@/components/lessonscomps/advanced/courses/AdvancedNineteen';
+import AdvancedTwenty from '@/components/lessonscomps/advanced/courses/AdvancedTwenty';
 
 // Define valid slug types
 type LessonSlug = 
