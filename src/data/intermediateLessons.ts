@@ -147,4 +147,84 @@ export const intermediateLessons: IntermediateLesson[] = [
     timeNeeded: "50 min",
     slug: "intermediate-twenty"
   }
+  ,
+  {
+    id: 21,
+    title: "Everyday Dialogues and Expressions",
+    description: "Practice natural, everyday Darija conversations with common phrases and clarifications.",
+    timeNeeded: "40 min",
+    slug: "intermediate-twenty-one"
+  }
+  ,
+  {
+    id: 22,
+    title: "Finance and Banking",
+    description: "Master banking conversations: accounts, cards, transfers, budgeting, and polite interaction.",
+    timeNeeded: "35 min",
+    slug: "intermediate-twenty-two"
+  }
+  ,
+  {
+    id: 23,
+    title: "Housing and Renting",
+    description: "Discuss finding apartments, leases, utilities, and landlord interactions in Darija.",
+    timeNeeded: "38 min",
+    slug: "intermediate-twenty-three"
+  }
+  ,
+  {
+    id: 24,
+    title: "Healthcare and Medical Visits",
+    description: "Describe symptoms, book appointments, talk at pharmacies, and handle billing.",
+    timeNeeded: "40 min",
+    slug: "intermediate-twenty-four"
+  }
+  ,
+  {
+    id: 25,
+    title: "Workplace Communication",
+    description: "Use office vocabulary, communicate in meetings, delegate tasks, and write emails in Darija.",
+    timeNeeded: "40 min",
+    slug: "intermediate-twenty-five"
+  }
+  ,
+  {
+    id: 26,
+    title: "Citizen Services & Public Offices",
+    description: "Navigate public services: government offices, applications, scheduling, and formal requests.",
+    timeNeeded: "42 min",
+    slug: "intermediate-twenty-six"
+  }
+  ,
+  {
+    id: 27,
+    title: "Shopping & Consumer Services",
+    description: "Shop confidently: product vocabulary, bargaining, payments, returns, and delivery.",
+    timeNeeded: "41 min",
+    slug: "intermediate-twenty-seven"
+  }
+  ,
+  {
+    id: 28,
+    title: "Travel & Transportation",
+    description: "Navigate transport: modes, tickets, directions, commuting issues, and planning.",
+    timeNeeded: "40 min",
+    slug: "intermediate-twenty-eight"
+  }
+  ,
+  {
+    id: 29,
+    title: "Dining & Restaurants",
+    description: "Master dining: restaurant vocabulary, ordering, dietary needs, and reservations in Darija.",
+    timeNeeded: "40 min",
+    slug: "intermediate-twenty-nine"
+  }
+  ,
+  {
+    id: 30,
+    title: "Emergencies & Safety",
+    description: "Handle emergencies: report incidents, request medical help, and ask police/security for assistance.",
+    timeNeeded: "50 min",
+    slug: "intermediate-thirty"
+  }
 ];
