@@ -46,7 +46,7 @@ const AdvancedCard: React.FC = () => {
       <div className="mb-6">
         <h4 className="font-semibold text-gray-900 mb-3 flex items-center">
           <span className="w-2 h-2 bg-purple-500 rounded-full mr-2"></span>
-          What you'll learn:
+          What you’ll learn:
         </h4>
         <ul className="space-y-2">
           <li className="flex items-start">
