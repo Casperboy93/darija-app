@@ -2,6 +2,7 @@ services:
   - type: web
     name: darija-app
     env: node
+    rootDir: .
     buildCommand: npm ci && npm run build
     startCommand: npm run start -p $PORT
     envVars:
