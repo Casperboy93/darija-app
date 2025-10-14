@@ -3,12 +3,10 @@ services:
     name: darija-app
     env: node
     buildCommand: npm ci && npm run build
-    startCommand: next start -p $PORT
+    startCommand: npm run start -p $PORT
     envVars:
       - key: NODE_ENV
         value: production
-      - key: PORT
-        value: "10000"
       - key: NEXT_TELEMETRY_DISABLED
         value: "1"
     autoDeploy: true

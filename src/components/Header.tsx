@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
@@ -10,19 +10,19 @@ const Header: React.FC = () => {
   const pathname = usePathname();
   const navRef = useRef<HTMLUListElement>(null);
 
-  const navigationItems = [
+  const navigationItems = useMemo(() => ([
     { href: '/', label: 'Home' },
     { href: '/about', label: 'About' },
     { href: '/lessons', label: 'Lessons' },
     { href: '/translator', label: 'Translator' },
     { href: '/ebooks', label: 'E-Books' }
-  ];
+  ]), []);
 
-  const isActivePage = (path: string) => {
+  const isActivePage = useCallback((path: string) => {
     if (path === '/' && pathname === '/') return true;
     if (path !== '/' && pathname.startsWith(path)) return true;
     return false;
-  };
+  }, [pathname]);
 
   const updateLinePosition = useCallback(() => {
     if (!navRef.current) return;
@@ -46,7 +46,7 @@ const Header: React.FC = () => {
         left: activeRect.left - navRect.left
       });
     }
-  }, [pathname, isActivePage, navigationItems]);
+  }, [isActivePage, navigationItems]);
 
   useEffect(() => {
     updateLinePosition();
