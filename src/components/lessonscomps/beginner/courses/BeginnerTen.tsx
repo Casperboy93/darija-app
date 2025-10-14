@@ -2,15 +2,6 @@
 
 import React from 'react';
 import LessonLayout from '../../common/LessonLayout';
-import LessonOverview from '../coursecomps/ten/LessonOverview';
-import BodyParts from '../coursecomps/ten/BodyParts';
-import HealthConditions from '../coursecomps/ten/HealthConditions';
-import MedicalPhrases from '../coursecomps/ten/MedicalPhrases';
-import PharmacyVocabulary from '../coursecomps/ten/PharmacyVocabulary';
-import PracticeDialogue from '../coursecomps/ten/PracticeDialogue';
-import HealthTips from '../coursecomps/ten/HealthTips';
-import PracticeExercise from '../coursecomps/ten/PracticeExercise';
-import CongratulationsSection from '../coursecomps/ten/CongratulationsSection';
 
 export default function BeginnerTen() {
   return (

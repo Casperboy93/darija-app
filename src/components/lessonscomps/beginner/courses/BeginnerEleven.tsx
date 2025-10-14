@@ -2,12 +2,6 @@
 
 import React from 'react';
 import LessonLayout from '../../common/LessonLayout';
-import LessonOverview from '../coursecomps/eleven/LessonOverview';
-import BasicColors from '../coursecomps/eleven/BasicColors';
-import ClothingItems from '../coursecomps/eleven/ClothingItems';
-import UsefulPhrases from '../coursecomps/eleven/UsefulPhrases';
-import PracticeExercise from '../coursecomps/eleven/PracticeExercise';
-import CulturalNote from '../coursecomps/eleven/CulturalNote';
 
 export default function BeginnerEleven() {
   return (

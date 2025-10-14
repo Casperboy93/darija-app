@@ -1,21 +1,9 @@
 "use client";
 
-import React, { useState } from 'react';
+import React from 'react';
 import LessonLayout from '../../common/LessonLayout';
-import LessonOverview from '../coursecomps/nineteen/LessonOverview';
-import ArtificialIntelligence from '../coursecomps/nineteen/ArtificialIntelligence';
-import RoboticsAutomation from '../coursecomps/nineteen/RoboticsAutomation';
-import DataScience from '../coursecomps/nineteen/DataScience';
-import EmergingTechnologies from '../coursecomps/nineteen/EmergingTechnologies';
-import InternetOfThings from '../coursecomps/nineteen/InternetOfThings';
-import Cybersecurity from '../coursecomps/nineteen/Cybersecurity';
-import CloudComputing from '../coursecomps/nineteen/CloudComputing';
-import TechDialogue from '../coursecomps/nineteen/TechDialogue';
-import CulturalNote from '../coursecomps/nineteen/CulturalNote';
 
 export default function AdvancedNineteen() {
-  const [completedChallenges, setCompletedChallenges] = useState(0);
-  const [masteryScore, setMasteryScore] = useState(0);
 
   return (
     <LessonLayout

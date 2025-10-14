@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from 'react';
+import React from 'react';
 import LessonLayout from '../../common/LessonLayout';
 import LessonOverview from '../coursecomps/twenty/LessonOverview';
 import GlobalLeadership from '../coursecomps/twenty/GlobalLeadership';
@@ -13,9 +13,6 @@ import InternationalSummitDialogue from '../coursecomps/twenty/InternationalSumm
 import CongratulationsSection from '../coursecomps/twenty/CongratulationsSection';
 
 export default function AdvancedTwenty() {
-  const [completedChallenges, setCompletedChallenges] = useState(0);
-  const [masteryScore, setMasteryScore] = useState(0);
-
   return (
     <LessonLayout 
       title="Global Leadership and Cross-Cultural Communication" 

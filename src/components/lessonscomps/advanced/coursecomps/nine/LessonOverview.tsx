@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import { FaBook, FaBullseye, FaUsers, FaLightbulb } from 'react-icons/fa';
+import { FaBullseye, FaUsers, FaLightbulb } from 'react-icons/fa';
 
 export default function LessonOverview() {
   return (

@@ -13,8 +13,8 @@ import PressConferenceDialogue from '../coursecomps/fourteen/PressConferenceDial
 import CulturalNote from '../coursecomps/fourteen/CulturalNote';
 
 export default function AdvancedFourteen() {
-  const [completedChallenges, setCompletedChallenges] = useState(0);
-  const [masteryScore, setMasteryScore] = useState(0);
+  const [completedChallenges] = useState(0);
+  const [masteryScore] = useState(0);
 
   return (
     <LessonLayout 

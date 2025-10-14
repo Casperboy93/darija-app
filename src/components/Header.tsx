@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
@@ -24,7 +24,7 @@ const Header: React.FC = () => {
     return false;
   };
 
-  const updateLinePosition = () => {
+  const updateLinePosition = useCallback(() => {
     if (!navRef.current) return;
     
     const activeItem = navigationItems.find(item => isActivePage(item.href));
@@ -46,7 +46,7 @@ const Header: React.FC = () => {
         left: activeRect.left - navRect.left
       });
     }
-  };
+  }, [pathname, isActivePage, navigationItems]);
 
   useEffect(() => {
     updateLinePosition();
@@ -55,7 +55,7 @@ const Header: React.FC = () => {
     window.addEventListener('resize', handleResize);
     
     return () => window.removeEventListener('resize', handleResize);
-  }, [pathname]);
+  }, [pathname, updateLinePosition]);
 
   const NavLink = ({ href, children, className = "" }: { href: string; children: React.ReactNode; className?: string }) => {
     const isActive = isActivePage(href);

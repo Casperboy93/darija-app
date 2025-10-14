@@ -12,8 +12,8 @@ import ResearchDialogue from '../coursecomps/thirteen/ResearchDialogue';
 import CulturalNote from '../coursecomps/thirteen/CulturalNote';
 
 export default function AdvancedThirteen() {
-  const [completedChallenges, setCompletedChallenges] = useState<number>(0);
-  const [masteryScore, setMasteryScore] = useState<number>(0);
+  const [completedChallenges] = useState<number>(0);
+  const [masteryScore] = useState<number>(0);
 
   return (
     <LessonLayout 

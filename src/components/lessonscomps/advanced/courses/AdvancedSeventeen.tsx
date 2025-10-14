@@ -14,8 +14,8 @@ import EnvironmentalDialogue from '../coursecomps/seventeen/EnvironmentalDialogu
 import CulturalNote from '../coursecomps/seventeen/CulturalNote';
 
 export default function AdvancedSeventeen() {
-  const [completedChallenges, setCompletedChallenges] = useState(0);
-  const [masteryScore, setMasteryScore] = useState(0);
+  const [completedChallenges] = useState(0);
+  const [masteryScore] = useState(0);
 
   return (
     <LessonLayout 

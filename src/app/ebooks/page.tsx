@@ -77,7 +77,7 @@ export default function EbooksPage() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         {/* Books Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-20">
-          {ebooks.map((book, index) => (
+          {ebooks.map((book) => (
             <div 
               key={book.id} 
               className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100"

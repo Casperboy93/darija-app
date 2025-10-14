@@ -13,8 +13,8 @@ import PhilosophicalDialogue from '../coursecomps/fifteen/PhilosophicalDialogue'
 import CulturalNote from '../coursecomps/fifteen/CulturalNote';
 
 export default function AdvancedFifteen() {
-  const [completedChallenges, setCompletedChallenges] = useState(0);
-  const [masteryScore, setMasteryScore] = useState(0);
+  const [completedChallenges] = useState(0);
+  const [masteryScore] = useState(0);
 
   return (
     <LessonLayout 

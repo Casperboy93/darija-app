@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import { FaCrown, FaTrophy, FaStar, FaAward, FaUsers } from 'react-icons/fa';
+import { FaTrophy, FaStar, FaAward, FaUsers } from 'react-icons/fa';
 
 interface MasteryOverviewProps {
   masteryScore: number;
