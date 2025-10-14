@@ -1,6 +1,7 @@
 "use client";
 
 import React from 'react';
+import Link from 'next/link';
 
 export default function TranslatorPage() {
   // Sample words and phrases for animation - expanded with 5 more each
@@ -189,12 +190,12 @@ export default function TranslatorPage() {
             explore our complete course offerings.
           </p>
           <div className="flex flex-wrap gap-3">
-            <a href="/lessons" className="bg-orange-400 hover:bg-orange-500 text-white px-4 py-2 rounded-md text-sm font-medium transition-colors shadow-sm">
+            <Link href="/lessons" className="bg-orange-400 hover:bg-orange-500 text-white px-4 py-2 rounded-md text-sm font-medium transition-colors shadow-sm">
               Browse Lessons
-            </a>
-            <a href="/lessons/beginner-one" className="bg-white hover:bg-gray-50 text-orange-600 border border-orange-300 px-4 py-2 rounded-md text-sm font-medium transition-colors">
+            </Link>
+            <Link href="/lessons/beginner-one" className="bg-white hover:bg-gray-50 text-orange-600 border border-orange-300 px-4 py-2 rounded-md text-sm font-medium transition-colors">
               Start Learning
-            </a>
+            </Link>
           </div>
         </div>
       </div>

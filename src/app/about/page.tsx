@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 export default function AboutPage() {
   return (
@@ -25,10 +26,10 @@ export default function AboutPage() {
               <p className="text-lg">
                 Darija App is dedicated to making Moroccan Arabic (Darija) accessible to everyone. 
                 Our mission is to bridge cultural gaps through language learning, helping people 
-                connect with Morocco's rich culture and heritage.
+                connect with Morocco’s rich culture and heritage.
               </p>
               <p className="text-lg">
-                Whether you're planning to visit Morocco, connect with Moroccan friends and family, 
+                Whether you’re planning to visit Morocco, connect with Moroccan friends and family, 
                 or simply expand your linguistic horizons, our app provides the tools and resources 
                 you need to learn Darija effectively.
               </p>
@@ -73,10 +74,10 @@ export default function AboutPage() {
           <div className="bg-gradient-to-r from-gray-50 to-white rounded-2xl p-8 md:p-12 shadow-lg border border-gray-200/50">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Join Our Community</h2>
             <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-              Learning a language is more enjoyable when you're part of a community. Connect with 
+              Learning a language is more enjoyable when you’re part of a community. Connect with 
               fellow learners, practice with native speakers, and share your progress on our platform.
-            </p>
-            <a 
+           </p>
+            <Link 
               href="/lessons" 
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-gray-900 to-black text-white font-semibold rounded-xl hover:from-black hover:to-gray-800 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
             >
@@ -84,7 +85,7 @@ export default function AboutPage() {
               <svg className="ml-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
-            </a>
+            </Link>
           </div>
         </section>
 
