@@ -25,7 +25,7 @@ export default function PhilosophyWisdom() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥikma</p>
+            <p className="font-bold text-lg text-gray-900">Hikma</p>
             <span className="text-2xl">💡</span>
           </div>
           <p className="text-gray-600">Wisdom</p>
@@ -45,7 +45,7 @@ export default function PhilosophyWisdom() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Taṣawwuf</p>
+            <p className="font-bold text-lg text-gray-900">Tasawwuf</p>
             <span className="text-2xl">🕊️</span>
           </div>
           <p className="text-gray-600">Sufism</p>
@@ -55,17 +55,17 @@ export default function PhilosophyWisdom() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Akhlāq</p>
+            <p className="font-bold text-lg text-gray-900">Akhlaq</p>
             <span className="text-2xl">⚖️</span>
           </div>
           <p className="text-gray-600">Ethics/Morality</p>
-          <p className="text-sm text-gray-500 mt-1">أخلاق</p>
+          <p className="text-sm text-gray-500 mt-1">أخلاق</p>
           <p className="text-xs text-blue-600 mt-2">Moral character</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Wujūd</p>
+            <p className="font-bold text-lg text-gray-900">Wujud</p>
             <span className="text-2xl">🌌</span>
           </div>
           <p className="text-gray-600">Existence/Being</p>

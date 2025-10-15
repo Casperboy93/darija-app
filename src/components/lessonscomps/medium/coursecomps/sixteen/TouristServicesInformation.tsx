@@ -15,8 +15,8 @@ export default function TouristServicesInformation() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Maktab as-siyāḥa</p>
-            <span className="text-2xl">ℹ️</span>
+            <p className="font-bold text-lg text-gray-900">Maktab as-siyaha</p>
+            <span className="text-2xl">i</span>
           </div>
           <p className="text-gray-600">Tourist Office</p>
           <p className="text-sm text-gray-500 mt-1">مكتب السياحة</p>
@@ -25,7 +25,7 @@ export default function TouristServicesInformation() {
         
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Murshid siyāḥī</p>
+            <p className="font-bold text-lg text-gray-900">Murshid siyahi</p>
             <span className="text-2xl">👨‍🏫</span>
           </div>
           <p className="text-gray-600">Tourist Guide</p>
@@ -35,7 +35,7 @@ export default function TouristServicesInformation() {
         
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kharīṭa</p>
+            <p className="font-bold text-lg text-gray-900">Kharita</p>
             <span className="text-2xl">🗺️</span>
           </div>
           <p className="text-gray-600">Map</p>
@@ -45,7 +45,7 @@ export default function TouristServicesInformation() {
         
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Dalīl siyāḥī</p>
+            <p className="font-bold text-lg text-gray-900">Dalil siyahi</p>
             <span className="text-2xl">📖</span>
           </div>
           <p className="text-gray-600">Travel Guide/Guidebook</p>
@@ -55,7 +55,7 @@ export default function TouristServicesInformation() {
         
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Maʿlūmāt</p>
+            <p className="font-bold text-lg text-gray-900">Maʿlumat</p>
             <span className="text-2xl">📋</span>
           </div>
           <p className="text-gray-600">Information</p>
@@ -65,7 +65,7 @@ export default function TouristServicesInformation() {
         
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Jawla siyāḥiyya</p>
+            <p className="font-bold text-lg text-gray-900">Jawla siyahiyya</p>
             <span className="text-2xl">🎯</span>
           </div>
           <p className="text-gray-600">Tour</p>

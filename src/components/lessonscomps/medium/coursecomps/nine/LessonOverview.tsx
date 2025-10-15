@@ -20,10 +20,10 @@ export default function LessonOverview() {
         <div className="mt-4 p-4 bg-white rounded-md border border-purple-100">
           <h3 className="font-semibold text-purple-700 mb-2">Learning Goals:</h3>
           <ul className="text-sm text-gray-600 space-y-1">
-            <li>• Master cultural and traditional vocabulary</li>
-            <li>• Learn about Moroccan festivals and celebrations</li>
-            <li>• Understand traditional customs and practices</li>
-            <li>• Practice discussing cultural topics and heritage</li>
+            <li>- Master cultural and traditional vocabulary</li>
+            <li>- Learn about Moroccan festivals and celebrations</li>
+            <li>- Understand traditional customs and practices</li>
+            <li>- Practice discussing cultural topics and heritage</li>
           </ul>
         </div>
       </div>

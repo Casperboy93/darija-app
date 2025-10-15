@@ -16,25 +16,25 @@ export default function PracticeDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border-l-4 border-pink-400">
             <p className="font-medium text-gray-800">Citizen A:</p>
-            <p className="text-gray-700">Mā raʾyuk fī al-intikhābāt al-akhīra?</p>
+            <p className="text-gray-700">Ma raʾyuk fi al-intikhabat al-akhira?</p>
             <p className="text-sm text-gray-600 mt-1">What's your opinion on the recent elections?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-medium text-gray-800">Citizen B:</p>
-            <p className="text-gray-700">Aʿtaqid annahā kānat munāfasa ʿādila bayn al-aḥzāb al-mukhtalifia.</p>
+            <p className="text-gray-700">Aʿtaqid annaha kanat munafasa ʿadila bayn al-ahzab al-mukhtalifia.</p>
             <p className="text-sm text-gray-600 mt-1">I believe it was fair competition between different parties.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-pink-400">
             <p className="font-medium text-gray-800">Citizen A:</p>
-            <p className="text-gray-700">Naʿam, wa al-muhimm anna an-nās shārakū bi-kathāfa fī at-taṣwīt.</p>
+            <p className="text-gray-700">Naʿam, wa al-muhimm anna an-nas sharaku bi-kathafa fi at-taswit.</p>
             <p className="text-sm text-gray-600 mt-1">Yes, and importantly people participated heavily in voting.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-medium text-gray-800">Citizen B:</p>
-            <p className="text-gray-700">Hādhā yuʿakkid anna ad-dīmuqrāṭiyya tataqaddam fī biladnā.</p>
+            <p className="text-gray-700">Hadha yuʿakkid anna ad-dimuqratiyya tataqaddam fi biladna.</p>
             <p className="text-sm text-gray-600 mt-1">This confirms that democracy is advancing in our country.</p>
           </div>
         </div>

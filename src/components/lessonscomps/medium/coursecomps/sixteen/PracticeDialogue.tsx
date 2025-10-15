@@ -21,42 +21,42 @@ export default function PracticeDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-md border border-pink-100">
             <p className="font-semibold text-pink-800">Tourist:</p>
-            <p className="text-gray-700 mb-2">Marḥaban, urīdu an aḥjiza ghurfa fī riyāḍ fī Marrākush.</p>
+            <p className="text-gray-700 mb-2">Marhaban, uridu an ahjiza ghurfa fi riyad fi Marrakush.</p>
             <p className="text-sm text-gray-600 italic">Hello, I want to book a room in a riad in Marrakech.</p>
-            <p className="text-xs text-pink-600 mt-1">مرحباً، أريد أن أحجز غرفة في رياض في مراكش.</p>
+            <p className="text-xs text-pink-600 mt-1">مرحباً، أريد أن أحجز غرفة في رياض في مراكش.</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border border-pink-100">
             <p className="font-semibold text-pink-800">Receptionist:</p>
-            <p className="text-gray-700 mb-2">Ahlan wa sahlan! Kam layla turīd an tuqīm?</p>
+            <p className="text-gray-700 mb-2">Ahlan wa sahlan! Kam layla turid an tuqim?</p>
             <p className="text-sm text-gray-600 italic">Welcome! How many nights do you want to stay?</p>
-            <p className="text-xs text-pink-600 mt-1">أهلاً وسهلاً! كم ليلة تريد أن تقيم؟</p>
+            <p className="text-xs text-pink-600 mt-1">أهلاً وسهلاً! كم ليلة تريد أن تقيم؟</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border border-pink-100">
             <p className="font-semibold text-pink-800">Tourist:</p>
-            <p className="text-gray-700 mb-2">Thalāth layālī, min yawm al-khamīs ilā yawm as-sabt.</p>
+            <p className="text-gray-700 mb-2">Thalath layali, min yawm al-khamis ila yawm as-sabt.</p>
             <p className="text-sm text-gray-600 italic">Three nights, from Thursday to Saturday.</p>
-            <p className="text-xs text-pink-600 mt-1">ثلاث ليالي، من يوم الخميس إلى يوم السبت.</p>
+            <p className="text-xs text-pink-600 mt-1">ثلاث ليالي، من يوم الخميس إلى يوم السبت.</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border border-pink-100">
             <p className="font-semibold text-pink-800">Receptionist:</p>
-            <p className="text-gray-700 mb-2">Naʿam, ʿindanā ghurfa mutāḥa bi-iṭlāla ʿalā aṣ-ṣaḥn.</p>
+            <p className="text-gray-700 mb-2">Naʿam, ʿindana ghurfa mutaha bi-itlala ʿala as-sahn.</p>
             <p className="text-sm text-gray-600 italic">Yes, we have a room available with a view of the courtyard.</p>
-            <p className="text-xs text-pink-600 mt-1">نعم، عندنا غرفة متاحة بإطلالة على الصحن.</p>
+            <p className="text-xs text-pink-600 mt-1">نعم، عندنا غرفة متاحة بإطلالة على الصحن.</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border border-pink-100">
             <p className="font-semibold text-pink-800">Tourist:</p>
-            <p className="text-gray-700 mb-2">Mā hiya al-khadamāt al-mutawaffira?</p>
+            <p className="text-gray-700 mb-2">Ma hiya al-khadamat al-mutawaffira?</p>
             <p className="text-sm text-gray-600 italic">What services are available?</p>
             <p className="text-xs text-pink-600 mt-1">ما هي الخدمات المتوفرة؟</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border border-pink-100">
             <p className="font-semibold text-pink-800">Receptionist:</p>
-            <p className="text-gray-700 mb-2">Naḥnu nuqaddim al-fuṭūr, wa khidmat al-intiqāl, wa jawlāt siyāḥiyya.</p>
+            <p className="text-gray-700 mb-2">Nahnu nuqaddim al-futur, wa khidmat al-intiqal, wa jawlat siyahiyya.</p>
             <p className="text-sm text-gray-600 italic">We offer breakfast, transfer service, and tourist tours.</p>
             <p className="text-xs text-pink-600 mt-1">نحن نقدم الفطور، وخدمة الانتقال، وجولات سياحية.</p>
           </div>

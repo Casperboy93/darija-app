@@ -14,23 +14,23 @@ export default function DoctorVisitConversation() {
         <h3 className="font-bold text-lg text-green-800 mb-4">Sample Medical Consultation</h3>
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-md border-l-4 border-green-400">
-            <p className="font-semibold text-green-700">Doctor: Āsh kaywalja3ak?</p>
+            <p className="font-semibold text-green-700">Doctor: Ash kaywalja3ak?</p>
             <p className="text-gray-600 italic">What's hurting you?</p>
           </div>
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Patient: 3andī ṣudā3 qawiyya u ḥumma</p>
+            <p className="font-semibold text-blue-700">Patient: 3andi suda3 qawiyya u humma</p>
             <p className="text-gray-600 italic">I have a strong headache and fever</p>
           </div>
           <div className="bg-white p-4 rounded-md border-l-4 border-green-400">
-            <p className="font-semibold text-green-700">Doctor: Men imta u hād l a3rāḍ?</p>
+            <p className="font-semibold text-green-700">Doctor: Men imta u had l a3rad?</p>
             <p className="text-gray-600 italic">Since when do you have these symptoms?</p>
           </div>
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Patient: Men thalātha iyyām</p>
+            <p className="font-semibold text-blue-700">Patient: Men thalatha iyyam</p>
             <p className="text-gray-600 italic">Since three days</p>
           </div>
           <div className="bg-white p-4 rounded-md border-l-4 border-green-400">
-            <p className="font-semibold text-green-700">Doctor: Ghādi n3ṭīk dawā u rāḥa</p>
+            <p className="font-semibold text-green-700">Doctor: Ghadi n3tik dawa u raha</p>
             <p className="text-gray-600 italic">I'll give you medicine and rest</p>
           </div>
         </div>

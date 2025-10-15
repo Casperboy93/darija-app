@@ -25,7 +25,7 @@ export default function MedicalEmergency() {
             </tr>
             <tr>
               <td className="px-4 py-2">Call an ambulance</td>
-              <td className="px-4 py-2">عيّطو للأمبولانس</td>
+              <td className="px-4 py-2">عيّطو للأمبولانس</td>
               <td className="px-4 py-2">3ayto l-ambulans</td>
               <td className="px-4 py-2">Ask bystanders or staff.</td>
             </tr>
@@ -49,7 +49,7 @@ export default function MedicalEmergency() {
             </tr>
             <tr>
               <td className="px-4 py-2">Where is the nearest hospital?</td>
-              <td className="px-4 py-2">فين أقرب سبيطار؟</td>
+              <td className="px-4 py-2">فين أقرب سبيطار؟</td>
               <td className="px-4 py-2">fin a9rab sbitar?</td>
               <td className="px-4 py-2">Ask for directions.</td>
             </tr>

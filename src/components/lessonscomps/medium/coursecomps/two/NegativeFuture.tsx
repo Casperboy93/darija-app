@@ -41,15 +41,15 @@ export default function NegativeFuture() {
               <div className="text-sm text-gray-600">I will not eat</div>
             </div>
             <div>
-              <div className="font-medium">Ma gha yjiش</div>
+              <div className="font-medium">Ma gha yjish</div>
               <div className="text-sm text-gray-600">He will not come</div>
             </div>
             <div>
-              <div className="font-medium">Ma gha nsafrش</div>
+              <div className="font-medium">Ma gha nsafrsh</div>
               <div className="text-sm text-gray-600">I will not travel</div>
             </div>
             <div>
-              <div className="font-medium">Ma gha tkhdmش</div>
+              <div className="font-medium">Ma gha tkhdmsh</div>
               <div className="text-sm text-gray-600">She will not work</div>
             </div>
           </div>
@@ -57,7 +57,7 @@ export default function NegativeFuture() {
       </div>
       
       <div className="bg-blue-50 border border-blue-200 p-4 rounded-md mt-6">
-        <p className="font-medium text-blue-800">💡 Usage Note:</p>
+        <p className="font-medium text-blue-800">Usage Note:</p>
         <p className="text-gray-700 mt-1">
           The negative future is commonly used to express refusal, inability, or certainty that something won't happen.
         </p>

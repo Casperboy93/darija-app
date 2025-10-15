@@ -16,19 +16,19 @@ export default function AdvancedSocialInteractions() {
           <div>
             <h4 className="font-semibold text-blue-700 mb-2">Giving Compliments</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Mashkūr 3la...</span> Thank you for...</p>
-              <p><span className="font-semibold">3ajbatnī ṭarīqtak f...</span> I liked your way of...</p>
-              <p><span className="font-semibold">Nta/Nti māhir/māhra f...</span> You're skilled at...</p>
-              <p><span className="font-semibold">Hāda 3amal rāʾi3</span> This is excellent work</p>
+              <p><span className="font-semibold">Mashkur 3la...</span> Thank you for...</p>
+              <p><span className="font-semibold">3ajbatni tariqtak f...</span> I liked your way of...</p>
+              <p><span className="font-semibold">Nta/Nti mahir/mahra f...</span> You're skilled at...</p>
+              <p><span className="font-semibold">Hada 3amal ra'i3</span> This is excellent work</p>
             </div>
           </div>
           <div>
             <h4 className="font-semibold text-blue-700 mb-2">Handling Criticism</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Shukran 3la n naṣīḥa</span> Thanks for the advice</p>
-              <p><span className="font-semibold">Ghādi nākhud hāda bi 3ayn l i3tibār</span> I'll take this into consideration</p>
-              <p><span className="font-semibold">3andak ḥaqq f ba3ḍ n nuqaṭ</span> You're right about some points</p>
-              <p><span className="font-semibold">Hāda yusā3idnī nataḥassan</span> This helps me improve</p>
+              <p><span className="font-semibold">Shukran 3la n nasiha</span> Thanks for the advice</p>
+              <p><span className="font-semibold">Ghadi nakhud hada bi 3ayn l i3tibar</span> I'll take this into consideration</p>
+              <p><span className="font-semibold">3andak haqq f ba3d n nuqat</span> You're right about some points</p>
+              <p><span className="font-semibold">Hada yusa3idni natahassan</span> This helps me improve</p>
             </div>
           </div>
         </div>

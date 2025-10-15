@@ -15,7 +15,7 @@ export default function AcademicSubjects() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Riyāḍiyyāt</p>
+            <p className="font-bold text-lg text-gray-900">Riyadiyyat</p>
             <span className="text-2xl">🔢</span>
           </div>
           <p className="text-gray-600">Mathematics</p>
@@ -25,7 +25,7 @@ export default function AcademicSubjects() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿUlūm</p>
+            <p className="font-bold text-lg text-gray-900">ʿUlum</p>
             <span className="text-2xl">🔬</span>
           </div>
           <p className="text-gray-600">Science</p>
@@ -35,7 +35,7 @@ export default function AcademicSubjects() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Tārīkh</p>
+            <p className="font-bold text-lg text-gray-900">Tarikh</p>
             <span className="text-2xl">📚</span>
           </div>
           <p className="text-gray-600">History</p>
@@ -45,7 +45,7 @@ export default function AcademicSubjects() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Jughrāfiyā</p>
+            <p className="font-bold text-lg text-gray-900">Jughrafiya</p>
             <span className="text-2xl">🌍</span>
           </div>
           <p className="text-gray-600">Geography</p>
@@ -55,7 +55,7 @@ export default function AcademicSubjects() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Lughāt</p>
+            <p className="font-bold text-lg text-gray-900">Lughat</p>
             <span className="text-2xl">🗣️</span>
           </div>
           <p className="text-gray-600">Languages</p>

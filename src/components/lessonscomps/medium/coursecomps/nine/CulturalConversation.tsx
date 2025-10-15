@@ -16,22 +16,22 @@ export default function CulturalConversation() {
         
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-md border-l-4 border-red-400">
-            <p className="font-semibold text-red-700">A: Āsh hiya l taqālīd dyālkum f l 3īd?</p>
+            <p className="font-semibold text-red-700">A: Ash hiya l taqalid dyalkum f l 3id?</p>
             <p className="text-gray-600 italic">What are your traditions during Eid?</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">B: Kanṭayybu l ḥalwā u nzūru l 3āʾila</p>
+            <p className="font-semibold text-blue-700">B: Kantayybu l halwa u nzuru l 3a'ila</p>
             <p className="text-gray-600 italic">We prepare sweets and visit family</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-red-400">
-            <p className="font-semibold text-red-700">A: U f l 3urs, āsh katdīru?</p>
+            <p className="font-semibold text-red-700">A: U f l 3urs, ash katdiru?</p>
             <p className="text-gray-600 italic">And in weddings, what do you do?</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">B: Kandīru ḥenna u kanraqṣu 3la l mūsīqā l maghribiyya</p>
+            <p className="font-semibold text-blue-700">B: Kandiru henna u kanraqsu 3la l musiqa l maghribiyya</p>
             <p className="text-gray-600 italic">We do henna and dance to Moroccan music</p>
           </div>
         </div>

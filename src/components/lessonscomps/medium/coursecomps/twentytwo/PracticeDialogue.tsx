@@ -31,7 +31,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, and proof of address.</td>
-              <td className="px-4 py-2">ايه، وعندي إثبات العنوان.</td>
+              <td className="px-4 py-2">ايه، وعندي إثبات العنوان.</td>
               <td className="px-4 py-2">ayh, w andi ithbat l unwan.</td>
               <td className="px-4 py-2">Customer confirms documents.</td>
             </tr>
@@ -65,13 +65,13 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, it will be ready in two days.</td>
-              <td className="px-4 py-2">ايه، غادي تكون واجدة ف جوج أيام.</td>
+              <td className="px-4 py-2">ايه، غادي تكون واجدة ف جوج أيام.</td>
               <td className="px-4 py-2">ayh, ghadi tkwn wajda f juj ayam.</td>
               <td className="px-4 py-2">Bank gives timing.</td>
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Where is the nearest ATM?</td>
-              <td className="px-4 py-2">فين كاين أقرب صراف آلي؟</td>
+              <td className="px-4 py-2">فين كاين أقرب صراف آلي؟</td>
               <td className="px-4 py-2">fin kayn aqrab sarraaf ali?</td>
               <td className="px-4 py-2">Ask for ATM location.</td>
             </tr>

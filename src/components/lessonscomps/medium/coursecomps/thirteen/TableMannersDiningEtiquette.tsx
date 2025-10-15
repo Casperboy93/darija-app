@@ -17,7 +17,7 @@ export default function TableMannersDiningEtiquette() {
           <h3 className="font-semibold text-orange-800 mb-3">Before Eating</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Bismillāh</span>
+              <span className="font-medium text-gray-800">Bismillah</span>
               <span className="text-gray-600">In the name of God (before eating)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
@@ -31,15 +31,15 @@ export default function TableMannersDiningEtiquette() {
           <h3 className="font-semibold text-orange-800 mb-3">During the Meal</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Kul bi-yamīnak</span>
+              <span className="font-medium text-gray-800">Kul bi-yaminak</span>
               <span className="text-gray-600">Eat with your right hand</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Kul min quddāmak</span>
+              <span className="font-medium text-gray-800">Kul min quddamak</span>
               <span className="text-gray-600">Eat from in front of you</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Lā tushrib wāqifan</span>
+              <span className="font-medium text-gray-800">La tushrib waqifan</span>
               <span className="text-gray-600">Don't drink while standing</span>
             </div>
           </div>
@@ -49,11 +49,11 @@ export default function TableMannersDiningEtiquette() {
           <h3 className="font-semibold text-orange-800 mb-3">After Eating</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Al-ḥamdu lillāh</span>
+              <span className="font-medium text-gray-800">Al-hamdu lillah</span>
               <span className="text-gray-600">Praise be to God (after eating)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Shukran lil-muḍīf</span>
+              <span className="font-medium text-gray-800">Shukran lil-mudif</span>
               <span className="text-gray-600">Thank the host</span>
             </div>
           </div>

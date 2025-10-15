@@ -15,7 +15,7 @@ export default function ClassroomStudyVocabulary() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kitāb</p>
+            <p className="font-bold text-lg text-gray-900">Kitab</p>
             <span className="text-2xl">📖</span>
           </div>
           <p className="text-gray-600">Book</p>
@@ -45,7 +45,7 @@ export default function ClassroomStudyVocabulary() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Sabūra</p>
+            <p className="font-bold text-lg text-gray-900">Sabura</p>
             <span className="text-2xl">📋</span>
           </div>
           <p className="text-gray-600">Blackboard</p>
@@ -55,7 +55,7 @@ export default function ClassroomStudyVocabulary() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Imtiḥān</p>
+            <p className="font-bold text-lg text-gray-900">Imtihan</p>
             <span className="text-2xl">📄</span>
           </div>
           <p className="text-gray-600">Exam</p>
@@ -65,7 +65,7 @@ export default function ClassroomStudyVocabulary() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Wājib</p>
+            <p className="font-bold text-lg text-gray-900">Wajib</p>
             <span className="text-2xl">📋</span>
           </div>
           <p className="text-gray-600">Homework</p>

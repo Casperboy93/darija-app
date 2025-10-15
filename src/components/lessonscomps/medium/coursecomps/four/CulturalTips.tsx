@@ -6,25 +6,25 @@ export default function CulturalTips() {
   const tips = [
     {
       title: "Bargaining and Comparisons",
-      icon: "💰",
+      icon: "*",
       content: "In Moroccan markets (souks), comparisons are essential for bargaining. Use phrases like 'ghali bzaf men l-3ada' (much more expensive than usual) or 'rkhis men l-mahal l-akhar' (cheaper than the other store) to negotiate prices.",
       example: "Hada ghali men lli shrit mbareh - This is more expensive than what I bought yesterday"
     },
     {
       title: "Family Comparisons",
-      icon: "👨‍👩‍👧‍👦",
+      icon: "*",
       content: "Moroccans often compare family members, but it's important to be tactful. Avoid direct negative comparisons, especially about appearance. Instead, focus on positive qualities or achievements.",
       example: "Waladi zwin bhal babah - My son is handsome like his father (positive comparison)"
     },
     {
       title: "Compliments and Superlatives",
-      icon: "🌟",
+      icon: "*",
       content: "Using superlatives is a common way to give compliments in Moroccan culture. Phrases like 'nti l-zwina f l-3alam' (you're the most beautiful in the world) are expressions of affection, not literal statements.",
       example: "Hada l-atay l-atyab f l-maghrib - This is the most delicious tea in Morocco"
     },
     {
       title: "Modesty in Self-Comparison",
-      icon: "🤲",
+      icon: "*",
       content: "Moroccans value modesty. When comparing yourself to others, it's polite to downplay your achievements or qualities. This shows humility and respect for others.",
       example: "Ana ma3ndi walou men l-3ilm dyalek - I don't have anything compared to your knowledge"
     }
@@ -69,7 +69,7 @@ export default function CulturalTips() {
           <div>
             <p className="font-semibold text-purple-800 mb-2">Cultural Wisdom:</p>
             <p className="text-gray-700 leading-relaxed">
-              In Moroccan culture, comparisons are not just about stating facts—they're about building relationships, showing respect, and maintaining social harmony. 
+              In Moroccan culture, comparisons are not just about stating facts-they're about building relationships, showing respect, and maintaining social harmony. 
               Use comparisons to compliment others, express gratitude, and demonstrate your appreciation for Moroccan hospitality and culture.
             </p>
           </div>

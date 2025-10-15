@@ -14,11 +14,11 @@ export default function PharmacyVocabulary() {
         <div className="bg-purple-50 border border-purple-200 p-5 rounded-lg">
           <h3 className="font-bold text-lg text-purple-800 mb-3">Medications</h3>
           <div className="space-y-2">
-            <p className="text-sm"><span className="font-semibold">Dawā:</span> Medicine</p>
-            <p className="text-sm"><span className="font-semibold">Ḥabba:</span> Pill/Tablet</p>
-            <p className="text-sm"><span className="font-semibold">Sharāb:</span> Syrup</p>
+            <p className="text-sm"><span className="font-semibold">Dawa:</span> Medicine</p>
+            <p className="text-sm"><span className="font-semibold">Habba:</span> Pill/Tablet</p>
+            <p className="text-sm"><span className="font-semibold">Sharab:</span> Syrup</p>
             <p className="text-sm"><span className="font-semibold">Marham:</span> Ointment</p>
-            <p className="text-sm"><span className="font-semibold">Ḥuqna:</span> Injection</p>
+            <p className="text-sm"><span className="font-semibold">Huqna:</span> Injection</p>
           </div>
         </div>
 
@@ -28,8 +28,8 @@ export default function PharmacyVocabulary() {
             <p className="text-sm"><span className="font-semibold">Qbal l makla:</span> Before meals</p>
             <p className="text-sm"><span className="font-semibold">Ba3d l makla:</span> After meals</p>
             <p className="text-sm"><span className="font-semibold">Marra f nhar:</span> Once a day</p>
-            <p className="text-sm"><span className="font-semibold">Thalāth marrāt:</span> Three times</p>
-            <p className="text-sm"><span className="font-semibold">Kull 8 sā3āt:</span> Every 8 hours</p>
+            <p className="text-sm"><span className="font-semibold">Thalath marrat:</span> Three times</p>
+            <p className="text-sm"><span className="font-semibold">Kull 8 sa3at:</span> Every 8 hours</p>
           </div>
         </div>
       </div>

@@ -15,17 +15,17 @@ export default function AdvancedConversationTechniques() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Bi-ʿibāra ukhrā</p>
+            <p className="font-bold text-lg text-gray-900">Bi-'ibara ukhra</p>
             <span className="text-2xl">🔄</span>
           </div>
           <p className="text-gray-600">In other words</p>
-          <p className="text-sm text-gray-500 mt-1">بعبارة أخرى</p>
+          <p className="text-sm text-gray-500 mt-1">بعبارة أخرى</p>
           <p className="text-xs text-teal-600 mt-2">Rephrase for clarity</p>
         </div>
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Hal fahimta maqṣūdī?</p>
+            <p className="font-bold text-lg text-gray-900">Hal fahimta maqsudi?</p>
             <span className="text-2xl">❓</span>
           </div>
           <p className="text-gray-600">Do you understand what I mean?</p>
@@ -35,17 +35,17 @@ export default function AdvancedConversationTechniques() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Dāʿnī uwāṣil</p>
+            <p className="font-bold text-lg text-gray-900">Da'ni uwasil</p>
             <span className="text-2xl">➡️</span>
           </div>
           <p className="text-gray-600">Let me continue</p>
-          <p className="text-sm text-gray-500 mt-1">دعني أواصل</p>
+          <p className="text-sm text-gray-500 mt-1">دعني أواصل</p>
           <p className="text-xs text-teal-600 mt-2">Maintain speaking turn</p>
         </div>
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Hādhā yudhakkirunī bi</p>
+            <p className="font-bold text-lg text-gray-900">Hadha yudhakkiruni bi</p>
             <span className="text-2xl">💡</span>
           </div>
           <p className="text-gray-600">This reminds me of</p>

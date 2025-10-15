@@ -15,22 +15,22 @@ export default function CausativeConstructions() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Khallīt</p>
+            <p className="font-bold text-lg text-gray-900">Khallit</p>
             <span className="text-2xl">👥</span>
           </div>
           <p className="text-gray-600">I made/let (someone do)</p>
           <p className="text-sm text-gray-500 mt-1">خليت</p>
-          <p className="text-xs text-red-600 mt-2">Khallītū yākul - I made him eat</p>
+          <p className="text-xs text-red-600 mt-2">Khallitu yakul - I made him eat</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭlabt</p>
+            <p className="font-bold text-lg text-gray-900">Tlabt</p>
             <span className="text-2xl">🙏</span>
           </div>
           <p className="text-gray-600">I asked (someone to do)</p>
           <p className="text-sm text-gray-500 mt-1">طلبت</p>
-          <p className="text-xs text-red-600 mt-2">Ṭlabt minnū yajī - I asked him to come</p>
+          <p className="text-xs text-red-600 mt-2">Tlabt minnu yaji - I asked him to come</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
@@ -39,18 +39,18 @@ export default function CausativeConstructions() {
             <span className="text-2xl">📋</span>
           </div>
           <p className="text-gray-600">I ordered (someone to do)</p>
-          <p className="text-sm text-gray-500 mt-1">أمرت</p>
-          <p className="text-xs text-red-600 mt-2">Ammart bīh yruḥ - I ordered him to go</p>
+          <p className="text-sm text-gray-500 mt-1">أمرت</p>
+          <p className="text-xs text-red-600 mt-2">Ammart bih yruh - I ordered him to go</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Saʿadt</p>
+            <p className="font-bold text-lg text-gray-900">Sa'adt</p>
             <span className="text-2xl">🤝</span>
           </div>
           <p className="text-gray-600">I helped (someone do)</p>
           <p className="text-sm text-gray-500 mt-1">ساعدت</p>
-          <p className="text-xs text-red-600 mt-2">Saʿadtū yafham - I helped him understand</p>
+          <p className="text-xs text-red-600 mt-2">Sa'adtu yafham - I helped him understand</p>
         </div>
       </div>
     </div>

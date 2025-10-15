@@ -17,11 +17,11 @@ export default function ComplexDiscussionTopics() {
           <h3 className="font-semibold text-orange-800 mb-2">Abstract Concepts</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-ḥurriyya</p>
+              <p className="font-medium">Al-hurriyya</p>
               <p className="text-sm text-gray-600">Freedom</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-ʿadāla</p>
+              <p className="font-medium">Al-'adala</p>
               <p className="text-sm text-gray-600">Justice</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
@@ -39,11 +39,11 @@ export default function ComplexDiscussionTopics() {
           <h3 className="font-semibold text-orange-800 mb-2">Philosophical Terms</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-ḥaqīqa</p>
+              <p className="font-medium">Al-haqiqa</p>
               <p className="text-sm text-gray-600">Truth</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-maʿnā</p>
+              <p className="font-medium">Al-ma'na</p>
               <p className="text-sm text-gray-600">Meaning</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
@@ -51,7 +51,7 @@ export default function ComplexDiscussionTopics() {
               <p className="text-sm text-gray-600">Values</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-mabādiʾ</p>
+              <p className="font-medium">Al-mabadi'</p>
               <p className="text-sm text-gray-600">Principles</p>
             </div>
           </div>

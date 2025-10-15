@@ -18,21 +18,21 @@ export default function DigitalCommunication() {
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Al-barīd al-iliktronī</span>
+                <span className="font-medium text-gray-800">Al-barid al-iliktroni</span>
                 <p className="text-sm text-gray-600">Email</p>
               </div>
-              <span className="text-gray-600">البريد الإلكتروني</span>
+              <span className="text-gray-600">البريد الإلكتروني</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Mukālama fīdiyū</span>
+                <span className="font-medium text-gray-800">Mukalama fidiyu</span>
                 <p className="text-sm text-gray-600">Video call</p>
               </div>
               <span className="text-gray-600">مكالمة فيديو</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Risāla naṣṣiyya</span>
+                <span className="font-medium text-gray-800">Risala nassiyya</span>
                 <p className="text-sm text-gray-600">Text message</p>
               </div>
               <span className="text-gray-600">رسالة نصية</span>
@@ -44,11 +44,11 @@ export default function DigitalCommunication() {
           <h3 className="font-semibold text-orange-800 mb-3">Communication Actions</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Irsāl</span>
-              <span className="text-gray-600">Send (إرسال)</span>
+              <span className="font-medium text-gray-800">Irsal</span>
+              <span className="text-gray-600">Send (إرسال)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Istiqbāl</span>
+              <span className="font-medium text-gray-800">Istiqbal</span>
               <span className="text-gray-600">Receive (استقبال)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
@@ -56,7 +56,7 @@ export default function DigitalCommunication() {
               <span className="text-gray-600">Reply (رد)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-orange-200 rounded-lg">
-              <span className="font-medium text-gray-800">Taḥwīl</span>
+              <span className="font-medium text-gray-800">Tahwil</span>
               <span className="text-gray-600">Forward (تحويل)</span>
             </div>
           </div>

@@ -17,19 +17,19 @@ export default function CulturalAnalysisExpressions() {
           <h3 className="font-semibold text-indigo-800 mb-3">Analysis Phrases</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Hādhihi ẓāhira thaqāfiyya muʿaqqada</span>
+              <span className="font-medium text-gray-800">Hadhihi zahira thaqafiyya muʿaqqada</span>
               <span className="text-gray-600">This is a complex cultural phenomenon</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Yumkin tafsīr hādhā min khilāl...</span>
+              <span className="font-medium text-gray-800">Yumkin tafsir hadha min khilal...</span>
               <span className="text-gray-600">This can be interpreted through...</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Hādhā yaʿkis qiyam al-mujtamaʿ</span>
+              <span className="font-medium text-gray-800">Hadha yaʿkis qiyam al-mujtamaʿ</span>
               <span className="text-gray-600">This reflects society's values</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fī siyāq thaqāfī awsaʿ</span>
+              <span className="font-medium text-gray-800">Fi siyaq thaqafi awsaʿ</span>
               <span className="text-gray-600">In a broader cultural context</span>
             </div>
           </div>

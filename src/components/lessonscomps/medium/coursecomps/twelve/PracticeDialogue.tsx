@@ -16,25 +16,25 @@ export default function PracticeDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-medium text-gray-800">Mr. Hassan (Manager):</p>
-            <p className="text-gray-700">Yallāh nabdāw al-ijtimāʿ. Al-yawm ghādi nnaqqshu al-mashrūʿ al-jadīd.</p>
+            <p className="text-gray-700">Yallah nabdaw al-ijtima'. Al-yawm ghadi nnaqqshu al-mashru' al-jadid.</p>
             <p className="text-sm text-gray-600 mt-1">Let's start the meeting. Today we're going to discuss the new project.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-medium text-gray-800">Amina (Team Lead):</p>
-            <p className="text-gray-700">Fī raʾyī, al-mashrūʿ yiḥtāj mīzāniyya akbar min lli ḥaddadnā.</p>
+            <p className="text-gray-700">Fi ra'yi, al-mashru' yihtaj mizaniyya akbar min lli haddadna.</p>
             <p className="text-sm text-gray-600 mt-1">In my opinion, the project needs a bigger budget than what we determined.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-medium text-gray-800">Mr. Hassan:</p>
-            <p className="text-gray-700">Ash raʾyak yā Youssef? Hal yimkin nzīdu al-mīzāniyya?</p>
+            <p className="text-gray-700">Ash ra'yak ya Youssef? Hal yimkin nzidu al-mizaniyya?</p>
             <p className="text-sm text-gray-600 mt-1">What do you think, Youssef? Can we increase the budget?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-purple-400">
             <p className="font-medium text-gray-800">Youssef (Finance):</p>
-            <p className="text-gray-700">Khāṣṣna nfakkru fī hādhā. Lākin yimkin nwāfqu ʿalā ziyāda ṣaghīra.</p>
+            <p className="text-gray-700">Khassna nfakkru fi hadha. Lakin yimkin nwafqu 'ala ziyada saghira.</p>
             <p className="text-sm text-gray-600 mt-1">We need to think about this. But we can agree on a small increase.</p>
           </div>
         </div>

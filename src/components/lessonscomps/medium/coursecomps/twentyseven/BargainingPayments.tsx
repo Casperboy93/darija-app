@@ -42,7 +42,7 @@ export default function BargainingPayments() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Final price</td>
-            <td className="px-4 py-2">الثمن النهائي</td>
+            <td className="px-4 py-2">الثمن النهائي</td>
             <td className="px-4 py-2">thaman nihayi</td>
             <td className="px-4 py-2">Agreement.
             </td>

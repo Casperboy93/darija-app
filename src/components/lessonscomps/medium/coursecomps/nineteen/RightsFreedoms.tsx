@@ -17,19 +17,19 @@ export default function RightsFreedoms() {
           <h3 className="font-semibold text-yellow-800 mb-2">Fundamental Rights</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-yellow-50 rounded">
-              <p className="font-medium">Ḥuqūq al-insān</p>
+              <p className="font-medium">Huquq al-insan</p>
               <p className="text-sm text-gray-600">Human rights</p>
             </div>
             <div className="text-center p-2 bg-yellow-50 rounded">
-              <p className="font-medium">Ḥurriyyat at-taʿbīr</p>
+              <p className="font-medium">Hurriyyat at-taʿbir</p>
               <p className="text-sm text-gray-600">Freedom of expression</p>
             </div>
             <div className="text-center p-2 bg-yellow-50 rounded">
-              <p className="font-medium">Ḥurriyyat aṣ-ṣaḥāfa</p>
+              <p className="font-medium">Hurriyyat as-sahafa</p>
               <p className="text-sm text-gray-600">Press freedom</p>
             </div>
             <div className="text-center p-2 bg-yellow-50 rounded">
-              <p className="font-medium">Musāwāt</p>
+              <p className="font-medium">Musawat</p>
               <p className="text-sm text-gray-600">Equality</p>
             </div>
           </div>

@@ -24,7 +24,7 @@ export default function MakingAppointment() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">With which doctor?</td>
-            <td className="px-4 py-2">مع أي طبيب؟</td>
+            <td className="px-4 py-2">مع أي طبيب؟</td>
             <td className="px-4 py-2">m3 aay tbbib?</td>
             <td className="px-4 py-2">Reception reply.</td>
           </tr>
@@ -42,7 +42,7 @@ export default function MakingAppointment() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Okay, confirmed.</td>
-            <td className="px-4 py-2">مزيان، تأكد.</td>
+            <td className="px-4 py-2">مزيان، تأكد.</td>
             <td className="px-4 py-2">mzian, t2kkd.</td>
             <td className="px-4 py-2">Confirmation.</td>
           </tr>

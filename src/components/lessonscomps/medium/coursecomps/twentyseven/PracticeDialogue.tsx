@@ -80,7 +80,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, here it is.</td>
-              <td className="px-4 py-2">إيه، ها هي.</td>
+              <td className="px-4 py-2">إيه، ها هي.</td>
               <td className="px-4 py-2">ih, ha hiya.</td>
               <td className="px-4 py-2">Providing receipt.</td>
             </tr>
@@ -116,7 +116,7 @@ export default function PracticeDialogue() {
           <tbody className="text-gray-700">
             <tr className="border-t">
               <td className="px-4 py-2">My order is late.</td>
-              <td className="px-4 py-2">طلبي تأخر.</td>
+              <td className="px-4 py-2">طلبي تأخر.</td>
               <td className="px-4 py-2">tlbi t akhar.</td>
               <td className="px-4 py-2">Complaint.</td>
             </tr>
@@ -135,7 +135,7 @@ export default function PracticeDialogue() {
             <tr className="border-t">
               <td className="px-4 py-2">Please send it to this address.</td>
               <td className="px-4 py-2">صيفطوه لهاد العنوان عفاك.</td>
-              <td className="px-4 py-2">siftou lhād l 3nwan afak.</td>
+              <td className="px-4 py-2">siftou lhad l 3nwan afak.</td>
               <td className="px-4 py-2">Address.
               </td>
             </tr>

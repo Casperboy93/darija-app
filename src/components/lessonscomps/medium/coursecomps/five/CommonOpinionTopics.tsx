@@ -16,54 +16,54 @@ export default function CommonOpinionTopics() {
         <div className="bg-white border border-blue-200 rounded-lg p-4">
           <h4 className="font-medium text-blue-800 mb-2">Food & Restaurants</h4>
           <div className="text-sm space-y-1">
-            <p>• Shnu ra'yak f had l-mat3am?</p>
-            <p>• L-makla zwina wlla la?</p>
-            <p>• Kanfaddel l-makla l-maghribiya</p>
+            <p>- Shnu ra'yak f had l-mat3am?</p>
+            <p>- L-makla zwina wlla la?</p>
+            <p>- Kanfaddel l-makla l-maghribiya</p>
           </div>
         </div>
         
         <div className="bg-white border border-blue-200 rounded-lg p-4">
           <h4 className="font-medium text-blue-800 mb-2">Movies & Entertainment</h4>
           <div className="text-sm space-y-1">
-            <p>• Had l-film zwin bzzaf</p>
-            <p>• Ma kan3jebnish l-musique</p>
-            <p>• Kanshuf belli comedy afdal</p>
+            <p>- Had l-film zwin bzzaf</p>
+            <p>- Ma kan3jebnish l-musique</p>
+            <p>- Kanshuf belli comedy afdal</p>
           </div>
         </div>
         
         <div className="bg-white border border-blue-200 rounded-lg p-4">
           <h4 className="font-medium text-blue-800 mb-2">Weather & Seasons</h4>
           <div className="text-sm space-y-1">
-            <p>• Kanbghi l-sayf ktar men sh-shita</p>
-            <p>• L-waqt zwin l-yum</p>
-            <p>• Ma kan3jebnish l-brd</p>
+            <p>- Kanbghi l-sayf ktar men sh-shita</p>
+            <p>- L-waqt zwin l-yum</p>
+            <p>- Ma kan3jebnish l-brd</p>
           </div>
         </div>
         
         <div className="bg-white border border-blue-200 rounded-lg p-4">
           <h4 className="font-medium text-blue-800 mb-2">Work & Studies</h4>
           <div className="text-sm space-y-1">
-            <p>• L-khdma s3iba shwiya</p>
-            <p>• Kanshuf belli l-ta3lim muhim</p>
-            <p>• Ma kanbghish l-imtihanat</p>
+            <p>- L-khdma s3iba shwiya</p>
+            <p>- Kanshuf belli l-ta3lim muhim</p>
+            <p>- Ma kanbghish l-imtihanat</p>
           </div>
         </div>
         
         <div className="bg-white border border-blue-200 rounded-lg p-4">
           <h4 className="font-medium text-blue-800 mb-2">Travel & Places</h4>
           <div className="text-sm space-y-1">
-            <p>• Marrakech zwina bzzaf</p>
-            <p>• Kanfaddel l-bahr 3la l-jabal</p>
-            <p>• Had l-blasa ma kan3jebnish</p>
+            <p>- Marrakech zwina bzzaf</p>
+            <p>- Kanfaddel l-bahr 3la l-jabal</p>
+            <p>- Had l-blasa ma kan3jebnish</p>
           </div>
         </div>
         
         <div className="bg-white border border-blue-200 rounded-lg p-4">
           <h4 className="font-medium text-blue-800 mb-2">Technology & Social Media</h4>
           <div className="text-sm space-y-1">
-            <p>• L-internet mufid bzzaf</p>
-            <p>• Ma kanbghish Facebook ktar</p>
-            <p>• Kanshuf belli WhatsApp afdal</p>
+            <p>- L-internet mufid bzzaf</p>
+            <p>- Ma kanbghish Facebook ktar</p>
+            <p>- Kanshuf belli WhatsApp afdal</p>
           </div>
         </div>
       </div>

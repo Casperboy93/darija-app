@@ -17,15 +17,15 @@ export default function HospitalityCustoms() {
           <h3 className="font-semibold text-green-800 mb-3">As a Guest</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ṭlub al-idhun</span>
+              <span className="font-medium text-gray-800">Tlub al-idhun</span>
               <span className="text-gray-600">Ask for permission (before entering)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ikhlaʿ al-ḥidhāʾ</span>
+              <span className="font-medium text-gray-800">Ikhla' al-hidha'</span>
               <span className="text-gray-600">Remove shoes (when entering homes)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Iqbal al-ḍiyāfa</span>
+              <span className="font-medium text-gray-800">Iqbal al-diyafa</span>
               <span className="text-gray-600">Accept hospitality (tea, food)</span>
             </div>
           </div>
@@ -35,15 +35,15 @@ export default function HospitalityCustoms() {
           <h3 className="font-semibold text-green-800 mb-3">As a Host</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Qaddam al-atāy</span>
+              <span className="font-medium text-gray-800">Qaddam al-atay</span>
               <span className="text-gray-600">Offer tea (essential hospitality)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Iṣrār ʿalā al-akl</span>
+              <span className="font-medium text-gray-800">Israr 'ala al-akl</span>
               <span className="text-gray-600">Insist on food (show generosity)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Rāfiq al-ḍayf</span>
+              <span className="font-medium text-gray-800">Rafiq al-dayf</span>
               <span className="text-gray-600">Accompany the guest (when leaving)</span>
             </div>
           </div>

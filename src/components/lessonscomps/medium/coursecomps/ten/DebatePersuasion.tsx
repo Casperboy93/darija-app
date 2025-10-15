@@ -16,37 +16,37 @@ export default function DebatePersuasion() {
           <div className="bg-white p-4 rounded-md border border-red-100">
             <h4 className="font-semibold text-red-700 mb-2">Agreeing</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">3andak l ḥaqq:</span> You're right</p>
-              <p><span className="font-semibold">Muttafiq m3āk:</span> I agree with you</p>
-              <p><span className="font-semibold">Ṣaḥīḥ:</span> That's correct</p>
-              <p><span className="font-semibold">Bi ḍ ḍabṭ:</span> Exactly</p>
+              <p><span className="font-semibold">3andak l haqq:</span> You're right</p>
+              <p><span className="font-semibold">Muttafiq m3ak:</span> I agree with you</p>
+              <p><span className="font-semibold">Sahih:</span> That's correct</p>
+              <p><span className="font-semibold">Bi d dabt:</span> Exactly</p>
             </div>
           </div>
           <div className="bg-white p-4 rounded-md border border-red-100">
             <h4 className="font-semibold text-red-700 mb-2">Disagreeing</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">Mā muttafiqsh:</span> I don't agree</p>
-              <p><span className="font-semibold">Ghalaṭ:</span> Wrong</p>
-              <p><span className="font-semibold">Mush ṣaḥīḥ:</span> Not correct</p>
-              <p><span className="font-semibold">Lā, hāda mush ṣaḥ:</span> No, this isn't right</p>
+              <p><span className="font-semibold">Ma muttafiqsh:</span> I don't agree</p>
+              <p><span className="font-semibold">Ghalat:</span> Wrong</p>
+              <p><span className="font-semibold">Mush sahih:</span> Not correct</p>
+              <p><span className="font-semibold">La, hada mush sah:</span> No, this isn't right</p>
             </div>
           </div>
           <div className="bg-white p-4 rounded-md border border-red-100">
             <h4 className="font-semibold text-red-700 mb-2">Presenting Evidence</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">L dalīl huwa:</span> The evidence is</p>
+              <p><span className="font-semibold">L dalil huwa:</span> The evidence is</p>
               <p><span className="font-semibold">Matalan:</span> For example</p>
-              <p><span className="font-semibold">Hāda yubayyin:</span> This shows</p>
-              <p><span className="font-semibold">Wāḍiḥ anna:</span> It's clear that</p>
+              <p><span className="font-semibold">Hada yubayyin:</span> This shows</p>
+              <p><span className="font-semibold">Wadih anna:</span> It's clear that</p>
             </div>
           </div>
           <div className="bg-white p-4 rounded-md border border-red-100">
             <h4 className="font-semibold text-red-700 mb-2">Concluding</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">Idhān:</span> Therefore</p>
-              <p><span className="font-semibold">Bi t tālī:</span> Consequently</p>
-              <p><span className="font-semibold">L khulāṣa:</span> In conclusion</p>
-              <p><span className="font-semibold">Hāda ya3nī:</span> This means</p>
+              <p><span className="font-semibold">Idhan:</span> Therefore</p>
+              <p><span className="font-semibold">Bi t tali:</span> Consequently</p>
+              <p><span className="font-semibold">L khulasa:</span> In conclusion</p>
+              <p><span className="font-semibold">Hada ya3ni:</span> This means</p>
             </div>
           </div>
         </div>

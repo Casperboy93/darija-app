@@ -25,7 +25,7 @@ export default function LiteraturePoetry() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Qāfiya</p>
+            <p className="font-bold text-lg text-gray-900">Qafiya</p>
             <span className="text-2xl">🎵</span>
           </div>
           <p className="text-gray-600">Rhyme</p>
@@ -35,7 +35,7 @@ export default function LiteraturePoetry() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Baḥr</p>
+            <p className="font-bold text-lg text-gray-900">Bahr</p>
             <span className="text-2xl">🌊</span>
           </div>
           <p className="text-gray-600">Poetic meter</p>
@@ -55,7 +55,7 @@ export default function LiteraturePoetry() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Maqāma</p>
+            <p className="font-bold text-lg text-gray-900">Maqama</p>
             <span className="text-2xl">🎭</span>
           </div>
           <p className="text-gray-600">Literary assembly</p>
@@ -69,7 +69,7 @@ export default function LiteraturePoetry() {
             <span className="text-2xl">📚</span>
           </div>
           <p className="text-gray-600">Literature/Refinement</p>
-          <p className="text-sm text-gray-500 mt-1">أدب</p>
+          <p className="text-sm text-gray-500 mt-1">أدب</p>
           <p className="text-xs text-red-600 mt-2">Cultural cultivation</p>
         </div>
       </div>

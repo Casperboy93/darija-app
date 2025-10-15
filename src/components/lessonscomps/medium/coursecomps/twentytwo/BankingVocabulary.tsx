@@ -36,7 +36,7 @@ export default function BankingVocabulary() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">ATM</td>
-            <td className="px-4 py-2">صراف آلي</td>
+            <td className="px-4 py-2">صراف آلي</td>
             <td className="px-4 py-2">sarraaf ali</td>
             <td className="px-4 py-2">Cash machine.</td>
           </tr>
@@ -48,7 +48,7 @@ export default function BankingVocabulary() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Interest</td>
-            <td className="px-4 py-2">فائدة</td>
+            <td className="px-4 py-2">فائدة</td>
             <td className="px-4 py-2">faida</td>
             <td className="px-4 py-2">Applied to loans and savings.</td>
           </tr>
@@ -60,7 +60,7 @@ export default function BankingVocabulary() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Deposit</td>
-            <td className="px-4 py-2">إيداع</td>
+            <td className="px-4 py-2">إيداع</td>
             <td className="px-4 py-2">idaa</td>
             <td className="px-4 py-2">Put money into your account.</td>
           </tr>

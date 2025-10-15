@@ -30,13 +30,13 @@ export default function WorkplaceVocabulary() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Manager</td>
-            <td className="px-4 py-2">المسؤول</td>
+            <td className="px-4 py-2">المسؤول</td>
             <td className="px-4 py-2">l ms2ul</td>
             <td className="px-4 py-2">Supervisor role.</td>
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Deadline</td>
-            <td className="px-4 py-2">آخر أجل</td>
+            <td className="px-4 py-2">آخر أجل</td>
             <td className="px-4 py-2">akhr ajal</td>
             <td className="px-4 py-2">Due date.</td>
           </tr>

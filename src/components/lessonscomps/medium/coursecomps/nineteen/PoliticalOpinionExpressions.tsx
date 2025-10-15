@@ -17,20 +17,20 @@ export default function PoliticalOpinionExpressions() {
           <h3 className="font-semibold text-indigo-800 mb-3">Opinion Phrases</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fī raʾyī...</span>
-              <span className="text-gray-600">In my opinion... (في رأيي)</span>
+              <span className="font-medium text-gray-800">Fi raʾyi...</span>
+              <span className="text-gray-600">In my opinion... (في رأيي)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
               <span className="font-medium text-gray-800">Aʿtaqid anna...</span>
-              <span className="text-gray-600">I believe that... (أعتقد أن)</span>
+              <span className="text-gray-600">I believe that... (أعتقد أن)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Min wijhat naẓarī...</span>
+              <span className="font-medium text-gray-800">Min wijhat nazari...</span>
               <span className="text-gray-600">From my point of view... (من وجهة نظري)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-indigo-200 rounded-lg">
-              <span className="font-medium text-gray-800">Lā aṭṭafiq maʿa...</span>
-              <span className="text-gray-600">I disagree with... (لا أتفق مع)</span>
+              <span className="font-medium text-gray-800">La attafiq maʿa...</span>
+              <span className="text-gray-600">I disagree with... (لا أتفق مع)</span>
             </div>
           </div>
         </div>

@@ -27,9 +27,9 @@ export default function CulturalNote() {
           <div className="bg-white p-4 rounded-lg border border-amber-200 mt-4">
             <h4 className="font-medium text-amber-800 mb-2">Language Mixing Examples:</h4>
             <ul className="space-y-2 text-sm">
-              <li><strong>Computer:</strong> Both "al-ḥāsūb" (الحاسوب) and "kumbiyūtar" (كمبيوتر) are used</li>
-              <li><strong>Internet:</strong> "Internet" (إنترنت) is more common than "shabakat al-ʿankabūt" (شبكة العنكبوت)</li>
-              <li><strong>Email:</strong> "Email" (إيميل) is often used alongside "barīd iliktronī" (بريد إلكتروني)</li>
+              <li><strong>Computer:</strong> Both "al-hasub" (الحاسوب) and "kumbiyutar" (كمبيوتر) are used</li>
+              <li><strong>Internet:</strong> "Internet" (إنترنت) is more common than "shabakat al-'ankabut" (شبكة العنكبوت)</li>
+              <li><strong>Email:</strong> "Email" (إيميل) is often used alongside "barid iliktroni" (بريد إلكتروني)</li>
             </ul>
           </div>
           

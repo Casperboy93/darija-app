@@ -19,10 +19,10 @@ export default function AdvancedExpressionTechniques() {
             <span className="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded-full">Advanced</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Akīd:</span> Certainly</p>
+            <p className="text-sm"><span className="font-semibold">Akid:</span> Certainly</p>
             <p className="text-sm"><span className="font-semibold">Bla shak:</span> Without doubt</p>
-            <p className="text-sm"><span className="font-semibold">Mā fīh shak:</span> There's no doubt</p>
-            <p className="text-sm"><span className="font-semibold">Mutaʾakkid:</span> I'm sure</p>
+            <p className="text-sm"><span className="font-semibold">Ma fih shak:</span> There's no doubt</p>
+            <p className="text-sm"><span className="font-semibold">Muta'akkid:</span> I'm sure</p>
           </div>
         </div>
 
@@ -33,9 +33,9 @@ export default function AdvancedExpressionTechniques() {
           </div>
           <div className="mt-3 space-y-2">
             <p className="text-sm"><span className="font-semibold">Yumkin:</span> Maybe/Possibly</p>
-            <p className="text-sm"><span className="font-semibold">Mā n3rafsh:</span> I don't know</p>
+            <p className="text-sm"><span className="font-semibold">Ma n3rafsh:</span> I don't know</p>
             <p className="text-sm"><span className="font-semibold">Mushakkik:</span> I doubt it</p>
-            <p className="text-sm"><span className="font-semibold">Ghīr Allah ya3lam:</span> Only God knows</p>
+            <p className="text-sm"><span className="font-semibold">Ghir Allah ya3lam:</span> Only God knows</p>
           </div>
         </div>
 
@@ -45,10 +45,10 @@ export default function AdvancedExpressionTechniques() {
             <span className="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded-full">Advanced</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Farḥān bezzāf:</span> Very happy</p>
-            <p className="text-sm"><span className="font-semibold">Ḥazīn:</span> Sad</p>
+            <p className="text-sm"><span className="font-semibold">Farhan bezzaf:</span> Very happy</p>
+            <p className="text-sm"><span className="font-semibold">Hazin:</span> Sad</p>
             <p className="text-sm"><span className="font-semibold">Mugh3ab:</span> Angry</p>
-            <p className="text-sm"><span className="font-semibold">Khāyif:</span> Afraid</p>
+            <p className="text-sm"><span className="font-semibold">Khayif:</span> Afraid</p>
           </div>
         </div>
 
@@ -58,10 +58,10 @@ export default function AdvancedExpressionTechniques() {
             <span className="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded-full">Advanced</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Āsh rāyak f...?:</span> What do you think about...?</p>
-            <p className="text-sm"><span className="font-semibold">Yallāh ndīru...:</span> Let's do...</p>
-            <p className="text-sm"><span className="font-semibold">Aḥsan ḥāja:</span> The best thing</p>
-            <p className="text-sm"><span className="font-semibold">Lāzim ndīru:</span> We must do</p>
+            <p className="text-sm"><span className="font-semibold">Ash rayak f...?:</span> What do you think about...?</p>
+            <p className="text-sm"><span className="font-semibold">Yallah ndiru...:</span> Let's do...</p>
+            <p className="text-sm"><span className="font-semibold">Ahsan haja:</span> The best thing</p>
+            <p className="text-sm"><span className="font-semibold">Lazim ndiru:</span> We must do</p>
           </div>
         </div>
       </div>

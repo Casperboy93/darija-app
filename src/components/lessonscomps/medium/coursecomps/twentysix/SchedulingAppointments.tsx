@@ -25,7 +25,7 @@ export default function SchedulingAppointments() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">What dates are available?</td>
-            <td className="px-4 py-2">شنو الأيام المتاحة؟</td>
+            <td className="px-4 py-2">شنو الأيام المتاحة؟</td>
             <td className="px-4 py-2">shnu l ayam l mtaha?</td>
             <td className="px-4 py-2">Check availability.</td>
           </tr>
@@ -38,7 +38,7 @@ export default function SchedulingAppointments() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Please confirm the appointment</td>
-            <td className="px-4 py-2">عفاك أكّد الموعد</td>
+            <td className="px-4 py-2">عفاك أكّد الموعد</td>
             <td className="px-4 py-2">afak akkd l maw3id</td>
             <td className="px-4 py-2">Confirmation request.</td>
           </tr>

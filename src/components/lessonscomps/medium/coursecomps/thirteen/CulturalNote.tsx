@@ -24,7 +24,7 @@ export default function CulturalNote() {
             <div className="text-gray-700 space-y-3">
               <p>
                 Moroccan hospitality is legendary and deeply rooted in Islamic traditions and Berber customs. 
-                The concept of "ḍiyāfa" (hospitality) is considered sacred, and guests are treated with utmost respect and generosity.
+                The concept of "diyafa" (hospitality) is considered sacred, and guests are treated with utmost respect and generosity.
               </p>
               <p>
                 Understanding these cultural norms is essential for building meaningful relationships in Morocco. 
@@ -34,7 +34,7 @@ export default function CulturalNote() {
               <p>
                 Remember that in Moroccan culture, relationships often take precedence over punctuality or business efficiency. 
                 Taking time for proper greetings, inquiring about family, and showing genuine interest in people's wellbeing 
-                is not just polite—it's expected and appreciated.
+                is not just polite-it's expected and appreciated.
               </p>
             </div>
           </div>

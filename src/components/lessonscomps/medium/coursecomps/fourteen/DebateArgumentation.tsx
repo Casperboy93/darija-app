@@ -15,37 +15,37 @@ export default function DebateArgumentation() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Anā muqtaniʿ bi-anna</p>
+            <p className="font-bold text-lg text-gray-900">Ana muqtani' bi-anna</p>
             <span className="text-2xl">💭</span>
           </div>
           <p className="text-gray-600">I am convinced that</p>
-          <p className="text-sm text-gray-500 mt-1">أنا مقتنع بأن</p>
+          <p className="text-sm text-gray-500 mt-1">أنا مقتنع بأن</p>
           <p className="text-xs text-blue-600 mt-2">Strong opinion expression</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Min nāḥiya ukhrā</p>
+            <p className="font-bold text-lg text-gray-900">Min nahiya ukhra</p>
             <span className="text-2xl">↔️</span>
           </div>
           <p className="text-gray-600">On the other hand</p>
-          <p className="text-sm text-gray-500 mt-1">من ناحية أخرى</p>
+          <p className="text-sm text-gray-500 mt-1">من ناحية أخرى</p>
           <p className="text-xs text-blue-600 mt-2">Present counterarguments</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Lā yumkinunī an uwāfiq</p>
+            <p className="font-bold text-lg text-gray-900">La yumkinuni an uwafiq</p>
             <span className="text-2xl">❌</span>
           </div>
           <p className="text-gray-600">I cannot agree</p>
-          <p className="text-sm text-gray-500 mt-1">لا يمكنني أن أوافق</p>
+          <p className="text-sm text-gray-500 mt-1">لا يمكنني أن أوافق</p>
           <p className="text-xs text-blue-600 mt-2">Polite disagreement</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Hādhā dalīl qawī</p>
+            <p className="font-bold text-lg text-gray-900">Hadha dalil qawi</p>
             <span className="text-2xl">📊</span>
           </div>
           <p className="text-gray-600">This is strong evidence</p>

@@ -16,7 +16,7 @@ export default function CulturalNote() {
         their children receive quality education. The Moroccan education system includes both Arabic and French 
         instruction, reflecting the country's multilingual heritage. Universities like Mohammed V in Rabat and 
         Hassan II in Casablanca are prestigious institutions. Traditional Islamic education through Quranic schools 
-        (kuttāb) remains important alongside modern secular education. Respect for teachers (ustādh/ustādha) is 
+        (kuttab) remains important alongside modern secular education. Respect for teachers (ustadh/ustadha) is 
         deeply ingrained in Moroccan culture.
       </p>
     </div>

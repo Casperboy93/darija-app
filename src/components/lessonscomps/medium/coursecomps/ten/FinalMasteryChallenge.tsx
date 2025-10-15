@@ -18,19 +18,19 @@ export default function FinalMasteryChallenge() {
             <div>
               <p className="font-medium text-pink-800 mb-2">Required Elements:</p>
               <ul className="text-sm text-gray-700 space-y-1">
-                <li>• Personal story or anecdote</li>
-                <li>• Complex opinion with reasoning</li>
-                <li>• Cultural reference or comparison</li>
-                <li>• Interactive Q&A session</li>
+                <li>- Personal story or anecdote</li>
+                <li>- Complex opinion with reasoning</li>
+                <li>- Cultural reference or comparison</li>
+                <li>- Interactive Q&A session</li>
               </ul>
             </div>
             <div>
               <p className="font-medium text-pink-800 mb-2">Suggested Topics:</p>
               <ul className="text-sm text-gray-700 space-y-1">
-                <li>• "The Future of Morocco"</li>
-                <li>• "Technology and Tradition"</li>
-                <li>• "My Life Philosophy"</li>
-                <li>• "Education and Society"</li>
+                <li>- "The Future of Morocco"</li>
+                <li>- "Technology and Tradition"</li>
+                <li>- "My Life Philosophy"</li>
+                <li>- "Education and Society"</li>
               </ul>
             </div>
           </div>

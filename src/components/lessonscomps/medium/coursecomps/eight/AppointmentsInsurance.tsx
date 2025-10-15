@@ -14,19 +14,19 @@ export default function AppointmentsInsurance() {
         <h3 className="font-bold text-lg text-indigo-800 mb-4">Making Appointments</h3>
         <div className="space-y-3">
           <div className="bg-white p-3 rounded-md">
-            <p className="font-semibold text-indigo-700">Bghīt nākhud maw3id ma3 ṭabīb</p>
+            <p className="font-semibold text-indigo-700">Bghit nakhud maw3id ma3 tabib</p>
             <p className="text-gray-600 text-sm">I want to make an appointment with a doctor</p>
           </div>
           <div className="bg-white p-3 rounded-md">
-            <p className="font-semibold text-indigo-700">Āsh awwal maw3id fāḍī?</p>
+            <p className="font-semibold text-indigo-700">Ash awwal maw3id fadi?</p>
             <p className="text-gray-600 text-sm">What's the first available appointment?</p>
           </div>
           <div className="bg-white p-3 rounded-md">
-            <p className="font-semibold text-indigo-700">3andī ta'mīn ṣiḥḥī</p>
+            <p className="font-semibold text-indigo-700">3andi ta'min sihhi</p>
             <p className="text-gray-600 text-sm">I have health insurance</p>
           </div>
           <div className="bg-white p-3 rounded-md">
-            <p className="font-semibold text-indigo-700">Bḥāl shḥāl l kashf?</p>
+            <p className="font-semibold text-indigo-700">Bhal shhal l kashf?</p>
             <p className="text-gray-600 text-sm">How much is the consultation?</p>
           </div>
         </div>

@@ -17,19 +17,19 @@ export default function SpiritualReligiousConcepts() {
           <h3 className="font-semibold text-yellow-800 mb-3">Spiritual States</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-yellow-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fanāʾ</span>
+              <span className="font-medium text-gray-800">Fanaʾ</span>
               <span className="text-gray-600">Spiritual annihilation (فناء)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-yellow-200 rounded-lg">
-              <span className="font-medium text-gray-800">Baqāʾ</span>
+              <span className="font-medium text-gray-800">Baqaʾ</span>
               <span className="text-gray-600">Spiritual subsistence (بقاء)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-yellow-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ḥāl</span>
+              <span className="font-medium text-gray-800">Hal</span>
               <span className="text-gray-600">Spiritual state (حال)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-yellow-200 rounded-lg">
-              <span className="font-medium text-gray-800">Maqām</span>
+              <span className="font-medium text-gray-800">Maqam</span>
               <span className="text-gray-600">Spiritual station (مقام)</span>
             </div>
           </div>

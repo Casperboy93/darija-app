@@ -17,15 +17,15 @@ export default function ModalVerbsAdvancedConstructions() {
           <h3 className="font-semibold text-green-800 mb-3">Ability and Capability</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Qādir ndir</span>
+              <span className="font-medium text-gray-800">Qadir ndir</span>
               <span className="text-gray-600">I can do / I am able to do</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ma qādirsh</span>
+              <span className="font-medium text-gray-800">Ma qadirsh</span>
               <span className="text-gray-600">I cannot / I am not able to</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Kān qādir</span>
+              <span className="font-medium text-gray-800">Kan qadir</span>
               <span className="text-gray-600">He was able to / He could</span>
             </div>
           </div>
@@ -35,15 +35,15 @@ export default function ModalVerbsAdvancedConstructions() {
           <h3 className="font-semibold text-green-800 mb-3">Necessity and Obligation</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Khāṣṣnī ndir</span>
+              <span className="font-medium text-gray-800">Khassni ndir</span>
               <span className="text-gray-600">I must do / I have to do</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Lāzim ndir</span>
+              <span className="font-medium text-gray-800">Lazim ndir</span>
               <span className="text-gray-600">I need to do / It's necessary</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ma khāṣṣnīsh</span>
+              <span className="font-medium text-gray-800">Ma khassnish</span>
               <span className="text-gray-600">I don't have to / I don't need to</span>
             </div>
           </div>

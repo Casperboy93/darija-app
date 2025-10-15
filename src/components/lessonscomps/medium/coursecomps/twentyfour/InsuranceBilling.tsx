@@ -18,7 +18,7 @@ export default function InsuranceBilling() {
         <tbody className="text-gray-700">
           <tr className="border-t">
             <td className="px-4 py-2">Do you accept insurance?</td>
-            <td className="px-4 py-2">واش كتقبلو التأمين؟</td>
+            <td className="px-4 py-2">واش كتقبلو التأمين؟</td>
             <td className="px-4 py-2">wash katqblou t2min?</td>
             <td className="px-4 py-2">Insurance acceptance.</td>
           </tr>

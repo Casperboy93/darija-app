@@ -17,22 +17,22 @@ export default function PracticeExercise() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
               <p className="font-medium text-yellow-800 mb-2">Opening:</p>
-              <p className="text-sm text-gray-700">"Ahlan wa sahlan, ghādi nḥkī 3la..."</p>
+              <p className="text-sm text-gray-700">"Ahlan wa sahlan, ghadi nhki 3la..."</p>
               <p className="text-xs text-gray-500">(Welcome, I'm going to talk about...)</p>
             </div>
             <div>
               <p className="font-medium text-yellow-800 mb-2">Main Points:</p>
-              <p className="text-sm text-gray-700">"L nuqṭa l muhimma hiya..."</p>
+              <p className="text-sm text-gray-700">"L nuqta l muhimma hiya..."</p>
               <p className="text-xs text-gray-500">(The important point is...)</p>
             </div>
             <div>
               <p className="font-medium text-yellow-800 mb-2">Conclusion:</p>
-              <p className="text-sm text-gray-700">"F l khitām, natāʾij kānat..."</p>
+              <p className="text-sm text-gray-700">"F l khitam, nata'ij kanat..."</p>
               <p className="text-xs text-gray-500">(In conclusion, the results were...)</p>
             </div>
             <div>
               <p className="font-medium text-yellow-800 mb-2">Questions:</p>
-              <p className="text-sm text-gray-700">"Wāsh 3andkum asʾila?"</p>
+              <p className="text-sm text-gray-700">"Wash 3andkum as'ila?"</p>
               <p className="text-xs text-gray-500">(Do you have questions?)</p>
             </div>
           </div>

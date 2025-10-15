@@ -16,31 +16,31 @@ export default function TraditionalArtsCrafts() {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Zellīj</p>
+            <p className="font-semibold text-blue-700">Zellij</p>
             <p className="text-gray-600">Traditional mosaic tilework</p>
             <p className="text-sm text-gray-500 mt-1">Intricate geometric patterns using hand-cut tiles</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Taqshīr</p>
+            <p className="font-semibold text-blue-700">Taqshir</p>
             <p className="text-gray-600">Wood carving</p>
             <p className="text-sm text-gray-500 mt-1">Elaborate designs on cedar and other woods</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Ṣinā3a</p>
+            <p className="font-semibold text-blue-700">Sina3a</p>
             <p className="text-gray-600">Handicrafts</p>
             <p className="text-sm text-gray-500 mt-1">General term for traditional craftsmanship</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Khayāṭa</p>
+            <p className="font-semibold text-blue-700">Khayata</p>
             <p className="text-gray-600">Embroidery</p>
             <p className="text-sm text-gray-500 mt-1">Decorative needlework on textiles</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Fakhkhār</p>
+            <p className="font-semibold text-blue-700">Fakhkhar</p>
             <p className="text-gray-600">Pottery</p>
             <p className="text-sm text-gray-500 mt-1">Traditional ceramic work and clay vessels</p>
           </div>

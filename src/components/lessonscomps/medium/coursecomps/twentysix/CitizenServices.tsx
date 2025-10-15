@@ -31,7 +31,7 @@ export default function CitizenServices() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">What documents are required?</td>
-            <td className="px-4 py-2">شنو الوثائق المطلوبة؟</td>
+            <td className="px-4 py-2">شنو الوثائق المطلوبة؟</td>
             <td className="px-4 py-2">shnu l watha2iq l mtluba?</td>
             <td className="px-4 py-2">Document checklist.</td>
           </tr>

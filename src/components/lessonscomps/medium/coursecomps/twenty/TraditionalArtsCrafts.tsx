@@ -17,19 +17,19 @@ export default function TraditionalArtsCrafts() {
           <h3 className="font-semibold text-green-800 mb-2">Decorative Arts</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Zellīj</p>
+              <p className="font-medium">Zellij</p>
               <p className="text-sm text-gray-600">Mosaic tilework</p>
             </div>
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Taqṭīʿ</p>
+              <p className="font-medium">Taqtiʿ</p>
               <p className="text-sm text-gray-600">Geometric cutting</p>
             </div>
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Naqqāsh</p>
+              <p className="font-medium">Naqqash</p>
               <p className="text-sm text-gray-600">Engraver/Decorator</p>
             </div>
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Kharrāṭ</p>
+              <p className="font-medium">Kharrat</p>
               <p className="text-sm text-gray-600">Wood turner</p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function TraditionalArtsCrafts() {
           <h3 className="font-semibold text-green-800 mb-2">Textiles and Fashion</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Ḥarīr</p>
+              <p className="font-medium">Harir</p>
               <p className="text-sm text-gray-600">Silk</p>
             </div>
             <div className="text-center p-2 bg-green-50 rounded">
@@ -47,11 +47,11 @@ export default function TraditionalArtsCrafts() {
               <p className="text-sm text-gray-600">Traditional poetry/song</p>
             </div>
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Qafṭān</p>
+              <p className="font-medium">Qaftan</p>
               <p className="text-sm text-gray-600">Traditional robe</p>
             </div>
             <div className="text-center p-2 bg-green-50 rounded">
-              <p className="font-medium">Takchīṭa</p>
+              <p className="font-medium">Takchita</p>
               <p className="text-sm text-gray-600">Formal dress</p>
             </div>
           </div>

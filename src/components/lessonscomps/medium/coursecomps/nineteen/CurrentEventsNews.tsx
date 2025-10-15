@@ -15,17 +15,17 @@ export default function CurrentEventsNews() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Akhbār</p>
+            <p className="font-bold text-lg text-gray-900">Akhbar</p>
             <span className="text-2xl">📰</span>
           </div>
           <p className="text-gray-600">News</p>
-          <p className="text-sm text-gray-500 mt-1">أخبار</p>
+          <p className="text-sm text-gray-500 mt-1">أخبار</p>
           <p className="text-xs text-red-600 mt-2">Current information</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṣaḥāfa</p>
+            <p className="font-bold text-lg text-gray-900">Sahafa</p>
             <span className="text-2xl">📺</span>
           </div>
           <p className="text-gray-600">Press/Journalism</p>
@@ -35,7 +35,7 @@ export default function CurrentEventsNews() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṣaḥafī</p>
+            <p className="font-bold text-lg text-gray-900">Sahafi</p>
             <span className="text-2xl">🎤</span>
           </div>
           <p className="text-gray-600">Journalist</p>
@@ -45,7 +45,7 @@ export default function CurrentEventsNews() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Taqrīr</p>
+            <p className="font-bold text-lg text-gray-900">Taqrir</p>
             <span className="text-2xl">📋</span>
           </div>
           <p className="text-gray-600">Report</p>
@@ -55,7 +55,7 @@ export default function CurrentEventsNews() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Muqābala</p>
+            <p className="font-bold text-lg text-gray-900">Muqabala</p>
             <span className="text-2xl">🎙️</span>
           </div>
           <p className="text-gray-600">Interview</p>
@@ -65,11 +65,11 @@ export default function CurrentEventsNews() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Aḥdāth jāriya</p>
+            <p className="font-bold text-lg text-gray-900">Ahdath jariya</p>
             <span className="text-2xl">⚡</span>
           </div>
           <p className="text-gray-600">Current events</p>
-          <p className="text-sm text-gray-500 mt-1">أحداث جارية</p>
+          <p className="text-sm text-gray-500 mt-1">أحداث جارية</p>
           <p className="text-xs text-red-600 mt-2">Recent happenings</p>
         </div>
       </div>

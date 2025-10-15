@@ -30,6 +30,36 @@ import { lessonTwentySevenSEO } from '@/components/lessonscomps/beginner/courses
 import { lessonTwentyEightSEO } from '@/components/lessonscomps/beginner/courses/SEO/lessonTwentyEight';
 import { lessonTwentyNineSEO } from '@/components/lessonscomps/beginner/courses/SEO/lessonTwentyNine';
 import { lessonThirtySEO } from '@/components/lessonscomps/beginner/courses/SEO/lessonThirty';
+import { intermediateOneSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonOne';
+import { intermediateTwoSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwo';
+import { intermediateThreeSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonThree';
+import { intermediateFourSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonFour';
+import { intermediateFiveSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonFive';
+import { intermediateSixSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonSix';
+import { intermediateSevenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonSeven';
+import { intermediateEightSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonEight';
+import { intermediateNineSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonNine';
+import { intermediateTenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTen';
+import { intermediateElevenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonEleven';
+import { intermediateTwelveSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwelve';
+import { intermediateThirteenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonThirteen';
+import { intermediateFourteenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonFourteen';
+import { intermediateFifteenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonFifteen';
+import { intermediateSixteenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonSixteen';
+import { intermediateSeventeenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonSeventeen';
+import { intermediateEighteenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonEighteen';
+import { intermediateNineteenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonNineteen';
+import { intermediateTwentySEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwenty';
+import { intermediateTwentyOneSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyOne';
+import { intermediateTwentyTwoSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyTwo';
+import { intermediateTwentyThreeSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyThree';
+import { intermediateTwentyFourSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyFour';
+import { intermediateTwentyFiveSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyFive';
+import { intermediateTwentySixSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentySix';
+import { intermediateTwentySevenSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentySeven';
+import { intermediateTwentyEightSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyEight';
+import { intermediateTwentyNineSEO } from '@/components/lessonscomps/medium/courses/SEO/lessonTwentyNine';
+import { intermediateThirtySEO } from '@/components/lessonscomps/medium/courses/SEO/lessonThirty';
 
 const seoBySlug: Record<string, Metadata> = {
   'beginner-one': lessonOneSEO,
@@ -62,13 +92,45 @@ const seoBySlug: Record<string, Metadata> = {
   'beginner-twenty-eight': lessonTwentyEightSEO,
   'beginner-twenty-nine': lessonTwentyNineSEO,
   'beginner-thirty': lessonThirtySEO,
+  'intermediate-one': intermediateOneSEO,
+  'intermediate-two': intermediateTwoSEO,
+  'intermediate-three': intermediateThreeSEO,
+  'intermediate-four': intermediateFourSEO,
+  'intermediate-five': intermediateFiveSEO,
+  'intermediate-six': intermediateSixSEO,
+  'intermediate-seven': intermediateSevenSEO,
+  'intermediate-eight': intermediateEightSEO,
+  'intermediate-nine': intermediateNineSEO,
+  'intermediate-ten': intermediateTenSEO,
+  'intermediate-eleven': intermediateElevenSEO,
+  'intermediate-twelve': intermediateTwelveSEO,
+  'intermediate-thirteen': intermediateThirteenSEO,
+  'intermediate-fourteen': intermediateFourteenSEO,
+  'intermediate-fifteen': intermediateFifteenSEO,
+  'intermediate-sixteen': intermediateSixteenSEO,
+  'intermediate-seventeen': intermediateSeventeenSEO,
+  'intermediate-eighteen': intermediateEighteenSEO,
+  'intermediate-nineteen': intermediateNineteenSEO,
+  'intermediate-twenty': intermediateTwentySEO,
+  'intermediate-twenty-one': intermediateTwentyOneSEO,
+  'intermediate-twenty-two': intermediateTwentyTwoSEO,
+  'intermediate-twenty-three': intermediateTwentyThreeSEO,
+  'intermediate-twenty-four': intermediateTwentyFourSEO,
+  'intermediate-twenty-five': intermediateTwentyFiveSEO,
+  'intermediate-twenty-six': intermediateTwentySixSEO,
+  'intermediate-twenty-seven': intermediateTwentySevenSEO,
+  'intermediate-twenty-eight': intermediateTwentyEightSEO,
+  'intermediate-twenty-nine': intermediateTwentyNineSEO,
+  'intermediate-thirty': intermediateThirtySEO,
 };
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const meta = seoBySlug[params.slug];
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+
+  const meta = seoBySlug[slug];
   if (meta) return meta;
 
-  const readable = params.slug
+  const readable = slug
     .split('-')
     .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
     .join(' ');

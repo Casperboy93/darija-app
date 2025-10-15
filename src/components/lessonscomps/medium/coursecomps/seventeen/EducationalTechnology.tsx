@@ -15,7 +15,7 @@ export default function EducationalTechnology() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-yellow-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥāsūb</p>
+            <p className="font-bold text-lg text-gray-900">Hasub</p>
             <span className="text-2xl">💻</span>
           </div>
           <p className="text-gray-600">Computer</p>
@@ -29,7 +29,7 @@ export default function EducationalTechnology() {
             <span className="text-2xl">🌐</span>
           </div>
           <p className="text-gray-600">Internet</p>
-          <p className="text-sm text-gray-500 mt-1">إنترنت</p>
+          <p className="text-sm text-gray-500 mt-1">إنترنت</p>
           <p className="text-xs text-yellow-600 mt-2">Online resources</p>
         </div>
         

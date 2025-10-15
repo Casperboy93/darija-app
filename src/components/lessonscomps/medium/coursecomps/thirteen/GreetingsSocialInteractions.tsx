@@ -15,17 +15,17 @@ export default function GreetingsSocialInteractions() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">As-salāmu ʿalaykum</p>
+            <p className="font-bold text-lg text-gray-900">As-salamu 'alaykum</p>
             <span className="text-2xl">🤝</span>
           </div>
           <p className="text-gray-600">Peace be upon you (formal)</p>
           <p className="text-sm text-gray-500 mt-1">السلام عليكم</p>
-          <p className="text-xs text-blue-600 mt-2">Response: Wa ʿalaykum as-salām</p>
+          <p className="text-xs text-blue-600 mt-2">Response: Wa 'alaykum as-salam</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kayf ṣaḥtak?</p>
+            <p className="font-bold text-lg text-gray-900">Kayf sahtak?</p>
             <span className="text-2xl">❤️</span>
           </div>
           <p className="text-gray-600">How is your health?</p>
@@ -35,17 +35,17 @@ export default function GreetingsSocialInteractions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kayf al-ʿāʾila?</p>
+            <p className="font-bold text-lg text-gray-900">Kayf al-'a'ila?</p>
             <span className="text-2xl">👨‍👩‍👧‍👦</span>
           </div>
           <p className="text-gray-600">How is the family?</p>
-          <p className="text-sm text-gray-500 mt-1">كيف العائلة؟</p>
+          <p className="text-sm text-gray-500 mt-1">كيف العائلة؟</p>
           <p className="text-xs text-blue-600 mt-2">Important in Moroccan culture</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Bārak Allāhu fīk</p>
+            <p className="font-bold text-lg text-gray-900">Barak Allahu fik</p>
             <span className="text-2xl">🙏</span>
           </div>
           <p className="text-gray-600">May God bless you</p>

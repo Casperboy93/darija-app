@@ -19,19 +19,19 @@ export default function CulturalEtiquette() {
             <h3 className="font-bold text-pink-800 mb-2">Respectful Behavior</h3>
             <ul className="text-sm text-gray-700 space-y-2">
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Remove shoes when entering homes
               </li>
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Use right hand for eating and greeting
               </li>
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Dress modestly, especially in religious sites
               </li>
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Accept hospitality graciously
               </li>
             </ul>
@@ -41,19 +41,19 @@ export default function CulturalEtiquette() {
             <h3 className="font-bold text-pink-800 mb-2">Cultural Sensitivity</h3>
             <ul className="text-sm text-gray-700 space-y-2">
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Learn basic Islamic customs
               </li>
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Respect prayer times and Ramadan
               </li>
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Ask permission before photographing people
               </li>
               <li className="flex items-start">
-                <span className="text-pink-600 mr-2">•</span>
+                <span className="text-pink-600 mr-2">-</span>
                 Show interest in local traditions
               </li>
             </ul>

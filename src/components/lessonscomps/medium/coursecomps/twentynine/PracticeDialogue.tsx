@@ -41,7 +41,7 @@ export default function PracticeDialogue() {
               </tr>
               <tr>
                 <td className="px-4 py-2">My name is Adam</td>
-                <td className="px-4 py-2">سميتي آدم</td>
+                <td className="px-4 py-2">سميتي آدم</td>
                 <td className="px-4 py-2">smiti Adam</td>
                 <td className="px-4 py-2">Provide the booking name.</td>
               </tr>

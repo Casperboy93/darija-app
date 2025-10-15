@@ -16,15 +16,15 @@ export default function TraditionalMusicDance() {
         
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-md border-l-4 border-green-400">
-            <p className="font-semibold text-green-700">Gnāwa</p>
+            <p className="font-semibold text-green-700">Gnawa</p>
             <p className="text-gray-600">Spiritual music tradition with African roots</p>
-            <p className="text-sm text-gray-500 mt-1">Instruments: Qrāqib (metal castanets), Sintīr (bass lute)</p>
+            <p className="text-sm text-gray-500 mt-1">Instruments: Qraqib (metal castanets), Sintir (bass lute)</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-blue-400">
-            <p className="font-semibold text-blue-700">Andalusī</p>
+            <p className="font-semibold text-blue-700">Andalusi</p>
             <p className="text-gray-600">Classical Andalusian music</p>
-            <p className="text-sm text-gray-500 mt-1">Instruments: 3ūd (lute), Qānūn (zither), Riqq (tambourine)</p>
+            <p className="text-sm text-gray-500 mt-1">Instruments: 3ud (lute), Qanun (zither), Riqq (tambourine)</p>
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-purple-400">
@@ -34,7 +34,7 @@ export default function TraditionalMusicDance() {
           </div>
           
           <div className="bg-white p-4 rounded-md border-l-4 border-orange-400">
-            <p className="font-semibold text-orange-700">Ahwāsh</p>
+            <p className="font-semibold text-orange-700">Ahwash</p>
             <p className="text-gray-600">Berber traditional dance and music</p>
             <p className="text-sm text-gray-500 mt-1">Performed in groups with drums and chanting</p>
           </div>

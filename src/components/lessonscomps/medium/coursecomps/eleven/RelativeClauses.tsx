@@ -25,22 +25,22 @@ export default function RelativeClauses() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Lli fīh</p>
+            <p className="font-bold text-lg text-gray-900">Lli fih</p>
             <span className="text-2xl">📍</span>
           </div>
           <p className="text-gray-600">Where/In which</p>
           <p className="text-sm text-gray-500 mt-1">اللي فيه</p>
-          <p className="text-xs text-blue-600 mt-2">Al-maḥall lli fīh - The place where</p>
+          <p className="text-xs text-blue-600 mt-2">Al-mahall lli fih - The place where</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Lli ʿandū</p>
+            <p className="font-bold text-lg text-gray-900">Lli 'andu</p>
             <span className="text-2xl">🤝</span>
           </div>
           <p className="text-gray-600">Who has/Whose</p>
           <p className="text-sm text-gray-500 mt-1">اللي عندو</p>
-          <p className="text-xs text-blue-600 mt-2">Ar-rajul lli ʿandū - The man who has</p>
+          <p className="text-xs text-blue-600 mt-2">Ar-rajul lli 'andu - The man who has</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">

@@ -15,7 +15,7 @@ export default function ConservationSustainability() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥimāya</p>
+            <p className="font-bold text-lg text-gray-900">Himaya</p>
             <span className="text-2xl">🛡️</span>
           </div>
           <p className="text-gray-600">Protection</p>
@@ -25,7 +25,7 @@ export default function ConservationSustainability() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Istidāma</p>
+            <p className="font-bold text-lg text-gray-900">Istidama</p>
             <span className="text-2xl">♻️</span>
           </div>
           <p className="text-gray-600">Sustainability</p>
@@ -35,7 +35,7 @@ export default function ConservationSustainability() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭāqa mutajaddida</p>
+            <p className="font-bold text-lg text-gray-900">Taqa mutajaddida</p>
             <span className="text-2xl">☀️</span>
           </div>
           <p className="text-gray-600">Renewable energy</p>
@@ -45,7 +45,7 @@ export default function ConservationSustainability() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Tadwīr</p>
+            <p className="font-bold text-lg text-gray-900">Tadwir</p>
             <span className="text-2xl">♻️</span>
           </div>
           <p className="text-gray-600">Recycling</p>

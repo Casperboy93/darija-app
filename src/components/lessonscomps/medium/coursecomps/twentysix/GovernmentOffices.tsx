@@ -31,7 +31,7 @@ export default function GovernmentOffices() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Tax office</td>
-            <td className="px-4 py-2">مكتب الضرائب</td>
+            <td className="px-4 py-2">مكتب الضرائب</td>
             <td className="px-4 py-2">mktab d dara2ib</td>
             <td className="px-4 py-2">Administration.
             </td>

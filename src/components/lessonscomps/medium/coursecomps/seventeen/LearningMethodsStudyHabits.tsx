@@ -17,19 +17,19 @@ export default function LearningMethodsStudyHabits() {
           <h3 className="font-semibold text-orange-800 mb-2">Study Activities</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Qirāʾa</p>
+              <p className="font-medium">Qiraʾa</p>
               <p className="text-sm text-gray-600">Reading</p>
             </div>
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Kitāba</p>
+              <p className="font-medium">Kitaba</p>
               <p className="text-sm text-gray-600">Writing</p>
             </div>
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Ḥifẓ</p>
+              <p className="font-medium">Hifz</p>
               <p className="text-sm text-gray-600">Memorization</p>
             </div>
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Murājaʿa</p>
+              <p className="font-medium">Murajaʿa</p>
               <p className="text-sm text-gray-600">Review</p>
             </div>
           </div>
@@ -39,19 +39,19 @@ export default function LearningMethodsStudyHabits() {
           <h3 className="font-semibold text-orange-800 mb-2">Learning Styles</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Taʿallum jamāʿī</p>
+              <p className="font-medium">Taʿallum jamaʿi</p>
               <p className="text-sm text-gray-600">Group learning</p>
             </div>
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Taʿallum fardī</p>
+              <p className="font-medium">Taʿallum fardi</p>
               <p className="text-sm text-gray-600">Individual learning</p>
             </div>
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Taʿallum ʿamalī</p>
+              <p className="font-medium">Taʿallum ʿamali</p>
               <p className="text-sm text-gray-600">Practical learning</p>
             </div>
             <div className="text-center p-2 bg-white rounded border border-orange-200">
-              <p className="font-medium">Taʿallum naẓarī</p>
+              <p className="font-medium">Taʿallum nazari</p>
               <p className="text-sm text-gray-600">Theoretical learning</p>
             </div>
           </div>

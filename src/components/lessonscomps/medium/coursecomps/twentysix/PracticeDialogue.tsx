@@ -32,7 +32,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, here it is.</td>
-              <td className="px-4 py-2">إيه، ها هي.</td>
+              <td className="px-4 py-2">إيه، ها هي.</td>
               <td className="px-4 py-2">ih, ha hiya.</td>
               <td className="px-4 py-2">Providing ID.</td>
             </tr>
@@ -92,7 +92,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Please confirm the appointment.</td>
-              <td className="px-4 py-2">عفاك أكّد الموعد.</td>
+              <td className="px-4 py-2">عفاك أكّد الموعد.</td>
               <td className="px-4 py-2">afak akkd l maw3id.</td>
               <td className="px-4 py-2">Confirmation.
               </td>
@@ -129,7 +129,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, please pay at the counter.</td>
-              <td className="px-4 py-2">إيه، خلص فالشباك عفاك.</td>
+              <td className="px-4 py-2">إيه، خلص فالشباك عفاك.</td>
               <td className="px-4 py-2">ih, khallas f shbbak afak.</td>
               <td className="px-4 py-2">Cashier desk.
               </td>

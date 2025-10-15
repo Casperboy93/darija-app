@@ -17,19 +17,19 @@ export default function EnvironmentalActions() {
           <h3 className="font-semibold text-indigo-800 mb-2">Daily Actions</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Tawfīr al-miyāh</p>
+              <p className="font-medium">Tawfir al-miyah</p>
               <p className="text-sm text-gray-600">Save water</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Tawfīr aṭ-ṭāqa</p>
+              <p className="font-medium">Tawfir at-taqa</p>
               <p className="text-sm text-gray-600">Save energy</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Qalīl al-nufāyāt</p>
+              <p className="font-medium">Qalil al-nufayat</p>
               <p className="text-sm text-gray-600">Reduce waste</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Naql ʿāmm</p>
+              <p className="font-medium">Naql ʿamm</p>
               <p className="text-sm text-gray-600">Public transport</p>
             </div>
           </div>

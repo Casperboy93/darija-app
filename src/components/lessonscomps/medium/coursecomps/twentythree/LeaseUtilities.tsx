@@ -18,7 +18,7 @@ export default function LeaseUtilities() {
         <tbody className="text-gray-700">
           <tr className="border-t">
             <td className="px-4 py-2">When does the lease start?</td>
-            <td className="px-4 py-2">فاش كيبدأ العقد؟</td>
+            <td className="px-4 py-2">فاش كيبدأ العقد؟</td>
             <td className="px-4 py-2">fash kaybda l aqd?</td>
             <td className="px-4 py-2">Lease timing.</td>
           </tr>

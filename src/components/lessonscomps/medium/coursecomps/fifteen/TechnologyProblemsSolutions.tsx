@@ -18,21 +18,21 @@ export default function TechnologyProblemsSolutions() {
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Lā yaʿmal</span>
+                <span className="font-medium text-gray-800">La ya'mal</span>
                 <p className="text-sm text-gray-600">Doesn't work</p>
               </div>
               <span className="text-gray-600">لا يعمل</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Inqaṭaʿa al-ittiṣāl</span>
+                <span className="font-medium text-gray-800">Inqata'a al-ittisal</span>
                 <p className="text-sm text-gray-600">Connection lost</p>
               </div>
               <span className="text-gray-600">انقطع الاتصال</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Baṭīʾ jiddan</span>
+                <span className="font-medium text-gray-800">Bati' jiddan</span>
                 <p className="text-sm text-gray-600">Very slow</p>
               </div>
               <span className="text-gray-600">بطيء جداً</span>
@@ -45,28 +45,28 @@ export default function TechnologyProblemsSolutions() {
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Iʿādat tashghīl</span>
+                <span className="font-medium text-gray-800">I'adat tashghil</span>
                 <p className="text-sm text-gray-600">Restart</p>
               </div>
-              <span className="text-gray-600">إعادة تشغيل</span>
+              <span className="text-gray-600">إعادة تشغيل</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Taḥdīth</span>
+                <span className="font-medium text-gray-800">Tahdith</span>
                 <p className="text-sm text-gray-600">Update</p>
               </div>
               <span className="text-gray-600">تحديث</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Iṣlāḥ</span>
+                <span className="font-medium text-gray-800">Islah</span>
                 <p className="text-sm text-gray-600">Fix/Repair</p>
               </div>
-              <span className="text-gray-600">إصلاح</span>
+              <span className="text-gray-600">إصلاح</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
               <div>
-                <span className="font-medium text-gray-800">Faḥṣ al-ittiṣāl</span>
+                <span className="font-medium text-gray-800">Fahs al-ittisal</span>
                 <p className="text-sm text-gray-600">Check connection</p>
               </div>
               <span className="text-gray-600">فحص الاتصال</span>

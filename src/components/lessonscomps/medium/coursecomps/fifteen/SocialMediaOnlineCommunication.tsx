@@ -17,19 +17,19 @@ export default function SocialMediaOnlineCommunication() {
           <h3 className="font-semibold text-green-800 mb-3">Social Media Platforms</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Facebook - Faysbūk</span>
+              <span className="font-medium text-gray-800">Facebook - Faysbuk</span>
               <span className="text-gray-600">فيسبوك</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Instagram - Instāgrām</span>
-              <span className="text-gray-600">إنستغرام</span>
+              <span className="font-medium text-gray-800">Instagram - Instagram</span>
+              <span className="text-gray-600">إنستغرام</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">WhatsApp - Wātsāb</span>
+              <span className="font-medium text-gray-800">WhatsApp - Watsab</span>
               <span className="text-gray-600">واتساب</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">YouTube - Yūtyūb</span>
+              <span className="font-medium text-gray-800">YouTube - Yutyub</span>
               <span className="text-gray-600">يوتيوب</span>
             </div>
           </div>
@@ -43,15 +43,15 @@ export default function SocialMediaOnlineCommunication() {
               <span className="text-gray-600">Post/Publish (نشر)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Iʿjāb</span>
-              <span className="text-gray-600">Like (إعجاب)</span>
+              <span className="font-medium text-gray-800">I'jab</span>
+              <span className="text-gray-600">Like (إعجاب)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Taʿlīq</span>
+              <span className="font-medium text-gray-800">Ta'liq</span>
               <span className="text-gray-600">Comment (تعليق)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Mushāraka</span>
+              <span className="font-medium text-gray-800">Musharaka</span>
               <span className="text-gray-600">Share (مشاركة)</span>
             </div>
           </div>

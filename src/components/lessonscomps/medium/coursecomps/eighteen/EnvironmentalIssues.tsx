@@ -15,7 +15,7 @@ export default function EnvironmentalIssues() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Taghyīr al-munākh</p>
+            <p className="font-bold text-lg text-gray-900">Taghyir al-munakh</p>
             <span className="text-2xl">🌡️</span>
           </div>
           <p className="text-gray-600">Climate change</p>
@@ -25,7 +25,7 @@ export default function EnvironmentalIssues() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Iḥtibās ḥarārī</p>
+            <p className="font-bold text-lg text-gray-900">Ihtibas harari</p>
             <span className="text-2xl">🔥</span>
           </div>
           <p className="text-gray-600">Global warming</p>
@@ -35,7 +35,7 @@ export default function EnvironmentalIssues() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Jafāf</p>
+            <p className="font-bold text-lg text-gray-900">Jafaf</p>
             <span className="text-2xl">🏜️</span>
           </div>
           <p className="text-gray-600">Drought</p>
@@ -45,7 +45,7 @@ export default function EnvironmentalIssues() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Taṣaḥḥur</p>
+            <p className="font-bold text-lg text-gray-900">Tasahhur</p>
             <span className="text-2xl">🏜️</span>
           </div>
           <p className="text-gray-600">Desertification</p>
@@ -59,19 +59,19 @@ export default function EnvironmentalIssues() {
           <h3 className="font-semibold text-orange-800 mb-3">Pollution Types</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Talawwuth al-hawāʾ</p>
+              <p className="font-medium">Talawwuth al-hawaʾ</p>
               <p className="text-sm text-gray-600">Air pollution</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Talawwuth al-miyāh</p>
+              <p className="font-medium">Talawwuth al-miyah</p>
               <p className="text-sm text-gray-600">Water pollution</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Nufāyāt</p>
+              <p className="font-medium">Nufayat</p>
               <p className="text-sm text-gray-600">Waste</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Talawwuth bilaṣtīkī</p>
+              <p className="font-medium">Talawwuth bilastiki</p>
               <p className="text-sm text-gray-600">Plastic pollution</p>
             </div>
           </div>

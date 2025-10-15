@@ -15,7 +15,7 @@ export default function NaturalEnvironmentsEcosystems() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ghāba</p>
+            <p className="font-bold text-lg text-gray-900">Ghaba</p>
             <span className="text-2xl">🌲</span>
           </div>
           <p className="text-gray-600">Forest</p>
@@ -25,7 +25,7 @@ export default function NaturalEnvironmentsEcosystems() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṣaḥrāʾ</p>
+            <p className="font-bold text-lg text-gray-900">Sahraʾ</p>
             <span className="text-2xl">🏜️</span>
           </div>
           <p className="text-gray-600">Desert</p>
@@ -45,7 +45,7 @@ export default function NaturalEnvironmentsEcosystems() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Sāḥil</p>
+            <p className="font-bold text-lg text-gray-900">Sahil</p>
             <span className="text-2xl">🏖️</span>
           </div>
           <p className="text-gray-600">Coast</p>
@@ -65,7 +65,7 @@ export default function NaturalEnvironmentsEcosystems() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Buḥayra</p>
+            <p className="font-bold text-lg text-gray-900">Buhayra</p>
             <span className="text-2xl">🏞️</span>
           </div>
           <p className="text-gray-600">Lake</p>

@@ -15,7 +15,7 @@ export default function SocialEconomicIssues() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Baṭāla</p>
+            <p className="font-bold text-lg text-gray-900">Batala</p>
             <span className="text-2xl">📉</span>
           </div>
           <p className="text-gray-600">Unemployment</p>
@@ -45,7 +45,7 @@ export default function SocialEconomicIssues() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿAdāla ijtimāʿiyya</p>
+            <p className="font-bold text-lg text-gray-900">ʿAdala ijtimaʿiyya</p>
             <span className="text-2xl">⚖️</span>
           </div>
           <p className="text-gray-600">Social justice</p>

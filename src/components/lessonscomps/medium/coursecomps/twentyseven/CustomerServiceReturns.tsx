@@ -24,7 +24,7 @@ export default function CustomerServiceReturns() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">What is your return policy?</td>
-            <td className="px-4 py-2">شنو سياسة الإرجاع؟</td>
+            <td className="px-4 py-2">شنو سياسة الإرجاع؟</td>
             <td className="px-4 py-2">shnu siyaset l irja3?</td>
             <td className="px-4 py-2">Policy question.</td>
           </tr>
@@ -43,7 +43,7 @@ export default function CustomerServiceReturns() {
           <tr className="border-t">
             <td className="px-4 py-2">Customer support</td>
             <td className="px-4 py-2">خدمة الزبناء</td>
-            <td className="px-4 py-2">khidmat zbnā2</td>
+            <td className="px-4 py-2">khidmat zbna2</td>
             <td className="px-4 py-2">Support department.</td>
           </tr>
         </tbody>

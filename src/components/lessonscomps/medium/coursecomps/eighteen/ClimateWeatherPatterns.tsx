@@ -15,7 +15,7 @@ export default function ClimateWeatherPatterns() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Munākh mutawassiṭī</p>
+            <p className="font-bold text-lg text-gray-900">Munakh mutawassiti</p>
             <span className="text-2xl">🌊</span>
           </div>
           <p className="text-gray-600">Mediterranean climate</p>
@@ -25,7 +25,7 @@ export default function ClimateWeatherPatterns() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Munākh ṣaḥrāwī</p>
+            <p className="font-bold text-lg text-gray-900">Munakh sahrawi</p>
             <span className="text-2xl">☀️</span>
           </div>
           <p className="text-gray-600">Desert climate</p>
@@ -35,7 +35,7 @@ export default function ClimateWeatherPatterns() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Munākh jabalī</p>
+            <p className="font-bold text-lg text-gray-900">Munakh jabali</p>
             <span className="text-2xl">🏔️</span>
           </div>
           <p className="text-gray-600">Mountain climate</p>
@@ -45,7 +45,7 @@ export default function ClimateWeatherPatterns() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Riyāḥ sharqiyya</p>
+            <p className="font-bold text-lg text-gray-900">Riyah sharqiyya</p>
             <span className="text-2xl">💨</span>
           </div>
           <p className="text-gray-600">Sirocco winds</p>
@@ -59,15 +59,15 @@ export default function ClimateWeatherPatterns() {
           <h3 className="font-semibold text-red-800 mb-3">Weather Vocabulary</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Ḥārr</p>
+              <p className="font-medium">Harr</p>
               <p className="text-sm text-gray-600">Hot</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Bārid</p>
+              <p className="font-medium">Barid</p>
               <p className="text-sm text-gray-600">Cold</p>
             </div>
             <div className="text-center p-2 bg-white rounded">
-              <p className="font-medium">Maṭar</p>
+              <p className="font-medium">Matar</p>
               <p className="text-sm text-gray-600">Rain</p>
             </div>
             <div className="text-center p-2 bg-white rounded">

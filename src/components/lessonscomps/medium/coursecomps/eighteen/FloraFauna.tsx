@@ -20,20 +20,20 @@ export default function FloraFauna() {
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
               <div>
                 <p className="font-medium text-gray-800">Argan</p>
-                <p className="text-sm text-gray-600">أركان</p>
+                <p className="text-sm text-gray-600">أركان</p>
               </div>
               <span className="text-2xl">🌳</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
               <div>
                 <p className="font-medium text-gray-800">Arz</p>
-                <p className="text-sm text-gray-600">Cedar - أرز</p>
+                <p className="text-sm text-gray-600">Cedar - أرز</p>
               </div>
               <span className="text-2xl">🌲</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
               <div>
-                <p className="font-medium text-gray-800">Zaytūn</p>
+                <p className="font-medium text-gray-800">Zaytun</p>
                 <p className="text-sm text-gray-600">Olive - زيتون</p>
               </div>
               <span className="text-2xl">🫒</span>
@@ -68,7 +68,7 @@ export default function FloraFauna() {
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
               <div>
-                <p className="font-medium text-gray-800">Ghazāl</p>
+                <p className="font-medium text-gray-800">Ghazal</p>
                 <p className="text-sm text-gray-600">Gazelle - غزال</p>
               </div>
               <span className="text-2xl">🦌</span>

@@ -24,7 +24,7 @@ export default function BusinessVocabulary() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mashrūʿ</p>
+            <p className="font-bold text-lg text-gray-900">Mashru'</p>
             <span className="text-2xl">📋</span>
           </div>
           <p className="text-gray-600">Project</p>
@@ -33,7 +33,7 @@ export default function BusinessVocabulary() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ijtimāʿ</p>
+            <p className="font-bold text-lg text-gray-900">Ijtima'</p>
             <span className="text-2xl">👥</span>
           </div>
           <p className="text-gray-600">Meeting</p>
@@ -42,7 +42,7 @@ export default function BusinessVocabulary() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿAqd</p>
+            <p className="font-bold text-lg text-gray-900">'Aqd</p>
             <span className="text-2xl">📄</span>
           </div>
           <p className="text-gray-600">Contract</p>
@@ -51,7 +51,7 @@ export default function BusinessVocabulary() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mīzāniyya</p>
+            <p className="font-bold text-lg text-gray-900">Mizaniyya</p>
             <span className="text-2xl">💰</span>
           </div>
           <p className="text-gray-600">Budget</p>
@@ -60,7 +60,7 @@ export default function BusinessVocabulary() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Sūq</p>
+            <p className="font-bold text-lg text-gray-900">Suq</p>
             <span className="text-2xl">📈</span>
           </div>
           <p className="text-gray-600">Market</p>

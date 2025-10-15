@@ -23,7 +23,7 @@ export default function TypesOfConditionals() {
           
           <div className="bg-blue-50 p-4 rounded-md mb-4 border-l-4 border-blue-400">
             <p className="font-medium text-blue-800">Structure:</p>
-            <p><span className="font-mono">ila + present tense → future tense</span></p>
+            <p><span className="font-mono">ila + present tense -&gt; future tense</span></p>
             <p className="mt-1 text-gray-600">Used for situations that are possible or likely to occur</p>
           </div>
           
@@ -49,7 +49,7 @@ export default function TypesOfConditionals() {
           
           <div className="bg-blue-50 p-4 rounded-md mb-4 border-l-4 border-blue-400">
             <p className="font-medium text-blue-800">Structure:</p>
-            <p><span className="font-mono">kun + past tense → kun + past tense</span></p>
+            <p><span className="font-mono">kun + past tense -&gt; kun + past tense</span></p>
             <p className="mt-1 text-gray-600">Used for imaginary or impossible situations</p>
           </div>
           
@@ -75,7 +75,7 @@ export default function TypesOfConditionals() {
           
           <div className="bg-blue-50 p-4 rounded-md mb-4 border-l-4 border-blue-400">
             <p className="font-medium text-blue-800">Structure:</p>
-            <p><span className="font-mono">ila kunt + present → kun + past</span></p>
+            <p><span className="font-mono">ila kunt + present -&gt; kun + past</span></p>
             <p className="mt-1 text-gray-600">Used for present situations that are contrary to reality</p>
           </div>
           

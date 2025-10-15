@@ -17,19 +17,19 @@ export default function AcademicDegreesQualifications() {
           <h3 className="font-semibold text-teal-800 mb-3">University Degrees</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Shahādat al-bākālūriyā</span>
+              <span className="font-medium text-gray-800">Shahadat al-bakaluriya</span>
               <span className="text-gray-600">Bachelor's degree (شهادة البكالوريا)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Shahādat al-laysāns</span>
+              <span className="font-medium text-gray-800">Shahadat al-laysans</span>
               <span className="text-gray-600">License degree (شهادة الليسانس)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Shahādat al-mājistīr</span>
+              <span className="font-medium text-gray-800">Shahadat al-majistir</span>
               <span className="text-gray-600">Master's degree (شهادة الماجستير)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Shahādat ad-duktūrāh</span>
+              <span className="font-medium text-gray-800">Shahadat ad-dukturah</span>
               <span className="text-gray-600">PhD degree (شهادة الدكتوراه)</span>
             </div>
           </div>

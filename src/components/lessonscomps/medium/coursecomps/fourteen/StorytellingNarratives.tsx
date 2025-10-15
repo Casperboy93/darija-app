@@ -17,15 +17,15 @@ export default function StorytellingNarratives() {
           <h3 className="font-semibold text-green-800 mb-3">Story Beginnings</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Kān yā mā kān</span>
+              <span className="font-medium text-gray-800">Kan ya ma kan</span>
               <span className="text-gray-600">Once upon a time</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fī yawm min al-ayyām</span>
+              <span className="font-medium text-gray-800">Fi yawm min al-ayyam</span>
               <span className="text-gray-600">One day</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ḥadatha anna</span>
+              <span className="font-medium text-gray-800">Hadatha anna</span>
               <span className="text-gray-600">It happened that</span>
             </div>
           </div>
@@ -35,15 +35,15 @@ export default function StorytellingNarratives() {
           <h3 className="font-semibold text-green-800 mb-3">Narrative Transitions</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Baʿd dhālik</span>
+              <span className="font-medium text-gray-800">Ba'd dhalik</span>
               <span className="text-gray-600">After that</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fajʾatan</span>
+              <span className="font-medium text-gray-800">Faj'atan</span>
               <span className="text-gray-600">Suddenly</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fī al-nihāya</span>
+              <span className="font-medium text-gray-800">Fi al-nihaya</span>
               <span className="text-gray-600">In the end</span>
             </div>
           </div>

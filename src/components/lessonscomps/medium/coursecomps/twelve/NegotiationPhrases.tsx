@@ -15,7 +15,7 @@ export default function NegotiationPhrases() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ash raʾyak?</p>
+            <p className="font-bold text-lg text-gray-900">Ash ra'yak?</p>
             <span className="text-2xl">🤔</span>
           </div>
           <p className="text-gray-600">What do you think?</p>
@@ -24,7 +24,7 @@ export default function NegotiationPhrases() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Yimkin nwāfqu</p>
+            <p className="font-bold text-lg text-gray-900">Yimkin nwafqu</p>
             <span className="text-2xl">🤝</span>
           </div>
           <p className="text-gray-600">We can agree</p>
@@ -33,7 +33,7 @@ export default function NegotiationPhrases() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Hādhī ṣafqa jayida</p>
+            <p className="font-bold text-lg text-gray-900">Hadhi safqa jayida</p>
             <span className="text-2xl">✅</span>
           </div>
           <p className="text-gray-600">This is a good deal</p>
@@ -42,7 +42,7 @@ export default function NegotiationPhrases() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Khāṣṣna nfakkru</p>
+            <p className="font-bold text-lg text-gray-900">Khassna nfakkru</p>
             <span className="text-2xl">💭</span>
           </div>
           <p className="text-gray-600">We need to think about it</p>

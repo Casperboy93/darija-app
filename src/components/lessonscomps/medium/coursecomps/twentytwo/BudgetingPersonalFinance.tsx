@@ -54,7 +54,7 @@ export default function BudgetingPersonalFinance() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Emergency fund</td>
-            <td className="px-4 py-2">صندوق الطوارئ</td>
+            <td className="px-4 py-2">صندوق الطوارئ</td>
             <td className="px-4 py-2">snduq t tawari</td>
             <td className="px-4 py-2">For unexpected costs.</td>
           </tr>

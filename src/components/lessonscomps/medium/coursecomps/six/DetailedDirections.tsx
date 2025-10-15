@@ -16,19 +16,19 @@ export default function DetailedDirections() {
         <h3 className="font-bold text-lg text-blue-800 mb-3">Direction Phrases</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div>
-            <p className="font-semibold text-blue-700">Sīr nīshan ḥtta tousel l...</p>
+            <p className="font-semibold text-blue-700">Sir nishan htta tousel l...</p>
             <p className="text-gray-600">Go straight until you reach...</p>
           </div>
           <div>
-            <p className="font-semibold text-blue-700">Dūr 3la līmīn/līsār</p>
+            <p className="font-semibold text-blue-700">Dur 3la limin/lisar</p>
             <p className="text-gray-600">Turn right/left</p>
           </div>
           <div>
-            <p className="font-semibold text-blue-700">Ghādi tlqā... 3la yeddāk</p>
+            <p className="font-semibold text-blue-700">Ghadi tlqa... 3la yeddak</p>
             <p className="text-gray-600">You'll find... on your right</p>
           </div>
           <div>
-            <p className="font-semibold text-blue-700">Qdām l masjid mubāshara</p>
+            <p className="font-semibold text-blue-700">Qdam l masjid mubashara</p>
             <p className="text-gray-600">Right in front of the mosque</p>
           </div>
         </div>

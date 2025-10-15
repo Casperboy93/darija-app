@@ -36,7 +36,7 @@ export default function PharmacyPhrases() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">Are there side effects?</td>
-            <td className="px-4 py-2">واش كاينين آثار جانبية؟</td>
+            <td className="px-4 py-2">واش كاينين آثار جانبية؟</td>
             <td className="px-4 py-2">wash kaynin athar janbiya?</td>
             <td className="px-4 py-2">Safety check.</td>
           </tr>

@@ -18,7 +18,7 @@ export default function SmallTalkOpeners() {
         <tbody className="text-gray-700">
           <tr className="border-t">
             <td className="px-4 py-2">How's everything?</td>
-            <td className="px-4 py-2">كيداير الأمور؟</td>
+            <td className="px-4 py-2">كيداير الأمور؟</td>
             <td className="px-4 py-2">kidair l umor?</td>
             <td className="px-4 py-2">General opener.</td>
           </tr>

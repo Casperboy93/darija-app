@@ -17,15 +17,15 @@ export default function EducationalInstitutions() {
           <h3 className="font-semibold text-green-800 mb-3">Primary and Secondary Education</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Madrasa ibtidāʾiyya</span>
-              <span className="text-gray-600">Primary school (مدرسة ابتدائية)</span>
+              <span className="font-medium text-gray-800">Madrasa ibtidaʾiyya</span>
+              <span className="text-gray-600">Primary school (مدرسة ابتدائية)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Madrasa iʿdādiyya</span>
-              <span className="text-gray-600">Middle school (مدرسة إعدادية)</span>
+              <span className="font-medium text-gray-800">Madrasa iʿdadiyya</span>
+              <span className="text-gray-600">Middle school (مدرسة إعدادية)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Thānawiyya</span>
+              <span className="font-medium text-gray-800">Thanawiyya</span>
               <span className="text-gray-600">High school (ثانوية)</span>
             </div>
           </div>
@@ -35,11 +35,11 @@ export default function EducationalInstitutions() {
           <h3 className="font-semibold text-green-800 mb-3">Higher Education</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Jāmiʿa</span>
+              <span className="font-medium text-gray-800">Jamiʿa</span>
               <span className="text-gray-600">University (جامعة)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Maʿhad ʿālī</span>
+              <span className="font-medium text-gray-800">Maʿhad ʿali</span>
               <span className="text-gray-600">Higher institute (معهد عالي)</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">

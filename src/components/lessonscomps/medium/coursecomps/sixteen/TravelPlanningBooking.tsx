@@ -15,7 +15,7 @@ export default function TravelPlanningBooking() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Riḥla</p>
+            <p className="font-bold text-lg text-gray-900">Rihla</p>
             <span className="text-2xl">✈️</span>
           </div>
           <p className="text-gray-600">Trip/Journey</p>
@@ -25,7 +25,7 @@ export default function TravelPlanningBooking() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥajz</p>
+            <p className="font-bold text-lg text-gray-900">Hajz</p>
             <span className="text-2xl">📅</span>
           </div>
           <p className="text-gray-600">Booking/Reservation</p>
@@ -35,7 +35,7 @@ export default function TravelPlanningBooking() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Jawāz as-safar</p>
+            <p className="font-bold text-lg text-gray-900">Jawaz as-safar</p>
             <span className="text-2xl">📘</span>
           </div>
           <p className="text-gray-600">Passport</p>
@@ -45,11 +45,11 @@ export default function TravelPlanningBooking() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Tāʾshīrat ad-dukhūl</p>
+            <p className="font-bold text-lg text-gray-900">Taʾshirat ad-dukhul</p>
             <span className="text-2xl">🛂</span>
           </div>
           <p className="text-gray-600">Visa</p>
-          <p className="text-sm text-gray-500 mt-1">تأشيرة الدخول</p>
+          <p className="text-sm text-gray-500 mt-1">تأشيرة الدخول</p>
           <p className="text-xs text-blue-600 mt-2">Entry permit</p>
         </div>
       </div>

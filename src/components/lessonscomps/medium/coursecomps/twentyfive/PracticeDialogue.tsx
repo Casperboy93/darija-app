@@ -60,7 +60,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, I’ll finish before 5 PM.</td>
-              <td className="px-4 py-2">إييه، نكمل قبل الخامسة.</td>
+              <td className="px-4 py-2">إييه، نكمل قبل الخامسة.</td>
               <td className="px-4 py-2">iyyh, nkml qbl l khmsa.</td>
               <td className="px-4 py-2">Commitment.
               </td>
@@ -89,14 +89,14 @@ export default function PracticeDialogue() {
           <tbody className="text-gray-700">
             <tr className="border-t">
               <td className="px-4 py-2">Did you receive my email?</td>
-              <td className="px-4 py-2">وصل ليك الإيميل ديالي؟</td>
+              <td className="px-4 py-2">وصل ليك الإيميل ديالي؟</td>
               <td className="px-4 py-2">wssl lik l email dyali?</td>
               <td className="px-4 py-2">Confirmation.
               </td>
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, I’ll reply soon.</td>
-              <td className="px-4 py-2">إييه، نجاوب قريب.</td>
+              <td className="px-4 py-2">إييه، نجاوب قريب.</td>
               <td className="px-4 py-2">iyyh, njawb qrib.</td>
               <td className="px-4 py-2">Response.
               </td>

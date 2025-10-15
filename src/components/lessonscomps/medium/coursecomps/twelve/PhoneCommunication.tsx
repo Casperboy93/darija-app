@@ -17,11 +17,11 @@ export default function PhoneCommunication() {
           <h3 className="font-semibold text-teal-800 mb-3">Answering the Phone</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Allō, sharikāt...</span>
+              <span className="font-medium text-gray-800">Allo, sharikat...</span>
               <span className="text-gray-600">Hello, ... company</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Kayf yimkinnī musāʿadtak?</span>
+              <span className="font-medium text-gray-800">Kayf yimkinni musa'adtak?</span>
               <span className="text-gray-600">How can I help you?</span>
             </div>
           </div>
@@ -31,11 +31,11 @@ export default function PhoneCommunication() {
           <h3 className="font-semibold text-teal-800 mb-3">Making Appointments</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Urīd ḥajz mawʿid</span>
+              <span className="font-medium text-gray-800">Urid hajz maw'id</span>
               <span className="text-gray-600">I would like to book an appointment</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-teal-200 rounded-lg">
-              <span className="font-medium text-gray-800">Hal yimkin yawm al-khamīs?</span>
+              <span className="font-medium text-gray-800">Hal yimkin yawm al-khamis?</span>
               <span className="text-gray-600">Is Thursday possible?</span>
             </div>
           </div>

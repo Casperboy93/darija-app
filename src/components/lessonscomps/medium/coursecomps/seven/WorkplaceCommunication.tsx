@@ -15,9 +15,9 @@ export default function WorkplaceCommunication() {
           <h3 className="font-bold text-lg text-red-800 mb-3">Making Requests</h3>
           <div className="space-y-2">
             <p className="text-sm"><span className="font-semibold">Mumkin t3āwnnī?:</span> Can you help me?</p>
-            <p className="text-sm"><span className="font-semibold">Bghīt nṭlub minnak:</span> I want to ask you</p>
-            <p className="text-sm"><span className="font-semibold">Wāsh mumkin...?:</span> Is it possible...?</p>
-            <p className="text-sm"><span className="font-semibold">3afāk dir līya:</span> Please do for me</p>
+            <p className="text-sm"><span className="font-semibold">Bghit ntlub minnak:</span> I want to ask you</p>
+            <p className="text-sm"><span className="font-semibold">Wash mumkin...?:</span> Is it possible...?</p>
+            <p className="text-sm"><span className="font-semibold">3afak dir liya:</span> Please do for me</p>
           </div>
         </div>
 
@@ -26,8 +26,8 @@ export default function WorkplaceCommunication() {
           <div className="space-y-2">
             <p className="text-sm"><span className="font-semibold">Mashrū3 māshī mazyan:</span> Project is going well</p>
             <p className="text-sm"><span className="font-semibold">Kammelt l 3amal:</span> I finished the work</p>
-            <p className="text-sm"><span className="font-semibold">Bāqī kāyn mushkil:</span> There's still a problem</p>
-            <p className="text-sm"><span className="font-semibold">Ḥtāj waqt zāyid:</span> Need more time</p>
+            <p className="text-sm"><span className="font-semibold">Baqi kayn mushkil:</span> There's still a problem</p>
+            <p className="text-sm"><span className="font-semibold">Htaj waqt zayid:</span> Need more time</p>
           </div>
         </div>
       </div>

@@ -15,19 +15,19 @@ export default function CulturalConversationNuances() {
           <div>
             <h3 className="font-bold text-teal-800 mb-2">Formal vs Informal</h3>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• Use "Ḥaḍritak" for very formal address</li>
-              <li>• Switch to "nta/nti" with friends</li>
-              <li>• Adjust vocabulary based on age/status</li>
-              <li>• Use religious expressions appropriately</li>
+              <li>- Use "Hadritak" for very formal address</li>
+              <li>- Switch to "nta/nti" with friends</li>
+              <li>- Adjust vocabulary based on age/status</li>
+              <li>- Use religious expressions appropriately</li>
             </ul>
           </div>
           <div>
             <h3 className="font-bold text-teal-800 mb-2">Regional Variations</h3>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• Northern Morocco: more Spanish influence</li>
-              <li>• Casablanca: more French terms</li>
-              <li>• Rural areas: more traditional expressions</li>
-              <li>• Adapt to your conversation partner</li>
+              <li>- Northern Morocco: more Spanish influence</li>
+              <li>- Casablanca: more French terms</li>
+              <li>- Rural areas: more traditional expressions</li>
+              <li>- Adapt to your conversation partner</li>
             </ul>
           </div>
         </div>

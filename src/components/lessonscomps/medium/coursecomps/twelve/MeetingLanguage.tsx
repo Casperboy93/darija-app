@@ -17,15 +17,15 @@ export default function MeetingLanguage() {
           <h3 className="font-semibold text-green-800 mb-3">Starting a Meeting</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Yallāh nabdāw</span>
+              <span className="font-medium text-gray-800">Yallah nabdaw</span>
               <span className="text-gray-600">Let's start</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Al-yawm ghādi nnaqqshu</span>
+              <span className="font-medium text-gray-800">Al-yawm ghadi nnaqqshu</span>
               <span className="text-gray-600">Today we're going to discuss</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Awwal ḥāja</span>
+              <span className="font-medium text-gray-800">Awwal haja</span>
               <span className="text-gray-600">First thing</span>
             </div>
           </div>
@@ -35,15 +35,15 @@ export default function MeetingLanguage() {
           <h3 className="font-semibold text-green-800 mb-3">Expressing Opinions</h3>
           <div className="space-y-3">
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Fī raʾyī</span>
+              <span className="font-medium text-gray-800">Fi ra'yi</span>
               <span className="text-gray-600">In my opinion</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Ana muttafiq maʿāk</span>
+              <span className="font-medium text-gray-800">Ana muttafiq ma'ak</span>
               <span className="text-gray-600">I agree with you</span>
             </div>
             <div className="flex justify-between items-center p-3 bg-white border border-green-200 rounded-lg">
-              <span className="font-medium text-gray-800">Lākin ʿandī fikra ukhrā</span>
+              <span className="font-medium text-gray-800">Lakin 'andi fikra ukhra</span>
               <span className="text-gray-600">But I have another idea</span>
             </div>
           </div>

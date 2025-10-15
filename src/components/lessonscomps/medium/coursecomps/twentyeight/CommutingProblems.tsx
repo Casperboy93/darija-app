@@ -18,7 +18,7 @@ export default function CommutingProblems() {
         <tbody className="text-gray-700">
           <tr className="border-t">
             <td className="px-4 py-2">Delayed</td>
-            <td className="px-4 py-2">متأخر</td>
+            <td className="px-4 py-2">متأخر</td>
             <td className="px-4 py-2">mt'akhr</td>
             <td className="px-4 py-2">Train/bus delay.
             </td>

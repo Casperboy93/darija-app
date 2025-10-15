@@ -25,7 +25,7 @@ export default function GiftGivingSocialOccasions() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥalwā</p>
+            <p className="font-bold text-lg text-gray-900">Halwa</p>
             <span className="text-2xl">🍯</span>
           </div>
           <p className="text-gray-600">Sweets</p>
@@ -35,7 +35,7 @@ export default function GiftGivingSocialOccasions() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Zafāf</p>
+            <p className="font-bold text-lg text-gray-900">Zafaf</p>
             <span className="text-2xl">💒</span>
           </div>
           <p className="text-gray-600">Wedding</p>
@@ -45,7 +45,7 @@ export default function GiftGivingSocialOccasions() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿĪd</p>
+            <p className="font-bold text-lg text-gray-900">'Id</p>
             <span className="text-2xl">🎉</span>
           </div>
           <p className="text-gray-600">Holiday/Festival</p>

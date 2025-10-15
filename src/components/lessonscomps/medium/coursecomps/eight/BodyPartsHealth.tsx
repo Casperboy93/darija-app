@@ -15,13 +15,13 @@ export default function BodyPartsHealth() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Rās</p>
+            <p className="font-bold text-lg text-gray-900">Ras</p>
             <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Body</span>
           </div>
           <p className="text-gray-600">Head</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: ras</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600">Example: "Rāsī kaywalja3nī" (My head hurts)</p>
+            <p className="text-sm text-gray-600">Example: "Rasi kaywalja3ni" (My head hurts)</p>
           </div>
         </div>
 
@@ -33,19 +33,19 @@ export default function BodyPartsHealth() {
           <p className="text-gray-600">Heart</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: qalb</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600">Example: "Qalbī kayḍrab bezzāf" (My heart is beating fast)</p>
+            <p className="text-sm text-gray-600">Example: "Qalbi kaydrab bezzaf" (My heart is beating fast)</p>
           </div>
         </div>
 
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Baṭn</p>
+            <p className="font-bold text-lg text-gray-900">Batn</p>
             <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Body</span>
           </div>
           <p className="text-gray-600">Stomach/Belly</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: batn</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600">Example: "Baṭnī kaywalja3nī men l makla" (My stomach hurts from the food)</p>
+            <p className="text-sm text-gray-600">Example: "Batni kaywalja3ni men l makla" (My stomach hurts from the food)</p>
           </div>
         </div>
 
@@ -57,7 +57,7 @@ export default function BodyPartsHealth() {
           <p className="text-gray-600">Leg/Foot</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: rigl</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600">Example: "Riglī mkassra" (My leg is broken)</p>
+            <p className="text-sm text-gray-600">Example: "Rigli mkassra" (My leg is broken)</p>
           </div>
         </div>
       </div>

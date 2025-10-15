@@ -17,15 +17,15 @@ export default function ArchitectureUrbanPlanning() {
           <h3 className="font-semibold text-orange-800 mb-2">Architectural Elements</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Miʿmār</p>
+              <p className="font-medium">Miʿmar</p>
               <p className="text-sm text-gray-600">Architect</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Riyāḍ</p>
+              <p className="font-medium">Riyad</p>
               <p className="text-sm text-gray-600">Traditional house</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Ṣaḥn</p>
+              <p className="font-medium">Sahn</p>
               <p className="text-sm text-gray-600">Courtyard</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
@@ -39,11 +39,11 @@ export default function ArchitectureUrbanPlanning() {
           <h3 className="font-semibold text-orange-800 mb-2">Urban Spaces</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Madīna qadīma</p>
+              <p className="font-medium">Madina qadima</p>
               <p className="text-sm text-gray-600">Old city/Medina</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Sūq</p>
+              <p className="font-medium">Suq</p>
               <p className="text-sm text-gray-600">Traditional market</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
@@ -51,7 +51,7 @@ export default function ArchitectureUrbanPlanning() {
               <p className="text-sm text-gray-600">Caravanserai</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Ḥammām</p>
+              <p className="font-medium">Hammam</p>
               <p className="text-sm text-gray-600">Public bath</p>
             </div>
           </div>

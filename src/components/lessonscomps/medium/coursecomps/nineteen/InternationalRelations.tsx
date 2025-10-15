@@ -17,19 +17,19 @@ export default function InternationalRelations() {
           <h3 className="font-semibold text-orange-800 mb-2">Diplomatic Terms</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Diblūmāsiyya</p>
+              <p className="font-medium">Diblumasiyya</p>
               <p className="text-sm text-gray-600">Diplomacy</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Safīr</p>
+              <p className="font-medium">Safir</p>
               <p className="text-sm text-gray-600">Ambassador</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Muʿāhada</p>
+              <p className="font-medium">Muʿahada</p>
               <p className="text-sm text-gray-600">Treaty</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Ittifāqiyya</p>
+              <p className="font-medium">Ittifaqiyya</p>
               <p className="text-sm text-gray-600">Agreement</p>
             </div>
           </div>
@@ -39,19 +39,19 @@ export default function InternationalRelations() {
           <h3 className="font-semibold text-orange-800 mb-2">International Organizations</h3>
           <div className="grid grid-cols-2 gap-3">
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-Umam al-Muttaḥida</p>
+              <p className="font-medium">Al-Umam al-Muttahida</p>
               <p className="text-sm text-gray-600">United Nations</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Jāmiʿat ad-Duwal al-ʿArabiyya</p>
+              <p className="font-medium">Jamiʿat ad-Duwal al-ʿArabiyya</p>
               <p className="text-sm text-gray-600">Arab League</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-Ittiḥād al-Afrīqī</p>
+              <p className="font-medium">Al-Ittihad al-Afriqi</p>
               <p className="text-sm text-gray-600">African Union</p>
             </div>
             <div className="text-center p-2 bg-orange-50 rounded">
-              <p className="font-medium">Al-Ittiḥād al-Maghāribī</p>
+              <p className="font-medium">Al-Ittihad al-Magharibi</p>
               <p className="text-sm text-gray-600">Arab Maghreb Union</p>
             </div>
           </div>

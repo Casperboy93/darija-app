@@ -16,19 +16,19 @@ export default function EmergencySituations() {
           <div className="bg-white p-4 rounded-md border border-red-100">
             <p className="font-medium text-red-800 mb-2">Calling for Help:</p>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• "3āwnnī 3afākum!" (Help me please!)</li>
-              <li>• "Ṭlbu l is3āf!" (Call for help!)</li>
-              <li>• "Fīn l mustashfā?" (Where is the hospital?)</li>
-              <li>• "Bghīt ṭabīb!" (I need a doctor!)</li>
+              <li>- "3awnni 3afakum!" (Help me please!)</li>
+              <li>- "Tlbu l is3af!" (Call for help!)</li>
+              <li>- "Fin l mustashfa?" (Where is the hospital?)</li>
+              <li>- "Bghit tabib!" (I need a doctor!)</li>
             </ul>
           </div>
           <div className="bg-white p-4 rounded-md border border-red-100">
             <p className="font-medium text-red-800 mb-2">Describing Urgency:</p>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• "Ḥāla ṭāriʾa!" (Emergency!)</li>
-              <li>• "Kaywalja3nī bezzāf!" (It hurts a lot!)</li>
-              <li>• "Ma qadartsh nmshī!" (I can't walk!)</li>
-              <li>• "Ghādi nghma 3layya!" (I'm going to faint!)</li>
+              <li>- "Hala tari'a!" (Emergency!)</li>
+              <li>- "Kaywalja3ni bezzaf!" (It hurts a lot!)</li>
+              <li>- "Ma qadartsh nmshi!" (I can't walk!)</li>
+              <li>- "Ghadi nghma 3layya!" (I'm going to faint!)</li>
             </ul>
           </div>
         </div>

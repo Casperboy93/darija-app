@@ -15,7 +15,7 @@ export default function ReligiousCulturalSensitivity() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Waqt aṣ-ṣalāh</p>
+            <p className="font-bold text-lg text-gray-900">Waqt as-salah</p>
             <span className="text-2xl">🕌</span>
           </div>
           <p className="text-gray-600">Prayer time</p>
@@ -25,7 +25,7 @@ export default function ReligiousCulturalSensitivity() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Shahr Ramaḍān</p>
+            <p className="font-bold text-lg text-gray-900">Shahr Ramadan</p>
             <span className="text-2xl">🌙</span>
           </div>
           <p className="text-gray-600">Month of Ramadan</p>
@@ -35,7 +35,7 @@ export default function ReligiousCulturalSensitivity() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Libās muḥtashim</p>
+            <p className="font-bold text-lg text-gray-900">Libas muhtashim</p>
             <span className="text-2xl">👔</span>
           </div>
           <p className="text-gray-600">Modest dress</p>
@@ -45,7 +45,7 @@ export default function ReligiousCulturalSensitivity() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Iḥtirām al-taqālīd</p>
+            <p className="font-bold text-lg text-gray-900">Ihtiram al-taqalid</p>
             <span className="text-2xl">🤲</span>
           </div>
           <p className="text-gray-600">Respect traditions</p>

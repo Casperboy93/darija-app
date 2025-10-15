@@ -16,31 +16,31 @@ export default function PracticeDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border-l-4 border-pink-400">
             <p className="font-medium text-gray-800">Student A:</p>
-            <p className="text-gray-700">Mādhā tadrus fī al-jāmiʿa?</p>
+            <p className="text-gray-700">Madha tadrus fi al-jamiʿa?</p>
             <p className="text-sm text-gray-600 mt-1">What do you study at university?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-medium text-gray-800">Student B:</p>
-            <p className="text-gray-700">Adrus al-handasat al-ḥāsūbiyya. Wa anta?</p>
+            <p className="text-gray-700">Adrus al-handasat al-hasubiyya. Wa anta?</p>
             <p className="text-sm text-gray-600 mt-1">I study computer engineering. And you?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-pink-400">
             <p className="font-medium text-gray-800">Student A:</p>
-            <p className="text-gray-700">Adrus al-ādāb al-ʿarabiyya. Kayf tajid dirāsatak?</p>
+            <p className="text-gray-700">Adrus al-adab al-ʿarabiyya. Kayf tajid dirasatak?</p>
             <p className="text-sm text-gray-600 mt-1">I study Arabic literature. How do you find your studies?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-medium text-gray-800">Student B:</p>
-            <p className="text-gray-700">Ṣaʿba jiddan, lākin mumaṭṭiʿa. Hal ʿindak imtiḥānāt hādhihi al-usbūʿ?</p>
+            <p className="text-gray-700">Saʿba jiddan, lakin mumattiʿa. Hal ʿindak imtihanat hadhihi al-usbuʿ?</p>
             <p className="text-sm text-gray-600 mt-1">Very difficult, but interesting. Do you have exams this week?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-pink-400">
             <p className="font-medium text-gray-800">Student A:</p>
-            <p className="text-gray-700">Naʿam, ʿindī imtiḥān fī at-tārīkh wa ākhar fī al-lughāt.</p>
+            <p className="text-gray-700">Naʿam, ʿindi imtihan fi at-tarikh wa akhar fi al-lughat.</p>
             <p className="text-sm text-gray-600 mt-1">Yes, I have an exam in history and another in languages.</p>
           </div>
         </div>

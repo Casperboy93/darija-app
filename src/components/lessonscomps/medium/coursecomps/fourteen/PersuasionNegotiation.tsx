@@ -15,41 +15,41 @@ export default function PersuasionNegotiation() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mā raʾyak fī</p>
+            <p className="font-bold text-lg text-gray-900">Ma ra'yak fi</p>
             <span className="text-2xl">🤔</span>
           </div>
           <p className="text-gray-600">What do you think about</p>
-          <p className="text-sm text-gray-500 mt-1">ما رأيك في</p>
+          <p className="text-sm text-gray-500 mt-1">ما رأيك في</p>
           <p className="text-xs text-red-600 mt-2">Seek opinion/agreement</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Hal yumkinunā an</p>
+            <p className="font-bold text-lg text-gray-900">Hal yumkinuna an</p>
             <span className="text-2xl">🤝</span>
           </div>
           <p className="text-gray-600">Can we</p>
-          <p className="text-sm text-gray-500 mt-1">هل يمكننا أن</p>
+          <p className="text-sm text-gray-500 mt-1">هل يمكننا أن</p>
           <p className="text-xs text-red-600 mt-2">Suggest compromise</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Anā mutaʾakkid anna</p>
+            <p className="font-bold text-lg text-gray-900">Ana muta'akkid anna</p>
             <span className="text-2xl">✅</span>
           </div>
           <p className="text-gray-600">I am sure that</p>
-          <p className="text-sm text-gray-500 mt-1">أنا متأكد أن</p>
+          <p className="text-sm text-gray-500 mt-1">أنا متأكد أن</p>
           <p className="text-xs text-red-600 mt-2">Express confidence</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Lākin idhā</p>
+            <p className="font-bold text-lg text-gray-900">Lakin idha</p>
             <span className="text-2xl">⚖️</span>
           </div>
           <p className="text-gray-600">But if</p>
-          <p className="text-sm text-gray-500 mt-1">لكن إذا</p>
+          <p className="text-sm text-gray-500 mt-1">لكن إذا</p>
           <p className="text-xs text-red-600 mt-2">Present conditions</p>
         </div>
       </div>

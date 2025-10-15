@@ -48,7 +48,7 @@ export default function OpeningBankAccount() {
           </tr>
           <tr className="border-t">
             <td className="px-4 py-2">I need proof of address</td>
-            <td className="px-4 py-2">بغيت إثبات العنوان</td>
+            <td className="px-4 py-2">بغيت إثبات العنوان</td>
             <td className="px-4 py-2">bghit ithbat l unwan</td>
             <td className="px-4 py-2">For documentation.</td>
           </tr>

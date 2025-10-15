@@ -15,19 +15,19 @@ export default function CulturalHealthTips() {
           <div>
             <h3 className="font-bold text-teal-800 mb-2">Healthcare System</h3>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• Public hospitals are free but crowded</li>
-              <li>• Private clinics are faster but expensive</li>
-              <li>• Pharmacies are widely available</li>
-              <li>• Many doctors speak French and Arabic</li>
+              <li>- Public hospitals are free but crowded</li>
+              <li>- Private clinics are faster but expensive</li>
+              <li>- Pharmacies are widely available</li>
+              <li>- Many doctors speak French and Arabic</li>
             </ul>
           </div>
           <div>
             <h3 className="font-bold text-teal-800 mb-2">Traditional Medicine</h3>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• Herbal remedies are common</li>
-              <li>• "3aṭṭār" (herbalist) shops are popular</li>
-              <li>• Traditional and modern medicine coexist</li>
-              <li>• Always consult qualified doctors for serious issues</li>
+              <li>- Herbal remedies are common</li>
+              <li>- "3attar" (herbalist) shops are popular</li>
+              <li>- Traditional and modern medicine coexist</li>
+              <li>- Always consult qualified doctors for serious issues</li>
             </ul>
           </div>
         </div>

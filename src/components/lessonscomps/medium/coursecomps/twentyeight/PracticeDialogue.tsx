@@ -26,13 +26,13 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">One-way or round-trip?</td>
-              <td className="px-4 py-2">اتجاه واحد ولا ذهاب وإياب؟</td>
+              <td className="px-4 py-2">اتجاه واحد ولا ذهاب وإياب؟</td>
               <td className="px-4 py-2">itti jah wa7ed wla dhhab w iyaab?</td>
               <td className="px-4 py-2">Options.</td>
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Round-trip, please.</td>
-              <td className="px-4 py-2">ذهاب وإياب عفاك.</td>
+              <td className="px-4 py-2">ذهاب وإياب عفاك.</td>
               <td className="px-4 py-2">dhhab w iyaab afak.</td>
               <td className="px-4 py-2">Preference.</td>
             </tr>
@@ -105,14 +105,14 @@ export default function PracticeDialogue() {
           <tbody className="text-gray-700">
             <tr className="border-t">
               <td className="px-4 py-2">Is the train delayed?</td>
-              <td className="px-4 py-2">واش التران متأخر؟</td>
+              <td className="px-4 py-2">واش التران متأخر؟</td>
               <td className="px-4 py-2">wash tran mt'akhr?</td>
               <td className="px-4 py-2">Status.
               </td>
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">Yes, about 20 minutes.</td>
-              <td className="px-4 py-2">إيه، شي عشرين دقيقة.</td>
+              <td className="px-4 py-2">إيه، شي عشرين دقيقة.</td>
               <td className="px-4 py-2">ih, shi 3shrin dqiqa.</td>
               <td className="px-4 py-2">Duration.
               </td>

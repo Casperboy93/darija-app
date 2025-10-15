@@ -15,7 +15,7 @@ export default function PoliticalPartiesElections() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Intikhābāt</p>
+            <p className="font-bold text-lg text-gray-900">Intikhabat</p>
             <span className="text-2xl">🗳️</span>
           </div>
           <p className="text-gray-600">Elections</p>
@@ -25,7 +25,7 @@ export default function PoliticalPartiesElections() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Taṣwīt</p>
+            <p className="font-bold text-lg text-gray-900">Taswit</p>
             <span className="text-2xl">✅</span>
           </div>
           <p className="text-gray-600">Vote</p>
@@ -45,7 +45,7 @@ export default function PoliticalPartiesElections() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥizb siyāsī</p>
+            <p className="font-bold text-lg text-gray-900">Hizb siyasi</p>
             <span className="text-2xl">🏛️</span>
           </div>
           <p className="text-gray-600">Political party</p>
@@ -66,13 +66,13 @@ export default function PoliticalPartiesElections() {
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-medium text-green-800 mb-2">RNI</h4>
             <p className="text-sm text-gray-600">National Rally of Independents</p>
-            <p className="text-xs text-gray-500 mt-1">التجمع الوطني للأحرار</p>
+            <p className="text-xs text-gray-500 mt-1">التجمع الوطني للأحرار</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-medium text-green-800 mb-2">PAM</h4>
             <p className="text-sm text-gray-600">Authenticity and Modernity Party</p>
-            <p className="text-xs text-gray-500 mt-1">حزب الأصالة والمعاصرة</p>
+            <p className="text-xs text-gray-500 mt-1">حزب الأصالة والمعاصرة</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-green-200">

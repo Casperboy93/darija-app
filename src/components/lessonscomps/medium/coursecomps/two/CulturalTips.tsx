@@ -14,7 +14,7 @@ export default function CulturalTips() {
       
       <div className="space-y-4">
         <div className="bg-white p-4 rounded-md border border-purple-100">
-          <h3 className="font-medium text-purple-700 mb-2">🕐 Time Flexibility</h3>
+          <h3 className="font-medium text-purple-700 mb-2">Time Flexibility</h3>
           <p className="text-gray-700">
             Moroccans often have a flexible approach to time. When making future plans, it's common to add 
             <strong> "inshallah"</strong> (God willing) to show respect for the uncertainty of the future.
@@ -22,7 +22,7 @@ export default function CulturalTips() {
         </div>
         
         <div className="bg-white p-4 rounded-md border border-purple-100">
-          <h3 className="font-medium text-purple-700 mb-2">🤝 Social Expectations</h3>
+          <h3 className="font-medium text-purple-700 mb-2">Social Expectations</h3>
           <p className="text-gray-700">
             When discussing future plans, Moroccans often include family and community considerations. 
             Plans are frequently made collectively rather than individually.
@@ -30,7 +30,7 @@ export default function CulturalTips() {
         </div>
         
         <div className="bg-white p-4 rounded-md border border-purple-100">
-          <h3 className="font-medium text-purple-700 mb-2">🎯 Politeness in Planning</h3>
+          <h3 className="font-medium text-purple-700 mb-2">Politeness in Planning</h3>
           <p className="text-gray-700">
             Use <strong>"ila bghiti"</strong> (if you want) when suggesting future activities to others. 
             This shows respect for their autonomy and preferences.
@@ -38,7 +38,7 @@ export default function CulturalTips() {
         </div>
         
         <div className="bg-white p-4 rounded-md border border-purple-100">
-          <h3 className="font-medium text-purple-700 mb-2">🌟 Common Expressions</h3>
+          <h3 className="font-medium text-purple-700 mb-2">Common Expressions</h3>
           <div className="space-y-2">
             <div><strong>Inshallah gha nshufk ghedda</strong> - God willing, I'll see you tomorrow</div>
             <div><strong>Gha nshuf w ngul lik</strong> - I'll see and tell you (I'll let you know)</div>

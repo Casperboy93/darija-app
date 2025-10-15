@@ -31,7 +31,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">I’m Alex, pleased to meet you.</td>
-              <td className="px-4 py-2">أنا أليكس، فرحت بلقياك.</td>
+              <td className="px-4 py-2">أنا أليكس، فرحت بلقياك.</td>
               <td className="px-4 py-2">ana Alex, frht blqyak.</td>
               <td className="px-4 py-2">Friendly tone.</td>
             </tr>

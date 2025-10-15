@@ -19,13 +19,13 @@ export default function DietaryPreferences() {
           <tbody className="divide-y divide-gray-100">
             <tr>
               <td className="px-4 py-2">I'm vegetarian</td>
-              <td className="px-4 py-2">أنا نباتي</td>
+              <td className="px-4 py-2">أنا نباتي</td>
               <td className="px-4 py-2">ana nebati</td>
               <td className="px-4 py-2">For female, use "نباتية" (nebatia).</td>
             </tr>
             <tr>
               <td className="px-4 py-2">I'm vegan</td>
-              <td className="px-4 py-2">أنا فيغان</td>
+              <td className="px-4 py-2">أنا فيغان</td>
               <td className="px-4 py-2">ana vegan</td>
               <td className="px-4 py-2">Loanword; most servers understand it.</td>
             </tr>

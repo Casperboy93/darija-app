@@ -15,7 +15,7 @@ export default function SocialDynamicsRelationships() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Karāma</p>
+            <p className="font-bold text-lg text-gray-900">Karama</p>
             <span className="text-2xl">👑</span>
           </div>
           <p className="text-gray-600">Dignity/Honor</p>
@@ -25,7 +25,7 @@ export default function SocialDynamicsRelationships() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Wafāʾ</p>
+            <p className="font-bold text-lg text-gray-900">Wafaʾ</p>
             <span className="text-2xl">🤝</span>
           </div>
           <p className="text-gray-600">Loyalty/Faithfulness</p>
@@ -35,7 +35,7 @@ export default function SocialDynamicsRelationships() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥasab wa nasab</p>
+            <p className="font-bold text-lg text-gray-900">Hasab wa nasab</p>
             <span className="text-2xl">🏛️</span>
           </div>
           <p className="text-gray-600">Lineage/Ancestry</p>
@@ -45,7 +45,7 @@ export default function SocialDynamicsRelationships() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Taḍāmun</p>
+            <p className="font-bold text-lg text-gray-900">Tadamun</p>
             <span className="text-2xl">🤲</span>
           </div>
           <p className="text-gray-600">Solidarity</p>
@@ -55,7 +55,7 @@ export default function SocialDynamicsRelationships() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Iḥtirām</p>
+            <p className="font-bold text-lg text-gray-900">Ihtiram</p>
             <span className="text-2xl">🙏</span>
           </div>
           <p className="text-gray-600">Respect</p>
@@ -65,7 +65,7 @@ export default function SocialDynamicsRelationships() {
         
         <div className="border border-teal-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Tanāghum</p>
+            <p className="font-bold text-lg text-gray-900">Tanaghum</p>
             <span className="text-2xl">🎼</span>
           </div>
           <p className="text-gray-600">Harmony</p>

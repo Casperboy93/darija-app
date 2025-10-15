@@ -15,25 +15,25 @@ export default function ProfessionalEmailPhrases() {
       <div className="space-y-4">
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Opening</h3>
-          <p className="text-gray-700 mb-2">Aḥtarim sayyidī / sayyidatī</p>
+          <p className="text-gray-700 mb-2">Ahtarim sayyidi / sayyidati</p>
           <p className="text-sm text-gray-600">Dear Sir/Madam</p>
         </div>
         
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Purpose</h3>
-          <p className="text-gray-700 mb-2">Aktub lak bāsh nuḍḥ lak</p>
+          <p className="text-gray-700 mb-2">Aktub lak bash nudh lak</p>
           <p className="text-sm text-gray-600">I am writing to explain to you</p>
         </div>
         
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Request</h3>
-          <p className="text-gray-700 mb-2">Urīd an aṭlub minkum</p>
+          <p className="text-gray-700 mb-2">Urid an atlub minkum</p>
           <p className="text-sm text-gray-600">I would like to request from you</p>
         </div>
         
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Closing</h3>
-          <p className="text-gray-700 mb-2">Maʿa fāʾiq al-iḥtirām</p>
+          <p className="text-gray-700 mb-2">Ma'a fa'iq al-ihtiram</p>
           <p className="text-sm text-gray-600">With highest respect</p>
         </div>
       </div>

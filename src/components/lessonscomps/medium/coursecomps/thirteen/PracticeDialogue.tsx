@@ -16,37 +16,37 @@ export default function PracticeDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <p className="font-semibold text-yellow-800 mb-2">Sarah (Guest):</p>
-            <p className="text-gray-800 mb-1">As-salāmu ʿalaykum. Kayf ṣaḥtak?</p>
+            <p className="text-gray-800 mb-1">As-salamu 'alaykum. Kayf sahtak?</p>
             <p className="text-gray-600 text-sm">Peace be upon you. How is your health?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <p className="font-semibold text-yellow-800 mb-2">Fatima (Host):</p>
-            <p className="text-gray-800 mb-1">Wa ʿalaykum as-salām. Al-ḥamdu lillāh, bi-khayr. Tfaḍḍalī, udkhulī.</p>
+            <p className="text-gray-800 mb-1">Wa 'alaykum as-salam. Al-hamdu lillah, bi-khayr. Tfaddali, udkhuli.</p>
             <p className="text-gray-600 text-sm">And upon you peace. Praise be to God, I'm well. Please, come in.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <p className="font-semibold text-yellow-800 mb-2">Sarah:</p>
-            <p className="text-gray-800 mb-1">Shukran. Jabayt laki ḥalwā min Fās.</p>
+            <p className="text-gray-800 mb-1">Shukran. Jabayt laki halwa min Fas.</p>
             <p className="text-gray-600 text-sm">Thank you. I brought you sweets from Fez.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <p className="font-semibold text-yellow-800 mb-2">Fatima:</p>
-            <p className="text-gray-800 mb-1">Bārak Allāhu fīki! Mā kān lāzim. Tfaḍḍalī, ijlisī. Sa-uḥaḍḍir laki atāy.</p>
+            <p className="text-gray-800 mb-1">Barak Allahu fiki! Ma kan lazim. Tfaddali, ijlisi. Sa-uhaddir laki atay.</p>
             <p className="text-gray-600 text-sm">May God bless you! You shouldn't have. Please, sit down. I'll prepare tea for you.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <p className="font-semibold text-yellow-800 mb-2">Sarah:</p>
-            <p className="text-gray-800 mb-1">Shukran jazīlan. Kayf al-ʿāʾila?</p>
+            <p className="text-gray-800 mb-1">Shukran jazilan. Kayf al-'a'ila?</p>
             <p className="text-gray-600 text-sm">Thank you very much. How is the family?</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <p className="font-semibold text-yellow-800 mb-2">Fatima:</p>
-            <p className="text-gray-800 mb-1">Kulluhum bi-khayr, al-ḥamdu lillāh. Wa kayf ʿāʾilatuki?</p>
+            <p className="text-gray-800 mb-1">Kulluhum bi-khayr, al-hamdu lillah. Wa kayf 'a'ilatuki?</p>
             <p className="text-gray-600 text-sm">They're all well, praise be to God. And how is your family?</p>
           </div>
         </div>

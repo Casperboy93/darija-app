@@ -18,7 +18,7 @@ export default function EmailsReports() {
         <tbody className="text-gray-700">
           <tr className="border-t">
             <td className="px-4 py-2">I will send an email</td>
-            <td className="px-4 py-2">غادي نرسل إيميل</td>
+            <td className="px-4 py-2">غادي نرسل إيميل</td>
             <td className="px-4 py-2">ghadi nrsal email</td>
             <td className="px-4 py-2">Common office action.</td>
           </tr>

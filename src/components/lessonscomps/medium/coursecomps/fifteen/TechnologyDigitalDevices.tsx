@@ -15,17 +15,17 @@ export default function TechnologyDigitalDevices() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Al-ḥāsūb</p>
+            <p className="font-bold text-lg text-gray-900">Al-hasub</p>
             <span className="text-2xl">💻</span>
           </div>
           <p className="text-gray-600">Computer</p>
           <p className="text-sm text-gray-500 mt-1">الحاسوب</p>
-          <p className="text-xs text-blue-600 mt-2">Also: al-kumbiyūtar</p>
+          <p className="text-xs text-blue-600 mt-2">Also: al-kumbiyutar</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Al-hātif adh-dhakī</p>
+            <p className="font-bold text-lg text-gray-900">Al-hatif adh-dhaki</p>
             <span className="text-2xl">📱</span>
           </div>
           <p className="text-gray-600">Smartphone</p>
@@ -39,13 +39,13 @@ export default function TechnologyDigitalDevices() {
             <span className="text-2xl">🌐</span>
           </div>
           <p className="text-gray-600">Internet</p>
-          <p className="text-sm text-gray-500 mt-1">الإنترنت</p>
+          <p className="text-sm text-gray-500 mt-1">الإنترنت</p>
           <p className="text-xs text-blue-600 mt-2">Also: ash-shabaka</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">At-taṭbīq</p>
+            <p className="font-bold text-lg text-gray-900">At-tatbiq</p>
             <span className="text-2xl">📲</span>
           </div>
           <p className="text-gray-600">Application/App</p>

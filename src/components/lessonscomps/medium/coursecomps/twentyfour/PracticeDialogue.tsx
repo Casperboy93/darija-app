@@ -25,7 +25,7 @@ export default function PracticeDialogue() {
             </tr>
             <tr className="border-t">
               <td className="px-4 py-2">What are your symptoms?</td>
-              <td className="px-4 py-2">شنو الأعراض اللي عندك؟</td>
+              <td className="px-4 py-2">شنو الأعراض اللي عندك؟</td>
               <td className="px-4 py-2">shnu l a3rad lli 3ndk?</td>
               <td className="px-4 py-2">Doctor question.</td>
             </tr>

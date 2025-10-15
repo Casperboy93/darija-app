@@ -15,7 +15,7 @@ export default function GovernmentPoliticalSystem() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥukūma</p>
+            <p className="font-bold text-lg text-gray-900">Hukuma</p>
             <span className="text-2xl">🏛️</span>
           </div>
           <p className="text-gray-600">Government</p>
@@ -35,17 +35,17 @@ export default function GovernmentPoliticalSystem() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Raʾīs al-Ḥukūma</p>
+            <p className="font-bold text-lg text-gray-900">Raʾis al-Hukuma</p>
             <span className="text-2xl">🤵</span>
           </div>
           <p className="text-gray-600">Prime Minister</p>
-          <p className="text-sm text-gray-500 mt-1">رئيس الحكومة</p>
+          <p className="text-sm text-gray-500 mt-1">رئيس الحكومة</p>
           <p className="text-xs text-blue-600 mt-2">Head of government</p>
         </div>
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Barlmān</p>
+            <p className="font-bold text-lg text-gray-900">Barlman</p>
             <span className="text-2xl">🏢</span>
           </div>
           <p className="text-gray-600">Parliament</p>
@@ -55,7 +55,7 @@ export default function GovernmentPoliticalSystem() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Dustūr</p>
+            <p className="font-bold text-lg text-gray-900">Dustur</p>
             <span className="text-2xl">📜</span>
           </div>
           <p className="text-gray-600">Constitution</p>
@@ -65,7 +65,7 @@ export default function GovernmentPoliticalSystem() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Qānūn</p>
+            <p className="font-bold text-lg text-gray-900">Qanun</p>
             <span className="text-2xl">⚖️</span>
           </div>
           <p className="text-gray-600">Law</p>

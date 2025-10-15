@@ -15,25 +15,25 @@ export default function ComplexSentencePatterns() {
       <div className="space-y-4">
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Conditional with Past Result</h3>
-          <p className="text-gray-700 mb-2">Lū kān jā bākir, kān lqā al-maḥall maftūḥ</p>
+          <p className="text-gray-700 mb-2">Lu kan ja bakir, kan lqa al-mahall maftuh</p>
           <p className="text-sm text-gray-600">If he had come early, he would have found the place open</p>
         </div>
         
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Purpose Clauses</h3>
-          <p className="text-gray-700 mb-2">Jīt hna bāsh nshūf al-ṭabīb</p>
+          <p className="text-gray-700 mb-2">Jit hna bash nshuf al-tabib</p>
           <p className="text-sm text-gray-600">I came here in order to see the doctor</p>
         </div>
         
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Concessive Clauses</h3>
-          <p className="text-gray-700 mb-2">Wālū kān al-jaww bārid, kharjū</p>
+          <p className="text-gray-700 mb-2">Walu kan al-jaww barid, kharju</p>
           <p className="text-sm text-gray-600">Even though the weather was cold, they went out</p>
         </div>
         
         <div className="bg-white p-4 rounded-lg border border-orange-200">
           <h3 className="font-semibold text-orange-800 mb-2">Result Clauses</h3>
-          <p className="text-gray-700 mb-2">Kān marīḍ ḥattā ma qdarsh yajī</p>
+          <p className="text-gray-700 mb-2">Kan marid hatta ma qdarsh yaji</p>
           <p className="text-sm text-gray-600">He was so sick that he couldn't come</p>
         </div>
       </div>

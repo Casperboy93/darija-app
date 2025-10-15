@@ -15,19 +15,19 @@ export default function BusinessEtiquette() {
           <div>
             <h3 className="font-bold text-indigo-800 mb-2">Professional Greetings</h3>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• Use "Salāmu 3alaykum" in formal settings</li>
-              <li>• Shake hands with same-gender colleagues</li>
-              <li>• Address seniors with respect titles</li>
-              <li>• Wait to be invited to sit</li>
+              <li>- Use "Salamu 3alaykum" in formal settings</li>
+              <li>- Shake hands with same-gender colleagues</li>
+              <li>- Address seniors with respect titles</li>
+              <li>- Wait to be invited to sit</li>
             </ul>
           </div>
           <div>
             <h3 className="font-bold text-indigo-800 mb-2">Meeting Behavior</h3>
             <ul className="text-sm text-gray-700 space-y-1">
-              <li>• Arrive on time or slightly early</li>
-              <li>• Bring business cards if available</li>
-              <li>• Listen actively and take notes</li>
-              <li>• Ask questions respectfully</li>
+              <li>- Arrive on time or slightly early</li>
+              <li>- Bring business cards if available</li>
+              <li>- Listen actively and take notes</li>
+              <li>- Ask questions respectfully</li>
             </ul>
           </div>
         </div>

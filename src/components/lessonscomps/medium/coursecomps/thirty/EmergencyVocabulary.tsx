@@ -19,13 +19,13 @@ export default function EmergencyVocabulary() {
           <tbody className="divide-y divide-gray-100">
             <tr>
               <td className="px-4 py-2">Emergency</td>
-              <td className="px-4 py-2">حالة طارئة</td>
+              <td className="px-4 py-2">حالة طارئة</td>
               <td className="px-4 py-2">7ala tare'a</td>
               <td className="px-4 py-2">Used in formal contexts.</td>
             </tr>
             <tr>
               <td className="px-4 py-2">Ambulance</td>
-              <td className="px-4 py-2">أمبولانس</td>
+              <td className="px-4 py-2">أمبولانس</td>
               <td className="px-4 py-2">ambulans</td>
               <td className="px-4 py-2">Loanword; widely understood.</td>
             </tr>

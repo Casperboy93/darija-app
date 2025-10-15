@@ -25,7 +25,7 @@ export default function HotelAccommodation() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Riyāḍ</p>
+            <p className="font-bold text-lg text-gray-900">Riyad</p>
             <span className="text-2xl">🏛️</span>
           </div>
           <p className="text-gray-600">Riad</p>
@@ -45,7 +45,7 @@ export default function HotelAccommodation() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Khadamāt</p>
+            <p className="font-bold text-lg text-gray-900">Khadamat</p>
             <span className="text-2xl">🛎️</span>
           </div>
           <p className="text-gray-600">Services</p>
@@ -55,17 +55,17 @@ export default function HotelAccommodation() {
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Iṭlāla</p>
+            <p className="font-bold text-lg text-gray-900">Itlala</p>
             <span className="text-2xl">🌅</span>
           </div>
           <p className="text-gray-600">View</p>
-          <p className="text-sm text-gray-500 mt-1">إطلالة</p>
+          <p className="text-sm text-gray-500 mt-1">إطلالة</p>
           <p className="text-xs text-red-600 mt-2">Room view</p>
         </div>
         
         <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Maṭʿam</p>
+            <p className="font-bold text-lg text-gray-900">Matʿam</p>
             <span className="text-2xl">🍽️</span>
           </div>
           <p className="text-gray-600">Restaurant</p>

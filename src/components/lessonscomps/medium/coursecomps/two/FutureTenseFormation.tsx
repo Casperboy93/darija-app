@@ -73,7 +73,7 @@ export default function FutureTenseFormation() {
       </div>
       
       <div className="bg-yellow-50 border border-yellow-200 p-4 rounded-md">
-        <p className="font-medium text-yellow-800">💡 Pronunciation Tip:</p>
+        <p className="font-medium text-yellow-800">Pronunciation Tip:</p>
         <p className="text-gray-700 mt-1">
           "Gha" is often used in casual speech, while "ghadi" is more formal. Both are pronounced with a soft "gh" sound.
         </p>

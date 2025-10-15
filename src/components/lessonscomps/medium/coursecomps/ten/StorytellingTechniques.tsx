@@ -16,28 +16,28 @@ export default function StorytellingTechniques() {
           <div className="bg-white p-4 rounded-md border border-green-100">
             <h4 className="font-semibold text-green-700 mb-2">Opening</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">Kān yā mā kān:</span> Once upon a time</p>
-              <p><span className="font-semibold">F wāḥid l waqt:</span> At one time</p>
-              <p><span className="font-semibold">Qadīman:</span> Long ago</p>
-              <p><span className="font-semibold">Ḥkāya ṭawīla:</span> A long story</p>
+              <p><span className="font-semibold">Kan ya ma kan:</span> Once upon a time</p>
+              <p><span className="font-semibold">F wahid l waqt:</span> At one time</p>
+              <p><span className="font-semibold">Qadiman:</span> Long ago</p>
+              <p><span className="font-semibold">Hkaya tawila:</span> A long story</p>
             </div>
           </div>
           <div className="bg-white p-4 rounded-md border border-green-100">
             <h4 className="font-semibold text-green-700 mb-2">Development</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">U ba3d hākka:</span> And after that</p>
+              <p><span className="font-semibold">U ba3d hakka:</span> And after that</p>
               <p><span className="font-semibold">Faj'a:</span> Suddenly</p>
               <p><span className="font-semibold">F nafs l waqt:</span> At the same time</p>
-              <p><span className="font-semibold">Lākin:</span> But</p>
+              <p><span className="font-semibold">Lakin:</span> But</p>
             </div>
           </div>
           <div className="bg-white p-4 rounded-md border border-green-100">
             <h4 className="font-semibold text-green-700 mb-2">Conclusion</h4>
             <div className="space-y-1 text-sm">
-              <p><span className="font-semibold">F l ākhir:</span> In the end</p>
-              <p><span className="font-semibold">U hākka:</span> And so</p>
-              <p><span className="font-semibold">Khalāṣ l ḥkāya:</span> End of story</p>
-              <p><span className="font-semibold">U 3āshu bi khayr:</span> And they lived happily</p>
+              <p><span className="font-semibold">F l akhir:</span> In the end</p>
+              <p><span className="font-semibold">U hakka:</span> And so</p>
+              <p><span className="font-semibold">Khalas l hkaya:</span> End of story</p>
+              <p><span className="font-semibold">U 3ashu bi khayr:</span> And they lived happily</p>
             </div>
           </div>
         </div>
