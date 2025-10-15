@@ -57,12 +57,18 @@ const Header: React.FC = () => {
     return () => window.removeEventListener('resize', handleResize);
   }, [pathname, updateLinePosition]);
 
+  // Close mobile menu when navigating to a new route
+  useEffect(() => {
+    setIsMenuOpen(false);
+  }, [pathname]);
+
   const NavLink = ({ href, children, className = "" }: { href: string; children: React.ReactNode; className?: string }) => {
     const isActive = isActivePage(href);
     
     return (
       <Link 
-        href={href} 
+        href={href}
+        onClick={() => setIsMenuOpen(false)}
         className={`relative text-gray-700 hover:text-black font-medium transition-colors duration-300 px-4 py-2 ${className} ${
           isActive ? 'text-black font-semibold' : ''
         }`}
