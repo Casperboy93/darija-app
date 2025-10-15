@@ -15,15 +15,15 @@ export default function WorkExpressions() {
           <p className="font-semibold text-gray-800 mb-2">Asking About Work:</p>
           <div className="space-y-2">
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Āsh khadām?</span>
+        <span className="text-gray-700">Ash khadam?</span>
               <span className="text-gray-600 text-sm">What do you do for work?</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Fīn khaddām?</span>
+        <span className="text-gray-700">Fin khaddam?</span>
               <span className="text-gray-600 text-sm">Where do you work?</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Mnīn jāy mn l-khadma?</span>
+        <span className="text-gray-700">Mnin jay mn l-khadma?</span>
               <span className="text-gray-600 text-sm">Are you coming from work?</span>
             </div>
           </div>
@@ -33,15 +33,15 @@ export default function WorkExpressions() {
           <p className="font-semibold text-gray-800 mb-2">Talking About Your Job:</p>
           <div className="space-y-2">
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Ana khadām f...</span>
+        <span className="text-gray-700">Ana khadam f...</span>
               <span className="text-gray-600 text-sm">I work in/at...</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Khadma dyālī zīna</span>
+        <span className="text-gray-700">Khadma dyali zina</span>
               <span className="text-gray-600 text-sm">My job is good</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Khadma ṣaʿība</span>
+        <span className="text-gray-700">Khadma sa3iba</span>
               <span className="text-gray-600 text-sm">The work is difficult</span>
             </div>
           </div>

@@ -13,38 +13,38 @@ export default function CelebrationActivities() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <div className="space-y-3">
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Ḥafla</span>
+        <span className="font-medium text-gray-800">Hafla</span>
             <span className="text-gray-600">Party/Celebration</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Ṭaʿām</span>
+        <span className="font-medium text-gray-800">Ta'am</span>
             <span className="text-gray-600">Food/Feast</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Mūsīqā</span>
+        <span className="font-medium text-gray-800">Musiqa</span>
             <span className="text-gray-600">Music</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Raqṣ</span>
+        <span className="font-medium text-gray-800">Raqs</span>
             <span className="text-gray-600">Dancing</span>
           </div>
         </div>
         
         <div className="space-y-3">
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Hadāyā</span>
+        <span className="font-medium text-gray-800">Hadaya</span>
             <span className="text-gray-600">Gifts</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Ziyāra</span>
+        <span className="font-medium text-gray-800">Ziyara</span>
             <span className="text-gray-600">Visiting</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Duʿā</span>
+        <span className="font-medium text-gray-800">Du3a</span>
             <span className="text-gray-600">Prayer/Blessing</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Faraḥ</span>
+        <span className="font-medium text-gray-800">Farah</span>
             <span className="text-gray-600">Joy/Happiness</span>
           </div>
         </div>

@@ -13,15 +13,15 @@ export default function TransportationExpressions() {
           <p className="font-semibold text-gray-800 mb-2">Getting Around:</p>
           <div className="space-y-2">
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Kīf ghādī l...?</span>
+              <span className="text-gray-700">Kif ghadi l...?</span>
               <span className="text-gray-600 text-sm">How are you going to...?</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Ghādī b ṭūbīs</span>
+              <span className="text-gray-700">Ghadi b tubis</span>
               <span className="text-gray-600 text-sm">I'm going by bus</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Fīn l-maḥaṭṭa?</span>
+              <span className="text-gray-700">Fin l-mahata?</span>
               <span className="text-gray-600 text-sm">Where is the station?</span>
             </div>
           </div>
@@ -31,15 +31,15 @@ export default function TransportationExpressions() {
           <p className="font-semibold text-gray-800 mb-2">Taking a Taxi:</p>
           <div className="space-y-2">
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Wāsh kāyn ṭāksī?</span>
+              <span className="text-gray-700">Wash kayn taksi?</span>
               <span className="text-gray-600 text-sm">Is there a taxi?</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Bghīt nmshī l...</span>
+              <span className="text-gray-700">Bghit nmshi l...</span>
               <span className="text-gray-600 text-sm">I want to go to...</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Bshḥāl?</span>
+              <span className="text-gray-700">Bshhal?</span>
               <span className="text-gray-600 text-sm">How much?</span>
             </div>
           </div>

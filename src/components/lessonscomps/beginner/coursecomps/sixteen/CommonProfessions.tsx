@@ -15,7 +15,7 @@ export default function CommonProfessions() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭabīb</p>
+        <p className="font-bold text-lg text-gray-900">Tabib</p>
             <span className="text-2xl">👨‍⚕️</span>
           </div>
           <p className="text-gray-600">Doctor</p>
@@ -24,7 +24,7 @@ export default function CommonProfessions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Muʿallim</p>
+        <p className="font-bold text-lg text-gray-900">Mu3allim</p>
             <span className="text-2xl">👨‍🏫</span>
           </div>
           <p className="text-gray-600">Teacher</p>
@@ -42,7 +42,7 @@ export default function CommonProfessions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭabbākh</p>
+        <p className="font-bold text-lg text-gray-900">Tabbakh</p>
             <span className="text-2xl">👨‍🍳</span>
           </div>
           <p className="text-gray-600">Cook/Chef</p>
@@ -51,7 +51,7 @@ export default function CommonProfessions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Sāʾiq</p>
+        <p className="font-bold text-lg text-gray-900">Saiq</p>
             <span className="text-2xl">🚗</span>
           </div>
           <p className="text-gray-600">Driver</p>
@@ -60,7 +60,7 @@ export default function CommonProfessions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Khadāma</p>
+            <p className="font-bold text-lg text-gray-900">Khadama</p>
             <span className="text-2xl">🏠</span>
           </div>
           <p className="text-gray-600">Housekeeper</p>

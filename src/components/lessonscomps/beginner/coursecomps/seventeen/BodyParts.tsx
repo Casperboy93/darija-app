@@ -15,7 +15,7 @@ export default function BodyParts() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Rās</p>
+            <p className="font-bold text-lg text-gray-900">Ras</p>
             <span className="text-2xl">🧠</span>
           </div>
           <p className="text-gray-600">Head</p>
@@ -24,7 +24,7 @@ export default function BodyParts() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿAyn</p>
+            <p className="font-bold text-lg text-gray-900">3ayn</p>
             <span className="text-2xl">👁️</span>
           </div>
           <p className="text-gray-600">Eye</p>
@@ -33,7 +33,7 @@ export default function BodyParts() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ūdhn</p>
+            <p className="font-bold text-lg text-gray-900">Udhn</p>
             <span className="text-2xl">👂</span>
           </div>
           <p className="text-gray-600">Ear</p>
@@ -78,7 +78,7 @@ export default function BodyParts() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṣadr</p>
+            <p className="font-bold text-lg text-gray-900">Sadr</p>
             <span className="text-2xl">🫁</span>
           </div>
           <p className="text-gray-600">Chest</p>

@@ -15,7 +15,7 @@ export default function BasicColors() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Aḥmar</p>
+            <p className="font-bold text-lg text-gray-900">Ahmar</p>
             <div className="w-6 h-6 bg-red-500 rounded-full border-2 border-gray-300"></div>
           </div>
           <p className="text-gray-600">Red</p>
@@ -33,7 +33,7 @@ export default function BasicColors() {
         
         <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Akhḍar</p>
+            <p className="font-bold text-lg text-gray-900">Akhdar</p>
             <div className="w-6 h-6 bg-green-500 rounded-full border-2 border-gray-300"></div>
           </div>
           <p className="text-gray-600">Green</p>
@@ -42,7 +42,7 @@ export default function BasicColors() {
         
         <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Aṣfar</p>
+            <p className="font-bold text-lg text-gray-900">Asfar</p>
             <div className="w-6 h-6 bg-yellow-500 rounded-full border-2 border-gray-300"></div>
           </div>
           <p className="text-gray-600">Yellow</p>
@@ -51,7 +51,7 @@ export default function BasicColors() {
         
         <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Abyaḍ</p>
+            <p className="font-bold text-lg text-gray-900">Abyad</p>
             <div className="w-6 h-6 bg-white rounded-full border-2 border-gray-300"></div>
           </div>
           <p className="text-gray-600">White</p>

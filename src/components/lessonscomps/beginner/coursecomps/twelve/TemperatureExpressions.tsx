@@ -14,11 +14,11 @@ export default function TemperatureExpressions() {
         <div className="space-y-3">
           <h3 className="font-semibold text-lg">Hot Weather</h3>
           <div className="bg-red-50 p-3 rounded border border-red-200">
-            <p className="font-medium text-red-800">Ḥarr bzāf</p>
+            <p className="font-medium text-red-800">Harr bzaf</p>
             <p className="text-gray-700">Very hot</p>
           </div>
           <div className="bg-red-50 p-3 rounded border border-red-200">
-            <p className="font-medium text-red-800">Dāfī</p>
+            <p className="font-medium text-red-800">Dafi</p>
             <p className="text-gray-700">Warm</p>
           </div>
         </div>
@@ -26,11 +26,11 @@ export default function TemperatureExpressions() {
         <div className="space-y-3">
           <h3 className="font-semibold text-lg">Cold Weather</h3>
           <div className="bg-blue-50 p-3 rounded border border-blue-200">
-            <p className="font-medium text-blue-800">Bārid bzāf</p>
+            <p className="font-medium text-blue-800">Barid bzaf</p>
             <p className="text-gray-700">Very cold</p>
           </div>
           <div className="bg-blue-50 p-3 rounded border border-blue-200">
-            <p className="font-medium text-blue-800">Bārid shwayya</p>
+            <p className="font-medium text-blue-800">Barid shwayya</p>
             <p className="text-gray-700">A little cold</p>
           </div>
         </div>

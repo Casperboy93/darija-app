@@ -19,29 +19,29 @@ export default function IntensityEmotions() {
           <p className="text-gray-600">A little</p>
           <p className="text-sm text-gray-500 mt-1">شوية</p>
           <div className="mt-3 text-sm text-gray-700">
-            <p><em>Ana farḥān shwayya</em></p>
+        <p><em>Ana farhan shwayya</em></p>
             <p>I'm a little happy</p>
           </div>
         </div>
         
         <div className="bg-pink-50 border border-pink-200 rounded-lg p-5 text-center">
           <div className="text-3xl mb-3">📊</div>
-          <h3 className="font-bold text-lg text-gray-900 mb-2">Wāḍiḥ</h3>
+      <h3 className="font-bold text-lg text-gray-900 mb-2">Wadih</h3>
           <p className="text-gray-600">Clearly/Obviously</p>
           <p className="text-sm text-gray-500 mt-1">واضح</p>
           <div className="mt-3 text-sm text-gray-700">
-            <p><em>Ana ta'bān wāḍiḥ</em></p>
+        <p><em>Ana ta'ban wadih</em></p>
             <p>I'm clearly tired</p>
           </div>
         </div>
         
         <div className="bg-pink-50 border border-pink-200 rounded-lg p-5 text-center">
           <div className="text-3xl mb-3">📈</div>
-          <h3 className="font-bold text-lg text-gray-900 mb-2">Bzāf</h3>
+      <h3 className="font-bold text-lg text-gray-900 mb-2">Bzaf</h3>
           <p className="text-gray-600">Very much/A lot</p>
           <p className="text-sm text-gray-500 mt-1">بزاف</p>
           <div className="mt-3 text-sm text-gray-700">
-            <p><em>Ana farḥān bzāf</em></p>
+        <p><em>Ana farhan bzaf</em></p>
             <p>I'm very happy</p>
           </div>
         </div>
@@ -50,9 +50,9 @@ export default function IntensityEmotions() {
       <div className="mt-6 bg-gray-50 border border-gray-200 rounded-lg p-5">
         <h4 className="font-semibold text-gray-800 mb-3">Usage Examples:</h4>
         <div className="space-y-2 text-sm">
-          <p><strong>Ana ḥazīn shwayya</strong> - I'm a little sad</p>
-          <p><strong>Hiya ghāḍba bzāf</strong> - She's very angry</p>
-          <p><strong>Huwa marīḍ wāḍiḥ</strong> - He's clearly sick</p>
+        <p><strong>Ana hazin shwayya</strong> - I'm a little sad</p>
+        <p><strong>Hiya ghadba bzaf</strong> - She's very angry</p>
+        <p><strong>Huwa marid wadih</strong> - He's clearly sick</p>
         </div>
       </div>
     </div>

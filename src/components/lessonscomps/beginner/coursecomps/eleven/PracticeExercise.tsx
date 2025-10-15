@@ -17,7 +17,7 @@ export default function PracticeExercise() {
         <div className="space-y-3">
           <div className="bg-white p-3 rounded border">
             <p className="font-medium">Example:</p>
-            <p className="text-purple-700">"Ana lābes qamīṣ abyaḍ u banṭalōn azraq"</p>
+            <p className="text-purple-700">"Ana labes qamis abyad u bantalon azraq"</p>
             <p className="text-gray-600">"I'm wearing a white shirt and blue pants"</p>
           </div>
           

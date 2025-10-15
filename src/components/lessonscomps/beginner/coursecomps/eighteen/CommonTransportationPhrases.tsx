@@ -11,25 +11,25 @@ export default function CommonTransportationPhrases() {
       <div className="space-y-3">
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">Waqt l-ṭūbīs?</span>
+        <span className="font-medium text-gray-800">Waqt l-tubis?</span>
             <span className="text-gray-600">What time is the bus?</span>
           </div>
         </div>
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">Waqfnī hna</span>
+            <span className="font-medium text-gray-800">Waqfni hna</span>
             <span className="text-gray-600">Stop me here</span>
           </div>
         </div>
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">Shḥāl bāqī?</span>
+        <span className="font-medium text-gray-800">Shhal baqi?</span>
             <span className="text-gray-600">How much is left? (time/distance)</span>
           </div>
         </div>
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">Ṭarīq zḥām</span>
+        <span className="font-medium text-gray-800">Tariq zham</span>
             <span className="text-gray-600">The road is crowded/traffic</span>
           </div>
         </div>

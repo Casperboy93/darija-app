@@ -17,7 +17,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">ʿĪd mubārak! Kīf dūztū l-ʿīd?</p>
+              <p className="font-medium text-gray-800">3id mubarak! Kif duztu l-3id?</p>
               <p className="text-gray-600 text-sm">Eid Mubarak! How did you spend Eid?</p>
             </div>
           </div>
@@ -25,7 +25,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">B</div>
             <div>
-              <p className="font-medium text-gray-800">Allāh yabārak fīk! Dūznāh maʿ l-ʿāyla.</p>
+              <p className="font-medium text-gray-800">Allah yabarak fik! Duznah ma3 l-3ayla.</p>
               <p className="text-gray-600 text-sm">May Allah bless you! We spent it with family.</p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Zīn! Āsh ṭayyabtū f l-ʿīd?</p>
+              <p className="font-medium text-gray-800">Zin! Ash tayyabtu f l-3id?</p>
               <p className="text-gray-600 text-sm">Great! What did you cook for Eid?</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">B</div>
             <div>
-              <p className="font-medium text-gray-800">Ṭayyabnā mechoui u couscous u ḥalwiyyāt.</p>
+              <p className="font-medium text-gray-800">Tayyabna mechoui u couscous u halwiyyat.</p>
               <p className="text-gray-600 text-sm">We cooked roasted lamb, couscous, and sweets.</p>
             </div>
           </div>
@@ -49,7 +49,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Bṣaḥa! Kull ʿām u ntūma b khayr.</p>
+              <p className="font-medium text-gray-800">Bsaha! Kull 3am u ntuma b khayr.</p>
               <p className="text-gray-600 text-sm">Enjoy! May you be well every year.</p>
             </div>
           </div>

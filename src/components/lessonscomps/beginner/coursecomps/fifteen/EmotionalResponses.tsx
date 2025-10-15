@@ -16,7 +16,7 @@ export default function EmotionalResponses() {
         <div className="bg-orange-50 border border-orange-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">🤲</span>
-            <p className="font-bold text-lg text-gray-900">Allāh y'ṭīk aṣ-ṣaḥḥa</p>
+        <p className="font-bold text-lg text-gray-900">Allah y'tik as-sahha</p>
           </div>
           <p className="text-gray-600 ml-8">May God give you health (said to comfort someone)</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">الله يعطيك الصحة</p>
@@ -25,7 +25,7 @@ export default function EmotionalResponses() {
         <div className="bg-orange-50 border border-orange-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">🎉</span>
-            <p className="font-bold text-lg text-gray-900">Mabrūk!</p>
+        <p className="font-bold text-lg text-gray-900">Mabruk!</p>
           </div>
           <p className="text-gray-600 ml-8">Congratulations!</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">مبروك!</p>
@@ -34,7 +34,7 @@ export default function EmotionalResponses() {
         <div className="bg-orange-50 border border-orange-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">😔</span>
-            <p className="font-bold text-lg text-gray-900">Allāh y'awn</p>
+        <p className="font-bold text-lg text-gray-900">Allah y'awn</p>
           </div>
           <p className="text-gray-600 ml-8">May God help (expression of sympathy)</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">الله يعون</p>
@@ -43,7 +43,7 @@ export default function EmotionalResponses() {
         <div className="bg-orange-50 border border-orange-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">🙏</span>
-            <p className="font-bold text-lg text-gray-900">Inshāllāh ghādi tkūn bkhīr</p>
+        <p className="font-bold text-lg text-gray-900">Inshallah ghadi tkun bkhir</p>
           </div>
           <p className="text-gray-600 ml-8">God willing, you'll be fine</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">إن شاء الله غادي تكون بخير</p>
@@ -52,7 +52,7 @@ export default function EmotionalResponses() {
         <div className="bg-orange-50 border border-orange-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">😌</span>
-            <p className="font-bold text-lg text-gray-900">Lā bās</p>
+        <p className="font-bold text-lg text-gray-900">La bas</p>
           </div>
           <p className="text-gray-600 ml-8">It's okay/No problem</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">لا باس</p>

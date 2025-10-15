@@ -13,7 +13,7 @@ export default function ModesOfTransportation() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭūmūbīl</p>
+        <p className="font-bold text-lg text-gray-900">Tumubil</p>
             <span className="text-2xl">🚗</span>
           </div>
           <p className="text-gray-600">Car</p>
@@ -22,7 +22,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭūbīs</p>
+        <p className="font-bold text-lg text-gray-900">Tubis</p>
             <span className="text-2xl">🚌</span>
           </div>
           <p className="text-gray-600">Bus</p>
@@ -31,7 +31,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Qiṭār</p>
+        <p className="font-bold text-lg text-gray-900">Qitar</p>
             <span className="text-2xl">🚂</span>
           </div>
           <p className="text-gray-600">Train</p>
@@ -40,7 +40,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭāksī</p>
+        <p className="font-bold text-lg text-gray-900">Taksi</p>
             <span className="text-2xl">🚕</span>
           </div>
           <p className="text-gray-600">Taxi</p>
@@ -49,7 +49,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mūtū</p>
+        <p className="font-bold text-lg text-gray-900">Mutu</p>
             <span className="text-2xl">🏍️</span>
           </div>
           <p className="text-gray-600">Motorcycle</p>
@@ -58,7 +58,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Baḥrīya</p>
+        <p className="font-bold text-lg text-gray-900">Bahriya</p>
             <span className="text-2xl">⛵</span>
           </div>
           <p className="text-gray-600">Boat</p>
@@ -67,7 +67,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭayyāra</p>
+        <p className="font-bold text-lg text-gray-900">Tayyara</p>
             <span className="text-2xl">✈️</span>
           </div>
           <p className="text-gray-600">Airplane</p>
@@ -76,7 +76,7 @@ export default function ModesOfTransportation() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Bijiklīt</p>
+            <p className="font-bold text-lg text-gray-900">Bijiklit</p>
             <span className="text-2xl">🚲</span>
           </div>
           <p className="text-gray-600">Bicycle</p>

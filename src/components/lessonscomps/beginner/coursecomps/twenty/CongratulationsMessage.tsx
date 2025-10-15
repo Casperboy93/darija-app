@@ -8,7 +8,7 @@ export default function CongratulationsMessage() {
       <div className="bg-gradient-to-r from-green-50 to-blue-50 p-8 rounded-lg border border-green-200">
         <div className="text-center">
           <div className="text-6xl mb-4">🎉</div>
-          <h2 className="text-3xl font-bold text-green-800 mb-4">Mabrūk! Congratulations!</h2>
+          <h2 className="text-3xl font-bold text-green-800 mb-4">Mabruk! Congratulations!</h2>
           <div className="space-y-4 text-gray-700">
             <p className="text-lg">
               You have successfully completed all 20 beginner lessons in Moroccan Darija!
@@ -51,7 +51,7 @@ export default function CongratulationsMessage() {
               </p>
             </div>
             <p className="text-lg font-semibold text-green-700 mt-6">
-              Bṣaḥa u rāḥa! Keep learning and exploring! 🇲🇦
+              Bsaha u raha! Keep learning and exploring! 🇲🇦
             </p>
           </div>
         </div>

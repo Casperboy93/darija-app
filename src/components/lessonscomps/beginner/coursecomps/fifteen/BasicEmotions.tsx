@@ -15,7 +15,7 @@ export default function BasicEmotions() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-indigo-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Farḥān</p>
+        <p className="font-bold text-lg text-gray-900">Farhan</p>
             <span className="text-2xl">😊</span>
           </div>
           <p className="text-gray-600">Happy</p>
@@ -24,7 +24,7 @@ export default function BasicEmotions() {
         
         <div className="border border-indigo-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḥazīn</p>
+        <p className="font-bold text-lg text-gray-900">Hazin</p>
             <span className="text-2xl">😢</span>
           </div>
           <p className="text-gray-600">Sad</p>
@@ -33,7 +33,7 @@ export default function BasicEmotions() {
         
         <div className="border border-indigo-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ghāḍib</p>
+        <p className="font-bold text-lg text-gray-900">Ghadib</p>
             <span className="text-2xl">😠</span>
           </div>
           <p className="text-gray-600">Angry</p>
@@ -42,7 +42,7 @@ export default function BasicEmotions() {
         
         <div className="border border-indigo-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Khā'if</p>
+        <p className="font-bold text-lg text-gray-900">Khaif</p>
             <span className="text-2xl">😨</span>
           </div>
           <p className="text-gray-600">Scared/Afraid</p>
@@ -60,7 +60,7 @@ export default function BasicEmotions() {
         
         <div className="border border-indigo-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ta'bān</p>
+        <p className="font-bold text-lg text-gray-900">Ta'ban</p>
             <span className="text-2xl">😴</span>
           </div>
           <p className="text-gray-600">Tired</p>

@@ -17,7 +17,7 @@ export default function HealthTips() {
             Pharmacy Availability
           </h3>
           <p className="text-blue-800 text-sm">
-            Pharmacies (ṣaydalīya) are widely available in cities. Look for the green cross sign. 
+        Pharmacies (saydaliya) are widely available in cities. Look for the green cross sign.
             Many pharmacists speak French or Arabic.
           </p>
         </div>
@@ -39,7 +39,7 @@ export default function HealthTips() {
             Private Clinics
           </h3>
           <p className="text-purple-800 text-sm">
-            Private clinics (ʿiyāda khāṣṣa) offer faster service. Public hospitals (mustashfā ʿumūmī) 
+        Private clinics (3iyada khassa) offer faster service. Public hospitals (mustashfa 3umumi)
             are free but may have longer waits.
           </p>
         </div>

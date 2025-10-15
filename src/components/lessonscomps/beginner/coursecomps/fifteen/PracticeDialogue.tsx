@@ -19,7 +19,7 @@ export default function PracticeDialogue() {
               <span className="text-blue-600 font-bold text-sm">A</span>
             </div>
             <div className="bg-white rounded-lg p-3 flex-1 border border-teal-100">
-              <p className="font-medium text-gray-900">Salām! Kīf ḥāssis lyūm?</p>
+        <p className="font-medium text-gray-900">Salam! Kif hassis lyum?</p>
               <p className="text-gray-600 text-sm mt-1">Hello! How are you feeling today?</p>
             </div>
           </div>
@@ -29,7 +29,7 @@ export default function PracticeDialogue() {
               <span className="text-green-600 font-bold text-sm">B</span>
             </div>
             <div className="bg-white rounded-lg p-3 flex-1 border border-teal-100">
-              <p className="font-medium text-gray-900">Salām! Ana ta'bān shwayya. Wash nta?</p>
+        <p className="font-medium text-gray-900">Salam! Ana ta'ban shwayya. Wash nta?</p>
               <p className="text-gray-600 text-sm mt-1">Hello! I'm a little tired. How about you?</p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function PracticeDialogue() {
               <span className="text-blue-600 font-bold text-sm">A</span>
             </div>
             <div className="bg-white rounded-lg p-3 flex-1 border border-teal-100">
-              <p className="font-medium text-gray-900">Ana farḥān bzāf! Ash fīk? Līsh ta'bān?</p>
+        <p className="font-medium text-gray-900">Ana farhan bzaf! Ash fik? Lish ta'ban?</p>
               <p className="text-gray-600 text-sm mt-1">I'm very happy! What's wrong? Why are you tired?</p>
             </div>
           </div>
@@ -49,7 +49,7 @@ export default function PracticeDialogue() {
               <span className="text-green-600 font-bold text-sm">B</span>
             </div>
             <div className="bg-white rounded-lg p-3 flex-1 border border-teal-100">
-              <p className="font-medium text-gray-900">Khdamt bzāf f al-khadma. Walākin ana mabsūṭ.</p>
+        <p className="font-medium text-gray-900">Khdamt bzaf f al-khadma. Walakin ana mabsut.</p>
               <p className="text-gray-600 text-sm mt-1">I worked a lot at work. But I'm content.</p>
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function PracticeDialogue() {
               <span className="text-blue-600 font-bold text-sm">A</span>
             </div>
             <div className="bg-white rounded-lg p-3 flex-1 border border-teal-100">
-              <p className="font-medium text-gray-900">Allāh y'ṭīk aṣ-ṣaḥḥa! Rāḥ shwayya.</p>
+        <p className="font-medium text-gray-900">Allah y'tik as-sahha! Rah shwayya.</p>
               <p className="text-gray-600 text-sm mt-1">May God give you health! Rest a little.</p>
             </div>
           </div>
@@ -69,7 +69,7 @@ export default function PracticeDialogue() {
               <span className="text-green-600 font-bold text-sm">B</span>
             </div>
             <div className="bg-white rounded-lg p-3 flex-1 border border-teal-100">
-              <p className="font-medium text-gray-900">Shukran! Inshāllāh ghādi nkūn bkhīr ghudda.</p>
+        <p className="font-medium text-gray-900">Shukran! Inshallah ghadi nkun bkhir ghudda.</p>
               <p className="text-gray-600 text-sm mt-1">Thank you! God willing, I'll be fine tomorrow.</p>
             </div>
           </div>

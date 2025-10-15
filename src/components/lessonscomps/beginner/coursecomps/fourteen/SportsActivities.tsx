@@ -15,7 +15,7 @@ export default function SportsActivities() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Sibāḥa</p>
+            <p className="font-bold text-lg text-gray-900">Sibaha</p>
             <span className="text-2xl">🏊‍♂️</span>
           </div>
           <p className="text-gray-600">Swimming</p>
@@ -33,7 +33,7 @@ export default function SportsActivities() {
         
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kūrat al-yad</p>
+            <p className="font-bold text-lg text-gray-900">Kurat al-yad</p>
             <span className="text-2xl">🏀</span>
           </div>
           <p className="text-gray-600">Basketball</p>
@@ -51,7 +51,7 @@ export default function SportsActivities() {
         
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mashī</p>
+            <p className="font-bold text-lg text-gray-900">Mashi</p>
             <span className="text-2xl">🚶‍♂️</span>
           </div>
           <p className="text-gray-600">Walking</p>

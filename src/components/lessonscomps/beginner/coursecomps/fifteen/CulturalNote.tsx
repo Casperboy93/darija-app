@@ -22,7 +22,7 @@ export default function CulturalNote() {
           <div className="bg-white p-4 rounded-md border border-amber-100">
             <h4 className="font-semibold text-amber-800 mb-2">Key Cultural Points:</h4>
             <ul className="list-disc ml-5 space-y-1">
-              <li><strong>Religious expressions:</strong> Many emotional responses include religious phrases like "Allāh y'ṭīk aṣ-ṣaḥḥa" (May God give you health)</li>
+              <li><strong>Religious expressions:</strong> Many emotional responses include religious phrases like "Allah y'tik as-sahha" (May God give you health)</li>
               <li><strong>Community support:</strong> Showing concern for others' emotional well-being is highly valued</li>
               <li><strong>Gender considerations:</strong> Men and women may express emotions differently in public settings</li>
               <li><strong>Hospitality:</strong> Asking about someone's feelings shows care and builds relationships</li>

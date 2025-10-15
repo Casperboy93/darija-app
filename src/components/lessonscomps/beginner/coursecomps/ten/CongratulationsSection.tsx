@@ -8,7 +8,7 @@ export default function CongratulationsSection() {
       <div className="bg-gradient-to-r from-green-400 to-blue-500 text-white rounded-lg p-8 text-center">
         <div className="mb-4">
           <div className="text-6xl mb-4">🎉</div>
-          <h2 className="text-3xl font-bold mb-2">Mabrūk! Congratulations!</h2>
+          <h2 className="text-3xl font-bold mb-2">Mabruk! Congratulations!</h2>
           <p className="text-xl opacity-90">You've completed all 10 beginner lessons!</p>
         </div>
         
@@ -46,7 +46,7 @@ export default function CongratulationsSection() {
             Continue practicing with native speakers and explore intermediate lessons to further improve your skills.
           </p>
           <div className="text-2xl mt-4">
-            Bslāma w b-tawfīq! (Goodbye and good luck!)
+            Bslama w b-tawfiq! (Goodbye and good luck!)
           </div>
         </div>
       </div>

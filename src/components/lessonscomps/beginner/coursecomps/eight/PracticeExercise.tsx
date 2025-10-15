@@ -17,12 +17,12 @@ export default function PracticeExercise() {
         <div className="bg-white p-4 rounded-md border border-orange-100">
           <p className="font-medium text-orange-800 mb-2">Vocabulary to use:</p>
           <ul className="list-disc ml-5 space-y-1 text-gray-700">
-            <li>Bghit nākul (I want to eat)</li>
-            <li>Shnu ʿandkum? (What do you have?)</li>
-            <li>Tajīn djāj (Chicken tagine)</li>
-            <li>Kās atāy (Glass of tea)</li>
-            <li>Bshḥāl hāda? (How much is this?)</li>
-            <li>L-ḥisāb, afak (The bill, please)</li>
+            <li>Bghit nakul (I want to eat)</li>
+            <li>Shnu 3andkum? (What do you have?)</li>
+            <li>Tajin djaj (Chicken tagine)</li>
+            <li>Kas atay (Glass of tea)</li>
+            <li>Bshhal hada? (How much is this?)</li>
+            <li>L-hisab, afak (The bill, please)</li>
           </ul>
         </div>
       </div>

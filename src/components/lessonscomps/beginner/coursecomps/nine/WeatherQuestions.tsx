@@ -11,7 +11,7 @@ export default function WeatherQuestions() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Kīfāsh l-jaww?</p>
+            <p className="font-bold text-lg text-gray-900">Kifash l-jaww?</p>
             <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">Question</span>
           </div>
           <p className="text-gray-600">How's the weather?</p>
@@ -23,7 +23,7 @@ export default function WeatherQuestions() {
 
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Ghādi yshti?</p>
+            <p className="font-bold text-lg text-gray-900">Ghadi yshti?</p>
             <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">Question</span>
           </div>
           <p className="text-gray-600">Is it going to rain?</p>
@@ -35,7 +35,7 @@ export default function WeatherQuestions() {
 
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Skhūn wlla bārid?</p>
+            <p className="font-bold text-lg text-gray-900">Skhun wlla barid?</p>
             <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">Question</span>
           </div>
           <p className="text-gray-600">Hot or cold?</p>
@@ -47,7 +47,7 @@ export default function WeatherQuestions() {
 
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Shnu l-ḥāl dyal l-jaww?</p>
+            <p className="font-bold text-lg text-gray-900">Shnu l-hal dyal l-jaww?</p>
             <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">Question</span>
           </div>
           <p className="text-gray-600">What's the weather condition?</p>

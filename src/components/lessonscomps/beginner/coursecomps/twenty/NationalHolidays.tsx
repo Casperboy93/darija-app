@@ -13,7 +13,7 @@ export default function NationalHolidays() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-red-200 rounded-lg p-5 bg-red-50 hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿĪd l-Istiqlāl</p>
+            <p className="font-bold text-lg text-gray-900">3id l-Istiqlal</p>
             <span className="text-2xl">🇲🇦</span>
           </div>
           <p className="text-gray-600">Independence Day</p>
@@ -22,7 +22,7 @@ export default function NationalHolidays() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-green-50 hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿĪd l-ʿArsh</p>
+            <p className="font-bold text-lg text-gray-900">3id l-3arsh</p>
             <span className="text-2xl">👑</span>
           </div>
           <p className="text-gray-600">Throne Day</p>
@@ -31,7 +31,7 @@ export default function NationalHolidays() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-blue-50 hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿĪd sh-Shabāb</p>
+            <p className="font-bold text-lg text-gray-900">3id sh-Shabab</p>
             <span className="text-2xl">🎉</span>
           </div>
           <p className="text-gray-600">Youth Day</p>
@@ -40,7 +40,7 @@ export default function NationalHolidays() {
         
         <div className="border border-yellow-200 rounded-lg p-5 bg-yellow-50 hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Rās s-Sana</p>
+            <p className="font-bold text-lg text-gray-900">Ras s-Sana</p>
             <span className="text-2xl">🎊</span>
           </div>
           <p className="text-gray-600">New Year</p>

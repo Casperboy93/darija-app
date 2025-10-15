@@ -56,23 +56,23 @@ export default function BeginnerTwentyTwo() {
           Hotel and Accommodation - الفندق والإقامة
         </h2>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-white p-4 rounded-md border border-indigo-100">
             <h3 className="font-semibold text-indigo-700 mb-3">Hotel Vocabulary</h3>
             <div className="space-y-2">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Hotel</span>
                 <span className="font-medium text-indigo-600">فندق - Funduq</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Room</span>
                 <span className="font-medium text-indigo-600">بيت - Bit</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Reservation</span>
                 <span className="font-medium text-indigo-600">حجز - Hajz</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Reception</span>
                 <span className="font-medium text-indigo-600">استقبال - Istiqbal</span>
               </div>
@@ -109,23 +109,23 @@ export default function BeginnerTwentyTwo() {
           Tourist Attractions - المعالم السياحية
         </h2>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-white p-4 rounded-md border border-green-100">
             <h3 className="font-semibold text-green-700 mb-3">Famous Places</h3>
             <div className="space-y-2">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Medina</span>
                 <span className="font-medium text-green-600">مدينة قديمة - Mdina qdima</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Mosque</span>
                 <span className="font-medium text-green-600">جامع - Jama3</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Palace</span>
                 <span className="font-medium text-green-600">قصر - Qasr</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Museum</span>
                 <span className="font-medium text-green-600">متحف - Mathaf</span>
               </div>
@@ -165,23 +165,23 @@ export default function BeginnerTwentyTwo() {
           Tourist Transportation - النقل السياحي
         </h2>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-white p-4 rounded-md border border-yellow-100">
             <h3 className="font-semibold text-yellow-700 mb-3">Transport Options</h3>
             <div className="space-y-2">
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Tourist bus</span>
                 <span className="font-medium text-yellow-600">طوبيس سياحي - Tobis siyahi</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Taxi</span>
                 <span className="font-medium text-yellow-600">طاكسي - Taksi</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Train</span>
                 <span className="font-medium text-yellow-600">قطار - Qitar</span>
               </div>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center flex-wrap gap-2">
                 <span className="text-gray-700">Rental car</span>
                 <span className="font-medium text-yellow-600">طوموبيل بالكرا - Tomobil bil kira</span>
               </div>

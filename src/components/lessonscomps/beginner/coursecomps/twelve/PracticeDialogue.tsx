@@ -16,19 +16,19 @@ export default function PracticeDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded border-l-4 border-sky-500">
             <p className="font-medium text-sky-700">Ahmed:</p>
-            <p className="text-gray-800">"Kīf al-jaww al-yawm?"</p>
+            <p className="text-gray-800">"Kif al-jaww al-yawm?"</p>
             <p className="text-gray-600 text-sm">"How's the weather today?"</p>
           </div>
           
           <div className="bg-white p-4 rounded border-l-4 border-green-500">
             <p className="font-medium text-green-700">Fatima:</p>
-            <p className="text-gray-800">"Al-jaww ḥarr bzāf, u fīh shams qawiyya"</p>
+            <p className="text-gray-800">"Al-jaww harr bzaf, u fih shams qawiyya"</p>
             <p className="text-gray-600 text-sm">"The weather is very hot, and there's strong sun"</p>
           </div>
           
           <div className="bg-white p-4 rounded border-l-4 border-sky-500">
             <p className="font-medium text-sky-700">Ahmed:</p>
-            <p className="text-gray-800">"Īwa, al-ṣayf f-l-Maghrib ḥarr dāyman"</p>
+            <p className="text-gray-800">"Iwa, al-sayf f-l-Maghrib harr dayman"</p>
             <p className="text-gray-600 text-sm">"Yes, summer in Morocco is always hot"</p>
           </div>
         </div>

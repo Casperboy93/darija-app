@@ -42,28 +42,28 @@ export default function BeginnerTen() {
         
         <p className="text-gray-700 mb-6">Essential vocabulary for different parts of the body.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-6">
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Rās</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Ras</p>
               <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Head</span>
             </div>
             <p className="text-gray-600">Head</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: ras</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Kaywajaʿnī rāsī" (My head hurts)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Kaywaja3ni rasi" (My head hurts)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">ʿAyn</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">3ayn</p>
               <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Face</span>
             </div>
             <p className="text-gray-600">Eye</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: ayn</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "ʿAynī kaywajaʿnī" (My eye hurts)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "3ayni kaywaja3ni" (My eye hurts)</p>
             </div>
           </div>
 
@@ -75,7 +75,7 @@ export default function BeginnerTen() {
             <p className="text-gray-600">Hand / Arm</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: yad</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Ksart yadī" (I broke my arm)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Ksart yadi" (I broke my arm)</p>
             </div>
           </div>
 
@@ -87,31 +87,31 @@ export default function BeginnerTen() {
             <p className="text-gray-600">Leg / Foot</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: rijl</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Rijlī kaywajaʿnī" (My leg hurts)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Rijli kaywaja3ni" (My leg hurts)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Baṭn</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Batn</p>
               <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Body</span>
             </div>
             <p className="text-gray-600">Stomach / Belly</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: batn</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Baṭnī kaywajaʿnī" (My stomach hurts)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Batni kaywaja3ni" (My stomach hurts)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Ḍahr</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Dahr</p>
               <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Body</span>
             </div>
             <p className="text-gray-600">Back</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: dahr</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Ḍahrī kaywajaʿnī" (My back hurts)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Dahri kaywaja3ni" (My back hurts)</p>
             </div>
           </div>
         </div>
@@ -126,52 +126,52 @@ export default function BeginnerTen() {
         
         <p className="text-gray-700 mb-6">Common health problems and how to describe them.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-6">
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Marīḍ</p>
+              <p className="font-bold text-lg text-gray-900">Marid</p>
               <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded-full">Condition</span>
             </div>
             <p className="text-gray-600">Sick / Ill</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: ma-reed</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Ana marīḍ" (I am sick)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Ana marid" (I am sick)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Ṣudāʿ</p>
+              <p className="font-bold text-lg text-gray-900">Soda3</p>
               <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded-full">Condition</span>
             </div>
             <p className="text-gray-600">Headache</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: su-da</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "ʿAndī ṣudāʿ" (I have a headache)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "3andi soda3" (I have a headache)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Sukhāna</p>
+              <p className="font-bold text-lg text-gray-900">Sukhana</p>
               <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded-full">Condition</span>
             </div>
             <p className="text-gray-600">Fever</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: su-kha-na</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "ʿAndī sukhāna" (I have a fever)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "3andi sukhana" (I have a fever)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Suʿāl</p>
+              <p className="font-bold text-lg text-gray-900">Su3al</p>
               <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Condition</span>
             </div>
             <p className="text-gray-600">Cough</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: su-al</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Kaysuʿlnī bzāf" (I'm coughing a lot)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Kaysu3lni bzaf" (I'm coughing a lot)</p>
             </div>
           </div>
         </div>
@@ -186,10 +186,10 @@ export default function BeginnerTen() {
         
         <p className="text-gray-700 mb-6">Essential phrases for medical situations and emergencies.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-6">
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Bghit ṭabīb</p>
+              <p className="font-bold text-lg text-gray-900">Bghit tabib</p>
               <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Emergency</span>
             </div>
             <p className="text-gray-600">I need a doctor</p>
@@ -201,7 +201,7 @@ export default function BeginnerTen() {
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Fin l-mustashfā?</p>
+              <p className="font-bold text-lg text-gray-900">Fin l-mustashfa?</p>
               <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Emergency</span>
             </div>
             <p className="text-gray-600">Where is the hospital?</p>
@@ -213,7 +213,7 @@ export default function BeginnerTen() {
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Kaywajaʿnī hna</p>
+              <p className="font-bold text-lg text-gray-900">Kaywaja3ni hna</p>
               <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded-full">Symptom</span>
             </div>
             <p className="text-gray-600">It hurts here</p>
@@ -225,7 +225,7 @@ export default function BeginnerTen() {
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Bghit dawā</p>
+              <p className="font-bold text-lg text-gray-900">Bghit dawa</p>
               <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Treatment</span>
             </div>
             <p className="text-gray-600">I need medicine</p>
@@ -246,52 +246,52 @@ export default function BeginnerTen() {
         
         <p className="text-gray-700 mb-6">Important words for visiting a pharmacy and getting medication.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-6">
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Ṣaydalīya</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Saydaliya</p>
               <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Place</span>
             </div>
             <p className="text-gray-600">Pharmacy</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: say-da-lee-ya</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Fin ṣaydalīya?" (Where is the pharmacy?)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Fin saydaliya?" (Where is the pharmacy?)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Dawā</p>
+              <p className="font-bold text-lg text-gray-900">Dawa</p>
               <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Medicine</span>
             </div>
             <p className="text-gray-600">Medicine / Medication</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: da-wa</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Hāda d-dawā l-ṣudāʿ" (This is headache medicine)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Hada d-dawa l-soda3" (This is headache medicine)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Waṣfa</p>
+              <p className="font-bold text-lg text-gray-900">Wasfa</p>
               <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Document</span>
             </div>
             <p className="text-gray-600">Prescription</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: was-fa</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "ʿAndī waṣfa mn ṭ-ṭabīb" (I have a prescription from the doctor)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "3andi wasfa mn t-tabib" (I have a prescription from the doctor)</p>
             </div>
           </div>
 
           <div className="border border-red-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between">
-              <p className="font-bold text-lg text-gray-900">Ḥabba</p>
+              <p className="font-bold text-lg text-gray-900">Habba</p>
               <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Medicine</span>
             </div>
             <p className="text-gray-600">Pill / Tablet</p>
             <p className="text-sm italic mt-2 text-gray-500">Pronounced: hab-ba</p>
             <div className="mt-3 pt-3 border-t border-gray-100">
-              <p className="text-sm text-gray-600"><strong>Example:</strong> "Khud ḥabba kull yūm" (Take one pill every day)</p>
+              <p className="text-sm text-gray-600 break-words"><strong>Example:</strong> "Khud habba kull yum" (Take one pill every day)</p>
             </div>
           </div>
         </div>
@@ -311,7 +311,7 @@ export default function BeginnerTen() {
             <div className="flex">
               <div className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Patient</div>
               <div>
-                <p className="font-medium">Salam ṭabīb, ana marīḍ</p>
+                <p className="font-medium break-words">Salam tabib, ana marid</p>
                 <p className="text-sm text-gray-600 italic">Hello doctor, I am sick</p>
               </div>
             </div>
@@ -319,7 +319,7 @@ export default function BeginnerTen() {
             <div className="flex">
               <div className="bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Doctor</div>
               <div>
-                <p className="font-medium">Ahlan, shnu kaywajaʿak?</p>
+                <p className="font-medium break-words">Ahlan, shnu kaywaja3ak?</p>
                 <p className="text-sm text-gray-600 italic">Hello, what hurts you?</p>
               </div>
             </div>
@@ -327,7 +327,7 @@ export default function BeginnerTen() {
             <div className="flex">
               <div className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Patient</div>
               <div>
-                <p className="font-medium">Kaywajaʿnī rāsī w ʿandī sukhāna</p>
+                <p className="font-medium break-words">Kaywaja3ni rasi w 3andi sukhana</p>
                 <p className="text-sm text-gray-600 italic">My head hurts and I have a fever</p>
               </div>
             </div>
@@ -335,7 +335,7 @@ export default function BeginnerTen() {
             <div className="flex">
               <div className="bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Doctor</div>
               <div>
-                <p className="font-medium">Mn imta w nta hākka?</p>
+          <p className="font-medium">Mn imta w nta hakka?</p>
                 <p className="text-sm text-gray-600 italic">Since when have you been like this?</p>
               </div>
             </div>
@@ -343,7 +343,7 @@ export default function BeginnerTen() {
             <div className="flex">
               <div className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Patient</div>
               <div>
-                <p className="font-medium">Mn l-bāriḥ</p>
+                <p className="font-medium">Mn l-barih</p>
                 <p className="text-sm text-gray-600 italic">Since yesterday</p>
               </div>
             </div>
@@ -351,7 +351,7 @@ export default function BeginnerTen() {
             <div className="flex">
               <div className="bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Doctor</div>
               <div>
-                <p className="font-medium">Ghādi nʿṭīk waṣfa l-dawā</p>
+                <p className="font-medium break-words">Ghadi n3tik wasfa l-dawa</p>
                 <p className="text-sm text-gray-600 italic">I will give you a prescription for medicine</p>
               </div>
             </div>

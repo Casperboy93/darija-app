@@ -21,7 +21,7 @@ export default function PracticeExercise() {
               You have a headache and need to buy medicine. Ask the pharmacist for help.
             </p>
             <div className="bg-red-100 p-3 rounded text-sm">
-              <p><strong>Try saying:</strong> "Salam, ʿandī ṣudāʿ. Bghit dawā."</p>
+        <p><strong>Try saying:</strong> "Salam, 3andi suda3. Bghit dawa."</p>
               <p className="text-red-600 italic">(Hello, I have a headache. I need medicine.)</p>
             </div>
           </div>
@@ -32,7 +32,7 @@ export default function PracticeExercise() {
               You feel very sick and need to find a doctor urgently.
             </p>
             <div className="bg-red-100 p-3 rounded text-sm">
-              <p><strong>Try saying:</strong> "Bghit ṭabīb! Fin l-mustashfā?"</p>
+        <p><strong>Try saying:</strong> "Bghit tabib! Fin l-mustashfa?"</p>
               <p className="text-red-600 italic">(I need a doctor! Where is the hospital?)</p>
             </div>
           </div>
@@ -43,7 +43,7 @@ export default function PracticeExercise() {
               You're at the doctor's office and need to explain where it hurts.
             </p>
             <div className="bg-red-100 p-3 rounded text-sm">
-              <p><strong>Try saying:</strong> "Kaywajaʿnī baṭnī w ʿandī sukhāna."</p>
+        <p><strong>Try saying:</strong> "Kaywaja3ni batni w 3andi sukhana."</p>
               <p className="text-red-600 italic">(My stomach hurts and I have a fever.)</p>
             </div>
           </div>
@@ -54,7 +54,7 @@ export default function PracticeExercise() {
               The doctor gave you a prescription and you need to get it filled.
             </p>
             <div className="bg-red-100 p-3 rounded text-sm">
-              <p><strong>Try saying:</strong> "ʿAndī waṣfa mn ṭ-ṭabīb. Bghit hād d-dawā."</p>
+        <p><strong>Try saying:</strong> "3andi wasfa mn t-tabib. Bghit had d-dawa."</p>
               <p className="text-red-600 italic">(I have a prescription from the doctor. I want this medicine.)</p>
             </div>
           </div>

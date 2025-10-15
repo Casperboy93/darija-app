@@ -17,7 +17,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Āsh khadām a sī?</p>
+        <p className="font-medium text-gray-800">Ash khadam a si?</p>
               <p className="text-gray-600 text-sm">What do you do for work, sir?</p>
             </div>
           </div>
@@ -25,7 +25,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">B</div>
             <div>
-              <p className="font-medium text-gray-800">Ana muʿallim f madrasa. U nta?</p>
+        <p className="font-medium text-gray-800">Ana mu3allim f madrasa. U nta?</p>
               <p className="text-gray-600 text-sm">I'm a teacher at a school. And you?</p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Ana khadām f maktab, muhandis.</p>
+        <p className="font-medium text-gray-800">Ana khadam f maktab, muhandis.</p>
               <p className="text-gray-600 text-sm">I work in an office, I'm an engineer.</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">B</div>
             <div>
-              <p className="font-medium text-gray-800">Khadma zīna! Fīn l-maktab dyālak?</p>
+        <p className="font-medium text-gray-800">Khadma zina! Fin l-maktab dyalak?</p>
               <p className="text-gray-600 text-sm">Nice job! Where is your office?</p>
             </div>
           </div>

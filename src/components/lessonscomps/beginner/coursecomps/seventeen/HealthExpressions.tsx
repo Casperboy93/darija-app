@@ -15,15 +15,15 @@ export default function HealthExpressions() {
           <p className="font-semibold text-gray-800 mb-2">Asking About Health:</p>
           <div className="space-y-2">
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Kīf ṣaḥtak?</span>
+        <span className="text-gray-700">Kif sahatak?</span>
               <span className="text-gray-600 text-sm">How is your health?</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Wāsh nta mrīḍ?</span>
+        <span className="text-gray-700">Wash nta mrid?</span>
               <span className="text-gray-600 text-sm">Are you sick?</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Āsh kāyn līk?</span>
+        <span className="text-gray-700">Ash kayn lik?</span>
               <span className="text-gray-600 text-sm">What's wrong with you?</span>
             </div>
           </div>
@@ -33,15 +33,15 @@ export default function HealthExpressions() {
           <p className="font-semibold text-gray-800 mb-2">Describing Symptoms:</p>
           <div className="space-y-2">
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Rāsī kaywajaʿnī</span>
+        <span className="text-gray-700">Rasi kaywaja3ni</span>
               <span className="text-gray-600 text-sm">My head hurts</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">ʿAndī ḥumma</span>
+        <span className="text-gray-700">3andi humma</span>
               <span className="text-gray-600 text-sm">I have a fever</span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-gray-700">Kaynʿas</span>
+        <span className="text-gray-700">Kayn3as</span>
               <span className="text-gray-600 text-sm">I'm sleepy/tired</span>
             </div>
           </div>

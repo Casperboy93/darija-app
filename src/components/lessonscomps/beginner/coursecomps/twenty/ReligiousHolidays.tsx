@@ -15,7 +15,7 @@ export default function ReligiousHolidays() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿĪd l-Fiṭr</p>
+        <p className="font-bold text-lg text-gray-900">3id l-Fitr</p>
             <span className="text-2xl">🌙</span>
           </div>
           <p className="text-gray-600">Eid al-Fitr (End of Ramadan)</p>
@@ -24,7 +24,7 @@ export default function ReligiousHolidays() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">ʿĪd l-Aḍḥā</p>
+        <p className="font-bold text-lg text-gray-900">3id l-Adha</p>
             <span className="text-2xl">🐑</span>
           </div>
           <p className="text-gray-600">Eid al-Adha (Festival of Sacrifice)</p>
@@ -33,7 +33,7 @@ export default function ReligiousHolidays() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ramaḍān</p>
+        <p className="font-bold text-lg text-gray-900">Ramadan</p>
             <span className="text-2xl">🌙</span>
           </div>
           <p className="text-gray-600">Ramadan (Holy Month)</p>
@@ -42,7 +42,7 @@ export default function ReligiousHolidays() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mawlid n-Nabī</p>
+        <p className="font-bold text-lg text-gray-900">Mawlid n-Nabi</p>
             <span className="text-2xl">🕌</span>
           </div>
           <p className="text-gray-600">Prophet's Birthday</p>
@@ -60,7 +60,7 @@ export default function ReligiousHolidays() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Jumʿa</p>
+        <p className="font-bold text-lg text-gray-900">Jum3a</p>
             <span className="text-2xl">🕌</span>
           </div>
           <p className="text-gray-600">Friday (Holy Day)</p>

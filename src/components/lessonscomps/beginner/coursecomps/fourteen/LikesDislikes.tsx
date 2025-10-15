@@ -14,13 +14,13 @@ export default function LikesDislikes() {
         <div className="space-y-4">
           <h3 className="font-semibold text-lg text-green-700">Likes</h3>
           <div className="bg-green-50 p-4 rounded-lg border border-green-200">
-            <p className="font-semibold text-green-800">Ana kan-ḥabb...</p>
+            <p className="font-semibold text-green-800">Ana kan-habb...</p>
             <p className="text-gray-700">I like...</p>
             <p className="text-sm text-gray-500 mt-1">أنا كنحب...</p>
           </div>
           
           <div className="bg-green-50 p-4 rounded-lg border border-green-200">
-            <p className="font-semibold text-green-800">Kan-ḥabb bzāf...</p>
+            <p className="font-semibold text-green-800">Kan-habb bzaf...</p>
             <p className="text-gray-700">I really like...</p>
             <p className="text-sm text-gray-500 mt-1">كنحب بزاف...</p>
           </div>
@@ -35,13 +35,13 @@ export default function LikesDislikes() {
         <div className="space-y-4">
           <h3 className="font-semibold text-lg text-red-700">Dislikes</h3>
           <div className="bg-red-50 p-4 rounded-lg border border-red-200">
-            <p className="font-semibold text-red-800">Ma kan-ḥabbsh...</p>
+            <p className="font-semibold text-red-800">Ma kan-habbsh...</p>
             <p className="text-gray-700">I don't like...</p>
             <p className="text-sm text-gray-500 mt-1">ما كنحبش...</p>
           </div>
           
           <div className="bg-red-50 p-4 rounded-lg border border-red-200">
-            <p className="font-semibold text-red-800">Hāda mā 'ajbabnīsh</p>
+            <p className="font-semibold text-red-800">Hada ma 'ajbabnish</p>
             <p className="text-gray-700">I don't like this</p>
             <p className="text-sm text-gray-500 mt-1">هادا ما عجبنيش</p>
           </div>

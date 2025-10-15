@@ -15,7 +15,7 @@ export default function DirectionWords() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Yamīn</p>
+            <p className="font-bold text-lg text-gray-900">Yamin</p>
             <span className="text-2xl">➡️</span>
           </div>
           <p className="text-gray-600">Right</p>
@@ -24,7 +24,7 @@ export default function DirectionWords() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Yasār</p>
+            <p className="font-bold text-lg text-gray-900">Yasar</p>
             <span className="text-2xl">⬅️</span>
           </div>
           <p className="text-gray-600">Left</p>
@@ -33,7 +33,7 @@ export default function DirectionWords() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Qiddām</p>
+            <p className="font-bold text-lg text-gray-900">Qiddam</p>
             <span className="text-2xl">⬆️</span>
           </div>
           <p className="text-gray-600">Straight/Forward</p>
@@ -42,7 +42,7 @@ export default function DirectionWords() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Warā</p>
+            <p className="font-bold text-lg text-gray-900">Wara</p>
             <span className="text-2xl">⬇️</span>
           </div>
           <p className="text-gray-600">Behind/Back</p>
@@ -51,7 +51,7 @@ export default function DirectionWords() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Qarīb</p>
+            <p className="font-bold text-lg text-gray-900">Qarib</p>
             <span className="text-2xl">📍</span>
           </div>
           <p className="text-gray-600">Near/Close</p>
@@ -60,7 +60,7 @@ export default function DirectionWords() {
         
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ba'īd</p>
+          <p className="font-bold text-lg text-gray-900">B3id</p>
             <span className="text-2xl">🔭</span>
           </div>
           <p className="text-gray-600">Far</p>

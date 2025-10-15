@@ -15,7 +15,7 @@ export default function Seasons() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-sky-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Rabī'</p>
+            <p className="font-bold text-lg text-gray-900">Rabi3</p>
             <span className="text-2xl">🌸</span>
           </div>
           <p className="text-gray-600">Spring</p>
@@ -25,7 +25,7 @@ export default function Seasons() {
         
         <div className="border border-sky-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṣayf</p>
+            <p className="font-bold text-lg text-gray-900">Sayf</p>
             <span className="text-2xl">☀️</span>
           </div>
           <p className="text-gray-600">Summer</p>
@@ -35,7 +35,7 @@ export default function Seasons() {
         
         <div className="border border-sky-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kharīf</p>
+            <p className="font-bold text-lg text-gray-900">Kharif</p>
             <span className="text-2xl">🍂</span>
           </div>
           <p className="text-gray-600">Autumn/Fall</p>
@@ -45,7 +45,7 @@ export default function Seasons() {
         
         <div className="border border-sky-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Shitā'</p>
+            <p className="font-bold text-lg text-gray-900">Shita</p>
             <span className="text-2xl">❄️</span>
           </div>
           <p className="text-gray-600">Winter</p>

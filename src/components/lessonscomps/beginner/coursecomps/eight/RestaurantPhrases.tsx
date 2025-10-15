@@ -15,7 +15,7 @@ export default function RestaurantPhrases() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Bghit nākul</p>
+            <p className="font-bold text-lg text-gray-900">Bghit nakul</p>
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Request</span>
           </div>
           <p className="text-gray-600">I want to eat</p>
@@ -27,7 +27,7 @@ export default function RestaurantPhrases() {
 
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Shnu ʿandkum?</p>
+            <p className="font-bold text-lg text-gray-900">Shnu 3andkum?</p>
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Question</span>
           </div>
           <p className="text-gray-600">What do you have?</p>
@@ -39,7 +39,7 @@ export default function RestaurantPhrases() {
 
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Bshḥāl hāda?</p>
+            <p className="font-bold text-lg text-gray-900">Bshhal hada?</p>
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Question</span>
           </div>
           <p className="text-gray-600">How much is this?</p>
@@ -51,7 +51,7 @@ export default function RestaurantPhrases() {
 
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">L-ḥisāb, afak</p>
+            <p className="font-bold text-lg text-gray-900">L-hisab, afak</p>
             <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Request</span>
           </div>
           <p className="text-gray-600">The bill, please</p>

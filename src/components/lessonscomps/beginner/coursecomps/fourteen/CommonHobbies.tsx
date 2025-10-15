@@ -15,7 +15,7 @@ export default function CommonHobbies() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Qirā'a</p>
+            <p className="font-bold text-lg text-gray-900">Qira'a</p>
             <span className="text-2xl">📚</span>
           </div>
           <p className="text-gray-600">Reading</p>
@@ -24,7 +24,7 @@ export default function CommonHobbies() {
         
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Kūra</p>
+            <p className="font-bold text-lg text-gray-900">Kura</p>
             <span className="text-2xl">⚽</span>
           </div>
           <p className="text-gray-600">Football/Soccer</p>
@@ -33,7 +33,7 @@ export default function CommonHobbies() {
         
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Mūsīqā</p>
+            <p className="font-bold text-lg text-gray-900">Musiqa</p>
             <span className="text-2xl">🎵</span>
           </div>
           <p className="text-gray-600">Music</p>
@@ -42,7 +42,7 @@ export default function CommonHobbies() {
         
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṭabkh</p>
+            <p className="font-bold text-lg text-gray-900">Tabkh</p>
             <span className="text-2xl">👨‍🍳</span>
           </div>
           <p className="text-gray-600">Cooking</p>
@@ -51,7 +51,7 @@ export default function CommonHobbies() {
         
         <div className="border border-pink-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Siyāḥa</p>
+            <p className="font-bold text-lg text-gray-900">Siyaha</p>
             <span className="text-2xl">✈️</span>
           </div>
           <p className="text-gray-600">Travel</p>

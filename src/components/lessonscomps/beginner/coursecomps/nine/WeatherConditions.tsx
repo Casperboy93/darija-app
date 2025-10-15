@@ -17,7 +17,7 @@ export default function WeatherConditions() {
           <p className="text-gray-600">Sun / Sunny</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: shams</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "L-yūm fīh shams" (Today is sunny)</p>
+        <p className="text-sm text-gray-600"><strong>Example:</strong> "L-yum fih shams" (Today is sunny)</p>
           </div>
         </div>
 
@@ -29,31 +29,31 @@ export default function WeatherConditions() {
           <p className="text-gray-600">Rain</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: shta</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Kayshti l-yūm" (It's raining today)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Kayshti l-yum" (It's raining today)</p>
           </div>
         </div>
 
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Rīḥ</p>
+            <p className="font-bold text-lg text-gray-900">Rih</p>
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Windy</span>
           </div>
           <p className="text-gray-600">Wind</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: reeh</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Kayna rīḥ qawīya" (There's strong wind)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Kayna rih qawiyya" (There's strong wind)</p>
           </div>
         </div>
 
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Sahāb</p>
+            <p className="font-bold text-lg text-gray-900">Sahab</p>
             <span className="bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded-full">Cloudy</span>
           </div>
           <p className="text-gray-600">Clouds</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: sa-hab</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "S-smā fīha sahāb" (The sky has clouds)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "S-sma fiha sahab" (The sky has clouds)</p>
           </div>
         </div>
       </div>

@@ -12,19 +12,19 @@ export default function GivingDirections() {
       
       <div className="space-y-4">
         <div className="bg-orange-50 p-4 rounded-lg border border-orange-200">
-          <p className="font-semibold text-orange-800">Sir qiddām</p>
+          <p className="font-semibold text-orange-800">Sir qiddam</p>
           <p className="text-gray-700">Go straight</p>
           <p className="text-sm text-gray-500 mt-1">سير قدام</p>
         </div>
         
         <div className="bg-orange-50 p-4 rounded-lg border border-orange-200">
-          <p className="font-semibold text-orange-800">Dūr 'la yamīn</p>
+          <p className="font-semibold text-orange-800">Dur 'la yamin</p>
           <p className="text-gray-700">Turn right</p>
           <p className="text-sm text-gray-500 mt-1">دور على يمين</p>
         </div>
         
         <div className="bg-orange-50 p-4 rounded-lg border border-orange-200">
-          <p className="font-semibold text-orange-800">Dūr 'la yasār</p>
+          <p className="font-semibold text-orange-800">Dur 'la yasar</p>
           <p className="text-gray-700">Turn left</p>
           <p className="text-sm text-gray-500 mt-1">دور على يسار</p>
         </div>

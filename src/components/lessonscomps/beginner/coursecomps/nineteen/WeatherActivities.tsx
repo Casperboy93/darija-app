@@ -11,25 +11,25 @@ export default function WeatherActivities() {
       <div className="space-y-3">
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">F l-ḥarr: nmshīw l-l-baḥr</span>
+        <span className="font-medium text-gray-800">F l-harr: nmshiwu l-l-bahr</span>
             <span className="text-gray-600">In hot weather: we go to the beach</span>
           </div>
         </div>
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">F l-bard: nlbsū ḥwāyij skhayna</span>
+        <span className="font-medium text-gray-800">F l-bard: nlbisu hwayij skhayna</span>
             <span className="text-gray-600">In cold weather: we wear warm clothes</span>
           </div>
         </div>
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">F sh-shta: nqʿdū f d-dār</span>
+        <span className="font-medium text-gray-800">F sh-shta: nq3du f d-dar</span>
             <span className="text-gray-600">In rain: we stay at home</span>
           </div>
         </div>
         <div className="bg-white p-4 border border-blue-200 rounded-lg">
           <div className="flex justify-between items-center">
-            <span className="font-medium text-gray-800">F r-rabīʿ: nzūrū l-ḥadāyiq</span>
+        <span className="font-medium text-gray-800">F r-rabi3: nzuru l-hadayiq</span>
             <span className="text-gray-600">In spring: we visit gardens</span>
           </div>
         </div>

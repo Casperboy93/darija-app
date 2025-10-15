@@ -15,49 +15,49 @@ export default function TransportationVocabulary() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Taksī</p>
+        <p className="font-bold text-lg text-gray-900">Taksi</p>
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Vehicle</span>
           </div>
           <p className="text-gray-600">Taxi</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: tak-see</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Bghit taksī" (I want a taxi)</p>
+        <p className="text-sm text-gray-600"><strong>Example:</strong> "Bghit taksi" (I want a taxi)</p>
           </div>
         </div>
 
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Ṭūbīs</p>
+        <p className="font-bold text-lg text-gray-900">Tubis</p>
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Vehicle</span>
           </div>
           <p className="text-gray-600">Bus</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: too-bees</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Fin ṭūbīs?" (Where is the bus?)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Fin tubis?" (Where is the bus?)</p>
           </div>
         </div>
 
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Qiṭār</p>
+        <p className="font-bold text-lg text-gray-900">Qitar</p>
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Vehicle</span>
           </div>
           <p className="text-gray-600">Train</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: qi-tar</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Qiṭār l-Rabat" (Train to Rabat)</p>
+        <p className="text-sm text-gray-600"><strong>Example:</strong> "Qitar l-Rabat" (Train to Rabat)</p>
           </div>
         </div>
 
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Maḥaṭṭa</p>
+        <p className="font-bold text-lg text-gray-900">Mahatta</p>
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Place</span>
           </div>
           <p className="text-gray-600">Station</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: ma-hat-ta</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Maḥaṭṭat l-qiṭār" (Train station)</p>
+        <p className="text-sm text-gray-600"><strong>Example:</strong> "Mahattat l-qitar" (Train station)</p>
           </div>
         </div>
       </div>

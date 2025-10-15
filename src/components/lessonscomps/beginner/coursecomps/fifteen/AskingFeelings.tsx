@@ -16,7 +16,7 @@ export default function AskingFeelings() {
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">❓</span>
-            <p className="font-bold text-lg text-gray-900">Kīf ḥāssis?</p>
+            <p className="font-bold text-lg text-gray-900">Kif hassis?</p>
           </div>
           <p className="text-gray-600 ml-8">How do you feel?</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">كيف حاسس؟</p>
@@ -25,7 +25,7 @@ export default function AskingFeelings() {
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">❓</span>
-            <p className="font-bold text-lg text-gray-900">Ash fīk?</p>
+            <p className="font-bold text-lg text-gray-900">Ash fik?</p>
           </div>
           <p className="text-gray-600 ml-8">What's wrong with you?</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">أش فيك؟</p>
@@ -34,7 +34,7 @@ export default function AskingFeelings() {
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">❓</span>
-            <p className="font-bold text-lg text-gray-900">Wash nta farḥān?</p>
+            <p className="font-bold text-lg text-gray-900">Wash nta farhan?</p>
           </div>
           <p className="text-gray-600 ml-8">Are you happy?</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">واش نت فرحان؟</p>
@@ -43,7 +43,7 @@ export default function AskingFeelings() {
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-5">
           <div className="flex items-center mb-2">
             <span className="text-xl mr-3">❓</span>
-            <p className="font-bold text-lg text-gray-900">Kīf ṣaḥtak?</p>
+            <p className="font-bold text-lg text-gray-900">Kif sahatak?</p>
           </div>
           <p className="text-gray-600 ml-8">How is your health?</p>
           <p className="text-sm text-gray-500 ml-8 mt-1">كيف صحتك؟</p>

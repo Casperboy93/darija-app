@@ -15,7 +15,7 @@ export default function PhysicalStates() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Jū'ān</p>
+        <p className="font-bold text-lg text-gray-900">Ju'an</p>
             <span className="text-2xl">🍽️</span>
           </div>
           <p className="text-gray-600">Hungry</p>
@@ -24,7 +24,7 @@ export default function PhysicalStates() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">'Aṭshān</p>
+        <p className="font-bold text-lg text-gray-900">'Atshan</p>
             <span className="text-2xl">🥤</span>
           </div>
           <p className="text-gray-600">Thirsty</p>
@@ -33,7 +33,7 @@ export default function PhysicalStates() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Marīḍ</p>
+        <p className="font-bold text-lg text-gray-900">Marid</p>
             <span className="text-2xl">🤒</span>
           </div>
           <p className="text-gray-600">Sick</p>
@@ -42,7 +42,7 @@ export default function PhysicalStates() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ṣaḥḥ</p>
+        <p className="font-bold text-lg text-gray-900">Sahh</p>
             <span className="text-2xl">💪</span>
           </div>
           <p className="text-gray-600">Healthy/Well</p>
@@ -51,7 +51,7 @@ export default function PhysicalStates() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Nā'as</p>
+        <p className="font-bold text-lg text-gray-900">Na'as</p>
             <span className="text-2xl">😴</span>
           </div>
           <p className="text-gray-600">Sleepy</p>
@@ -60,7 +60,7 @@ export default function PhysicalStates() {
         
         <div className="border border-green-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Nashīṭ</p>
+        <p className="font-bold text-lg text-gray-900">Nashit</p>
             <span className="text-2xl">⚡</span>
           </div>
           <p className="text-gray-600">Energetic/Active</p>

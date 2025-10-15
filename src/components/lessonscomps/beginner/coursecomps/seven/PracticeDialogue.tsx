@@ -17,7 +17,7 @@ export default function PracticeDialogue() {
           <div className="flex">
             <div className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Tourist</div>
             <div>
-              <p className="font-medium">Salam, fin kayn maḥaṭṭat l-qiṭār?</p>
+        <p className="font-medium">Salam, fin kayn mahattat l-qitar?</p>
               <p className="text-sm text-gray-600 italic">Hello, where is the train station?</p>
             </div>
           </div>
@@ -25,7 +25,7 @@ export default function PracticeDialogue() {
           <div className="flex">
             <div className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Local</div>
             <div>
-              <p className="font-medium">Ahlan! Maḥaṭṭat l-qiṭār bʿīda shwīya</p>
+        <p className="font-medium">Ahlan! Mahattat l-qitar b3ida shwiya</p>
               <p className="text-sm text-gray-600 italic">Hello! The train station is a bit far</p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function PracticeDialogue() {
           <div className="flex">
             <div className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Tourist</div>
             <div>
-              <p className="font-medium">Kīfāsh nmshī l-tmma?</p>
+        <p className="font-medium">Kifash nmshi l-tmma?</p>
               <p className="text-sm text-gray-600 italic">How do I go there?</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function PracticeDialogue() {
           <div className="flex">
             <div className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Local</div>
             <div>
-              <p className="font-medium">Khud taksī aw ṭūbīs. Sīr nīshan, thumma dūr līmn</p>
+        <p className="font-medium">Khud taksi aw tubis. Sir nishan, thumma dur limn</p>
               <p className="text-sm text-gray-600 italic">Take a taxi or bus. Go straight, then turn right</p>
             </div>
           </div>
@@ -57,7 +57,7 @@ export default function PracticeDialogue() {
           <div className="flex">
             <div className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium mr-3 flex-shrink-0">Local</div>
             <div>
-              <p className="font-medium">Bla jmīl, riḥla saʿīda!</p>
+        <p className="font-medium">Bla jmil, rihla sa3ida!</p>
               <p className="text-sm text-gray-600 italic">You're welcome, have a good trip!</p>
             </div>
           </div>

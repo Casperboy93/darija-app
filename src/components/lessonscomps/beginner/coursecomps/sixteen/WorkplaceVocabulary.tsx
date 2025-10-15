@@ -17,15 +17,15 @@ export default function WorkplaceVocabulary() {
             <span className="text-gray-600">Office</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Maʿmal</span>
+        <span className="font-medium text-gray-800">Ma3mal</span>
             <span className="text-gray-600">Factory</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Ḥānut</span>
+        <span className="font-medium text-gray-800">Hanut</span>
             <span className="text-gray-600">Shop</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Mustashfā</span>
+        <span className="font-medium text-gray-800">Mustashfa</span>
             <span className="text-gray-600">Hospital</span>
           </div>
         </div>
@@ -36,7 +36,7 @@ export default function WorkplaceVocabulary() {
             <span className="text-gray-600">School</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Maṭʿam</span>
+        <span className="font-medium text-gray-800">Mat3am</span>
             <span className="text-gray-600">Restaurant</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
@@ -44,7 +44,7 @@ export default function WorkplaceVocabulary() {
             <span className="text-gray-600">Bank</span>
           </div>
           <div className="flex justify-between items-center p-3 bg-white border border-blue-200 rounded-lg">
-            <span className="font-medium text-gray-800">Farmāsīya</span>
+        <span className="font-medium text-gray-800">Farmasiya</span>
             <span className="text-gray-600">Pharmacy</span>
           </div>
         </div>

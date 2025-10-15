@@ -17,7 +17,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">D</div>
             <div>
-              <p className="font-medium text-gray-800">Āsh kāyn līk? Kīf ṣaḥtak?</p>
+              <p className="font-medium text-gray-800">Ash kayn lik? Kif sahatak?</p>
               <p className="text-gray-600 text-sm">What's wrong with you? How is your health?</p>
             </div>
           </div>
@@ -25,7 +25,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">P</div>
             <div>
-              <p className="font-medium text-gray-800">Rāsī kaywajaʿnī bazzāf, u ʿandī ḥumma.</p>
+              <p className="font-medium text-gray-800">Rasi kaywaja3ni bazzaf, u 3andi humma.</p>
               <p className="text-gray-600 text-sm">My head hurts a lot, and I have a fever.</p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">D</div>
             <div>
-              <p className="font-medium text-gray-800">Mn imta u nta ḥāss b hād l-ḥāla?</p>
+              <p className="font-medium text-gray-800">Mn imta u nta hass b had l-hala?</p>
               <p className="text-gray-600 text-sm">Since when have you been feeling this way?</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">P</div>
             <div>
-              <p className="font-medium text-gray-800">Mn l-bāriḥ f l-līl. Mā qadartsh nnʿas.</p>
+              <p className="font-medium text-gray-800">Mn l-barih f l-lil. Ma qadartsh nn3as.</p>
               <p className="text-gray-600 text-sm">Since last night. I couldn't sleep.</p>
             </div>
           </div>
@@ -49,7 +49,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">D</div>
             <div>
-              <p className="font-medium text-gray-800">Ghādī nʿṭīk dawā u waṣfa. Khud rāḥa.</p>
+              <p className="font-medium text-gray-800">Ghadi n3tik dawa u wasfa. Khud raha.</p>
               <p className="text-gray-600 text-sm">I'll give you medicine and a prescription. Take rest.</p>
             </div>
           </div>

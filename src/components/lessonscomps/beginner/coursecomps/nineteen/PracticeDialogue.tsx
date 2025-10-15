@@ -15,7 +15,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Kīf l-jaww l-yūm? Ḥārr bazzāf!</p>
+        <p className="font-medium text-gray-800">Kif l-jaww l-yum? Harr bazzaf!</p>
               <p className="text-gray-600 text-sm">How's the weather today? It's very hot!</p>
             </div>
           </div>
@@ -23,7 +23,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">B</div>
             <div>
-              <p className="font-medium text-gray-800">Īh, ṣaḥīḥ. F ṣ-ṣayf dāyman hākka.</p>
+        <p className="font-medium text-gray-800">Ih, sahih. F s-sayf dayman hakka.</p>
               <p className="text-gray-600 text-sm">Yes, that's right. In summer it's always like this.</p>
             </div>
           </div>
@@ -31,7 +31,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Wāsh ghādī tshti l-yūm?</p>
+        <p className="font-medium text-gray-800">Wash ghadi tshti l-yum?</p>
               <p className="text-gray-600 text-sm">Is it going to rain today?</p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">B</div>
             <div>
-              <p className="font-medium text-gray-800">Lā, mā bānsh. Shūf s-smā ṣāfya.</p>
+        <p className="font-medium text-gray-800">La, ma bansh. Shuf s-sma safya.</p>
               <p className="text-gray-600 text-sm">No, it doesn't look like it. Look, the sky is clear.</p>
             </div>
           </div>
@@ -47,7 +47,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">A</div>
             <div>
-              <p className="font-medium text-gray-800">Zīn, ghādī nkhruj l-l-baḥr.</p>
+        <p className="font-medium text-gray-800">Zin, ghadi nkhruj l-l-bahr.</p>
               <p className="text-gray-600 text-sm">Good, I'm going to go to the beach.</p>
             </div>
           </div>

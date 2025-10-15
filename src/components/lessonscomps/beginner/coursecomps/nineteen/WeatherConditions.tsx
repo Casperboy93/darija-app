@@ -31,7 +31,7 @@ export default function WeatherConditions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Rīḥ</p>
+        <p className="font-bold text-lg text-gray-900">Rih</p>
             <span className="text-2xl">💨</span>
           </div>
           <p className="text-gray-600">Wind</p>
@@ -58,7 +58,7 @@ export default function WeatherConditions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Ḍabāb</p>
+        <p className="font-bold text-lg text-gray-900">Dabab</p>
             <span className="text-2xl">🌫️</span>
           </div>
           <p className="text-gray-600">Fog</p>
@@ -76,7 +76,7 @@ export default function WeatherConditions() {
         
         <div className="border border-blue-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between items-center">
-            <p className="font-bold text-lg text-gray-900">Raʿd</p>
+        <p className="font-bold text-lg text-gray-900">Ra3d</p>
             <span className="text-2xl">🌩️</span>
           </div>
           <p className="text-gray-600">Thunder</p>

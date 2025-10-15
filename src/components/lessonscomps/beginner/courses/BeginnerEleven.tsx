@@ -42,10 +42,10 @@ export default function BeginnerEleven() {
         
         <p className="text-gray-700 mb-6">Colors are essential for describing clothing and expressing preferences.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-6">
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between items-center">
-              <p className="font-bold text-lg text-gray-900">Aḥmar</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Ahmar</p>
               <div className="w-6 h-6 bg-red-500 rounded-full border-2 border-gray-300"></div>
             </div>
             <p className="text-gray-600">Red</p>
@@ -62,8 +62,8 @@ export default function BeginnerEleven() {
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between items-center">
-              <p className="font-bold text-lg text-gray-900">Akhḍar</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Akhdar</p>
               <div className="w-6 h-6 bg-green-500 rounded-full border-2 border-gray-300"></div>
             </div>
             <p className="text-gray-600">Green</p>
@@ -71,8 +71,8 @@ export default function BeginnerEleven() {
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between items-center">
-              <p className="font-bold text-lg text-gray-900">Aṣfar</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Asfar</p>
               <div className="w-6 h-6 bg-yellow-500 rounded-full border-2 border-gray-300"></div>
             </div>
             <p className="text-gray-600">Yellow</p>
@@ -80,8 +80,8 @@ export default function BeginnerEleven() {
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <div className="flex justify-between items-center">
-              <p className="font-bold text-lg text-gray-900">Abyaḍ</p>
+            <div className="flex justify-between items-center flex-wrap gap-2">
+              <p className="font-bold text-lg text-gray-900">Abyad</p>
               <div className="w-6 h-6 bg-white rounded-full border-2 border-gray-300"></div>
             </div>
             <p className="text-gray-600">White</p>
@@ -108,39 +108,39 @@ export default function BeginnerEleven() {
         
         <p className="text-gray-700 mb-6">Essential clothing vocabulary for everyday conversations.</p>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-6">
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <p className="font-bold text-lg text-gray-900">Qamīṣ</p>
+            <p className="font-bold text-lg text-gray-900">Qamis</p>
             <p className="text-gray-600">Shirt</p>
             <p className="text-sm text-gray-500 mt-1">قميص</p>
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <p className="font-bold text-lg text-gray-900">Banṭalōn</p>
+            <p className="font-bold text-lg text-gray-900">Bantalon</p>
             <p className="text-gray-600">Pants/Trousers</p>
             <p className="text-sm text-gray-500 mt-1">بنطلون</p>
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <p className="font-bold text-lg text-gray-900">Jallāba</p>
+            <p className="font-bold text-lg text-gray-900">Jallaba</p>
             <p className="text-gray-600">Traditional Moroccan robe</p>
             <p className="text-sm text-gray-500 mt-1">جلابة</p>
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <p className="font-bold text-lg text-gray-900">Ḥidhā'</p>
+            <p className="font-bold text-lg text-gray-900">Hidha</p>
             <p className="text-gray-600">Shoes</p>
             <p className="text-sm text-gray-500 mt-1">حذاء</p>
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <p className="font-bold text-lg text-gray-900">Kūfiyya</p>
+            <p className="font-bold text-lg text-gray-900">Kufiyya</p>
             <p className="text-gray-600">Hat/Cap</p>
             <p className="text-sm text-gray-500 mt-1">كوفية</p>
           </div>
           
           <div className="border border-purple-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
-            <p className="font-bold text-lg text-gray-900">Ṣandal</p>
+            <p className="font-bold text-lg text-gray-900">Sandal</p>
             <p className="text-gray-600">Sandals</p>
             <p className="text-sm text-gray-500 mt-1">صندل</p>
           </div>
@@ -156,25 +156,25 @@ export default function BeginnerEleven() {
         
         <div className="space-y-4">
           <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
-            <p className="font-semibold text-purple-800">Ash kāyn f-had l-maḥall?</p>
+            <p className="font-semibold text-purple-800 break-words">Ash kayn f-had l-mahal?</p>
             <p className="text-gray-700">What do you have in this store?</p>
             <p className="text-sm text-gray-500 mt-1">أش كاين في هاد المحل؟</p>
           </div>
           
           <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
-            <p className="font-semibold text-purple-800">Bghīt qamīṣ azraq</p>
+            <p className="font-semibold text-purple-800 break-words">Bghit qamis azraq</p>
             <p className="text-gray-700">I want a blue shirt</p>
             <p className="text-sm text-gray-500 mt-1">بغيت قميص أزرق</p>
           </div>
           
           <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
-            <p className="font-semibold text-purple-800">Bshḥāl hāda?</p>
+            <p className="font-semibold text-purple-800 break-words">Bshhal hada?</p>
             <p className="text-gray-700">How much is this?</p>
             <p className="text-sm text-gray-500 mt-1">بشحال هادا؟</p>
           </div>
           
           <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
-            <p className="font-semibold text-purple-800">Kāyn ḥajm akbar?</p>
+            <p className="font-semibold text-purple-800 break-words">Kayn hajm akbar?</p>
             <p className="text-gray-700">Do you have a bigger size?</p>
             <p className="text-sm text-gray-500 mt-1">كاين حجم أكبر؟</p>
           </div>
@@ -195,7 +195,7 @@ export default function BeginnerEleven() {
           <div className="space-y-3">
             <div className="bg-white p-3 rounded border">
               <p className="font-medium">Example:</p>
-              <p className="text-purple-700">"Ana lābes qamīṣ abyaḍ u banṭalōn azraq"</p>
+              <p className="text-purple-700 break-words">"Ana labes qamis abyad u bantalon azraq"</p>
               <p className="text-gray-600">"I'm wearing a white shirt and blue pants"</p>
             </div>
             

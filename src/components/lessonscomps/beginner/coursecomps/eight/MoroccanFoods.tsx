@@ -15,13 +15,13 @@ export default function MoroccanFoods() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-6">
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Tajīn</p>
+            <p className="font-bold text-lg text-gray-900">Tajin</p>
             <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded-full">Main Dish</span>
           </div>
           <p className="text-gray-600">Tagine (traditional stew)</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: ta-jeen</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Bghit tajīn djāj" (I want chicken tagine)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Bghit tajin djaj" (I want chicken tagjine)</p>
           </div>
         </div>
 
@@ -33,13 +33,13 @@ export default function MoroccanFoods() {
           <p className="text-gray-600">Couscous</p>
           <p className="text-sm italic mt-2 text-gray-500">Pronounced: kus-kus</p>
           <div className="mt-3 pt-3 border-t border-gray-100">
-            <p className="text-sm text-gray-600"><strong>Example:</strong> "Kuskus b-khuḍra" (Couscous with vegetables)</p>
+            <p className="text-sm text-gray-600"><strong>Example:</strong> "Kuskus b-khudra" (Couscous with vegetables)</p>
           </div>
         </div>
 
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Pastīla</p>
+            <p className="font-bold text-lg text-gray-900">Pastila</p>
             <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded-full">Pastry</span>
           </div>
           <p className="text-gray-600">Pastilla (sweet and savory pie)</p>
@@ -51,7 +51,7 @@ export default function MoroccanFoods() {
 
         <div className="border border-orange-200 rounded-lg p-5 bg-white hover:shadow-md transition-shadow">
           <div className="flex justify-between">
-            <p className="font-bold text-lg text-gray-900">Ḥarīra</p>
+            <p className="font-bold text-lg text-gray-900">Harira</p>
             <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded-full">Soup</span>
           </div>
           <p className="text-gray-600">Harira (traditional soup)</p>

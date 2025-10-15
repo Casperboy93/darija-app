@@ -18,9 +18,9 @@ export default function PracticeExercise() {
           <p className="font-medium text-green-800 mb-2">Key phrases to practice:</p>
           <ul className="list-disc ml-5 space-y-1 text-gray-700">
             <li>Fin kayn Jamaa el-Fna? (Where is Jamaa el-Fna?)</li>
-            <li>Qrīb mn hna? (Is it close to here?)</li>
-            <li>Kīfāsh nmshī l-tmma? (How do I go there?)</li>
-            <li>Bghit taksī (I want a taxi)</li>
+        <li>Qrib mn hna? (Is it close to here?)</li>
+        <li>Kifash nmshi l-tmma? (How do I go there?)</li>
+        <li>Bghit taksi (I want a taxi)</li>
             <li>Wqf hna, afak (Stop here, please)</li>
           </ul>
         </div>

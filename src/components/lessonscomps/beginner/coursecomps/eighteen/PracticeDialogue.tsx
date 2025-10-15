@@ -15,7 +15,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">P</div>
             <div>
-              <p className="font-medium text-gray-800">Salām, bghīt nmshī l-maṭār.</p>
+        <p className="font-medium text-gray-800">Salam, bghit nmshi l-matar.</p>
               <p className="text-gray-600 text-sm">Hello, I want to go to the airport.</p>
             </div>
           </div>
@@ -23,7 +23,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">T</div>
             <div>
-              <p className="font-medium text-gray-800">Wākhā, rkab. Bshḥāl l-maṭār?</p>
+        <p className="font-medium text-gray-800">Wakha, rkab. Bshhal l-matar?</p>
               <p className="text-gray-600 text-sm">Okay, get in. How much to the airport?</p>
             </div>
           </div>
@@ -31,7 +31,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">P</div>
             <div>
-              <p className="font-medium text-gray-800">Bshḥāl kayākul l-maṭār?</p>
+        <p className="font-medium text-gray-800">Bshhal kayakul l-matar?</p>
               <p className="text-gray-600 text-sm">How much does it cost to the airport?</p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">T</div>
             <div>
-              <p className="font-medium text-gray-800">200 dirham. Wāsh nta msāfir?</p>
+        <p className="font-medium text-gray-800">200 dirham. Wash nta msafir?</p>
               <p className="text-gray-600 text-sm">200 dirhams. Are you traveling?</p>
             </div>
           </div>
@@ -47,7 +47,7 @@ export default function PracticeDialogue() {
           <div className="flex items-start space-x-3">
             <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold">P</div>
             <div>
-              <p className="font-medium text-gray-800">Īh, ghādī l-Pārīs. Shukran.</p>
+        <p className="font-medium text-gray-800">Ih, ghadi l-Paris. Shukran.</p>
               <p className="text-gray-600 text-sm">Yes, I'm going to Paris. Thank you.</p>
             </div>
           </div>
