@@ -15,7 +15,7 @@ export default function GreenTechnology() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Clean Technologies</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Sayyārāt kahraba̧ʾiyya</p>
+              <p className="font-semibold text-teal-700">Sayyarat kahrabaʾiyya</p>
               <p className="text-gray-600 text-sm">Electric vehicles</p>
             </div>
             <div>
@@ -23,11 +23,11 @@ export default function GreenTechnology() {
               <p className="text-gray-600 text-sm">Smart grid</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Mabānī dhakiyya</p>
+              <p className="font-semibold text-teal-700">Mabani dhakiyya</p>
               <p className="text-gray-600 text-sm">Smart buildings</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Takhnūlūjiyā naẓīfa</p>
+              <p className="font-semibold text-teal-700">Takhnulujiya nazifa</p>
               <p className="text-gray-600 text-sm">Clean technology</p>
             </div>
           </div>
@@ -37,19 +37,19 @@ export default function GreenTechnology() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Environmental Monitoring</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Murāqaba bīʾiyya</p>
+              <p className="font-semibold text-teal-700">Muraqaba biʾiyya</p>
               <p className="text-gray-600 text-sm">Environmental monitoring</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Aqmār ṣināʿiyya</p>
+              <p className="font-semibold text-teal-700">Aqmar sinaʿiyya</p>
               <p className="text-gray-600 text-sm">Satellites</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Ḥassāsāt bīʾiyya</p>
+              <p className="font-semibold text-teal-700">Hassasat biʾiyya</p>
               <p className="text-gray-600 text-sm">Environmental sensors</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Bayānāt munākhiyya</p>
+              <p className="font-semibold text-teal-700">Bayanat munakhiyya</p>
               <p className="text-gray-600 text-sm">Climate data</p>
             </div>
           </div>

@@ -17,11 +17,11 @@ export default function TechnicalTerminology() {
             <h4 className="font-semibold text-orange-700 mb-2">Computing and IT</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Ḥāsūb</p>
+                <p className="text-sm font-medium">Hasub</p>
                 <p className="text-xs text-gray-600">Computer</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Barnāmaj</p>
+                <p className="text-sm font-medium">Barnamaj</p>
                 <p className="text-xs text-gray-600">Software</p>
               </div>
               <div>
@@ -29,7 +29,7 @@ export default function TechnicalTerminology() {
                 <p className="text-xs text-gray-600">Network</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Qāʿidat bayānāt</p>
+                <p className="text-sm font-medium">Qaʿidat bayanat</p>
                 <p className="text-xs text-gray-600">Database</p>
               </div>
             </div>
@@ -43,15 +43,15 @@ export default function TechnicalTerminology() {
                 <p className="text-xs text-gray-600">Engineering</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taṣmīm</p>
+                <p className="text-sm font-medium">Tasmim</p>
                 <p className="text-xs text-gray-600">Design</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Inshāʾ</p>
+                <p className="text-sm font-medium">Inshaʾ</p>
                 <p className="text-xs text-gray-600">Construction</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Takhnūlūjiyā</p>
+                <p className="text-sm font-medium">Takhnulujiya</p>
                 <p className="text-xs text-gray-600">Technology</p>
               </div>
             </div>
@@ -61,19 +61,19 @@ export default function TechnicalTerminology() {
             <h4 className="font-semibold text-orange-700 mb-2">Medical Sciences</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Tashkhīṣ</p>
+                <p className="text-sm font-medium">Tashkhis</p>
                 <p className="text-xs text-gray-600">Diagnosis</p>
               </div>
               <div>
-                <p className="text-sm font-medium">ʿIlāj</p>
+                <p className="text-sm font-medium">ʿIlaj</p>
                 <p className="text-xs text-gray-600">Treatment</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Jarāḥa</p>
+                <p className="text-sm font-medium">Jaraha</p>
                 <p className="text-xs text-gray-600">Surgery</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Dawāʾ</p>
+                <p className="text-sm font-medium">Dawaʾ</p>
                 <p className="text-xs text-gray-600">Medicine</p>
               </div>
             </div>

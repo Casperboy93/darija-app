@@ -14,25 +14,25 @@ export default function DiplomaticDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-semibold text-blue-600">Ambassador:</p>
-            <p className="text-gray-700">Ahlan wa sahlan bikum fī sifāratinā. Tasharrafnā bi ziyāratikum al-karīma.</p>
+            <p className="text-gray-700">Ahlan wa sahlan bikum fi sifaratina. Tasharrafna bi ziyaratikum al-karima.</p>
             <p className="text-sm text-gray-500 mt-1">Welcome to our embassy. We are honored by your kind visit.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-semibold text-green-600">Minister:</p>
-            <p className="text-gray-700">Shukran lakum. Jiʾnā li-munāqashat masāʾil muhimma tataʿallaq bil-taʿāwun bayn buldaynā.</p>
+            <p className="text-gray-700">Shukran lakum. Jiʾna li-munaqashat masaʾil muhimma tataʿallaq bil-taʿawun bayn buldayna.</p>
             <p className="text-sm text-gray-500 mt-1">Thank you. We came to discuss important matters regarding cooperation between our countries.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-semibold text-blue-600">Ambassador:</p>
-            <p className="text-gray-700">Bi kull ta'kīd. Naḥnu mustāʿiddūn lil-ḥiwār al-bunāʾ wa najid ḥulūl takhdum al-jamīʿ.</p>
+            <p className="text-gray-700">Bi kull ta'kid. Nahnu mustaʿiddun lil-hiwar al-bunaʾ wa najid hulul takhdum al-jamiʿ.</p>
             <p className="text-sm text-gray-500 mt-1">Certainly. We are ready for constructive dialogue and to find solutions that serve everyone.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-semibold text-green-600">Minister:</p>
-            <p className="text-gray-700">Hādhā mā naṣbū ilayh. Al-sharāka bayn buldaynā lahā tārīkh ṭawīl wa mustaqbal wāʿid.</p>
+            <p className="text-gray-700">Hadha ma nasbu ilayh. Al-sharaka bayn buldayna laha tarikh tawil wa mustaqbal waʿid.</p>
             <p className="text-sm text-gray-500 mt-1">This is what we aspire to. The partnership between our countries has a long history and a promising future.</p>
           </div>
         </div>

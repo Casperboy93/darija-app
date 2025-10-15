@@ -17,19 +17,19 @@ export default function MedicalTechnology() {
             <h4 className="font-semibold text-teal-700 mb-2">Diagnostic Technologies</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Taṣwīr ṭibbī</p>
+                <p className="text-sm font-medium">Taswir tibbi</p>
                 <p className="text-xs text-gray-600">Medical imaging</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Raṇīn maghnaṭīsī</p>
+                <p className="text-sm font-medium">Ranin maghnatisi</p>
                 <p className="text-xs text-gray-600">MRI</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taṣwīr ṭabaqī</p>
+                <p className="text-sm font-medium">Taswir tabaqi</p>
                 <p className="text-xs text-gray-600">CT scan</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Fawq ṣawtī</p>
+                <p className="text-sm font-medium">Fawq sawti</p>
                 <p className="text-xs text-gray-600">Ultrasound</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function MedicalTechnology() {
             <h4 className="font-semibold text-teal-700 mb-2">Treatment Technologies</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Jirāḥa rūbūtiyya</p>
+                <p className="text-sm font-medium">Jiraha rubutiyya</p>
                 <p className="text-xs text-gray-600">Robotic surgery</p>
               </div>
               <div>
-                <p className="text-sm font-medium">ʿIlāj ishʿāʿī</p>
+                <p className="text-sm font-medium">ʿIlaj ishʿaʿi</p>
                 <p className="text-xs text-gray-600">Radiation therapy</p>
               </div>
               <div>
-                <p className="text-sm font-medium">ʿIlāj jīnī</p>
+                <p className="text-sm font-medium">ʿIlaj jini</p>
                 <p className="text-xs text-gray-600">Gene therapy</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Zirāʿa aʿḍāʾ</p>
+                <p className="text-sm font-medium">Ziraʿa aʿdaʾ</p>
                 <p className="text-xs text-gray-600">Organ transplant</p>
               </div>
             </div>
@@ -61,19 +61,19 @@ export default function MedicalTechnology() {
             <h4 className="font-semibold text-teal-700 mb-2">Digital Health</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Ṭibb raqamī</p>
+                <p className="text-sm font-medium">Tibb raqami</p>
                 <p className="text-xs text-gray-600">Digital medicine</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ṭibb ʿan buʿd</p>
+                <p className="text-sm font-medium">Tibb ʿan buʿd</p>
                 <p className="text-xs text-gray-600">Telemedicine</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Dhakāʾ iṣṭināʿī</p>
+                <p className="text-sm font-medium">Dhakaʾ istinaʿi</p>
                 <p className="text-xs text-gray-600">Artificial intelligence</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Sijillāt iliktrūniyya</p>
+                <p className="text-sm font-medium">Sijillat iliktruniyya</p>
                 <p className="text-xs text-gray-600">Electronic records</p>
               </div>
             </div>

@@ -15,19 +15,19 @@ export default function Cybersecurity() {
           <h3 className="font-bold text-lg text-red-800 mb-3">Security Threats</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-red-700">Amn sībrānī</p>
+              <p className="font-semibold text-red-700">Amn sibrani</p>
               <p className="text-gray-600 text-sm">Cybersecurity</p>
             </div>
             <div>
-              <p className="font-semibold text-red-700">Hujūm sībrānī</p>
+              <p className="font-semibold text-red-700">Hujum sibrani</p>
               <p className="text-gray-600 text-sm">Cyber attack</p>
             </div>
             <div>
-              <p className="font-semibold text-red-700">Fīrūs ḥāsūbī</p>
+              <p className="font-semibold text-red-700">Firus hasubi</p>
               <p className="text-gray-600 text-sm">Computer virus</p>
             </div>
             <div>
-              <p className="font-semibold text-red-700">Takhrīb bayānāt</p>
+              <p className="font-semibold text-red-700">Takhrib bayanat</p>
               <p className="text-gray-600 text-sm">Data breach</p>
             </div>
           </div>
@@ -37,19 +37,19 @@ export default function Cybersecurity() {
           <h3 className="font-bold text-lg text-red-800 mb-3">Protection Methods</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-red-700">Ḥimāya bayānāt</p>
+              <p className="font-semibold text-red-700">Himaya bayanat</p>
               <p className="text-gray-600 text-sm">Data protection</p>
             </div>
             <div>
-              <p className="font-semibold text-red-700">Tashfīr</p>
+              <p className="font-semibold text-red-700">Tashfir</p>
               <p className="text-gray-600 text-sm">Encryption</p>
             </div>
             <div>
-              <p className="font-semibold text-red-700">Jidār nārī</p>
+              <p className="font-semibold text-red-700">Jidar nari</p>
               <p className="text-gray-600 text-sm">Firewall</p>
             </div>
             <div>
-              <p className="font-semibold text-red-700">Khuṣūṣiyya raqamiyya</p>
+              <p className="font-semibold text-red-700">Khususiyya raqamiyya</p>
               <p className="text-gray-600 text-sm">Digital privacy</p>
             </div>
           </div>

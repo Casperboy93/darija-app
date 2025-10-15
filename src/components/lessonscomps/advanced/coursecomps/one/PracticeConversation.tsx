@@ -74,8 +74,8 @@ export default function PracticeConversation() {
             </div>
             <div>
               <p className="font-bold">Fatima:</p>
-              <p className="text-gray-700">Wakhkha, mashi mushkil. Ghadi nmshiw l-café l-qdim?</p>
-              <p className="text-gray-500 italic text-sm">(Alright, no problem. Will we go to the old café?)</p>
+              <p className="text-gray-700">Wakhkha, mashi mushkil. Ghadi nmshiw l-cafe l-qdim?</p>
+              <p className="text-gray-500 italic text-sm">(Alright, no problem. Will we go to the old cafe?)</p>
             </div>
           </div>
           

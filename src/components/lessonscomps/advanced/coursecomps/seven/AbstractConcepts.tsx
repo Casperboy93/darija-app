@@ -17,7 +17,7 @@ export default function AbstractConcepts() {
           <h3 className="font-bold text-lg text-gray-900 mb-3">Philosophy & Ethics</h3>
           <div className="space-y-2 text-sm">
             <p><span className="font-medium">العدالة</span> - Al-3adala (Justice)</p>
-            <p><span className="font-medium">الأخلاق</span> - Al-akhlaq (Ethics)</p>
+            <p><span className="font-medium">الأخلاق</span> - Al-akhlaq (Ethics)</p>
             <p><span className="font-medium">الوجود</span> - Al-wujud (Existence)</p>
             <p><span className="font-medium">المعنى</span> - Al-ma3na (Meaning)</p>
             <p><span className="font-medium">الحقيقة</span> - Al-haqiqa (Truth)</p>

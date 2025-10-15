@@ -19,11 +19,11 @@ export default function ArtificialIntelligence() {
               <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Fundamentals</span>
             </div>
             <div className="mt-3 space-y-2">
-              <p className="text-sm"><span className="font-semibold">Dhakāʾ iṣṭināʿī:</span> Artificial intelligence</p>
-              <p className="text-sm"><span className="font-semibold">Taʿallum ālī:</span> Machine learning</p>
-              <p className="text-sm"><span className="font-semibold">Taʿallum ʿamīq:</span> Deep learning</p>
-              <p className="text-sm"><span className="font-semibold">Shabakāt ʿaṣabiyya:</span> Neural networks</p>
-              <p className="text-sm"><span className="font-semibold">Khuwarizmiyyāt:</span> Algorithms</p>
+              <p className="text-sm"><span className="font-semibold">Dhakaʾ istinaʿi:</span> Artificial intelligence</p>
+              <p className="text-sm"><span className="font-semibold">Taʿallum ali:</span> Machine learning</p>
+              <p className="text-sm"><span className="font-semibold">Taʿallum ʿamiq:</span> Deep learning</p>
+              <p className="text-sm"><span className="font-semibold">Shabakat ʿasabiyya:</span> Neural networks</p>
+              <p className="text-sm"><span className="font-semibold">Khuwarizmiyyat:</span> Algorithms</p>
             </div>
           </div>
           
@@ -33,11 +33,11 @@ export default function ArtificialIntelligence() {
               <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">Applications</span>
             </div>
             <div className="mt-3 space-y-2">
-              <p className="text-sm"><span className="font-semibold">Ruʾya ḥāsūbiyya:</span> Computer vision</p>
-              <p className="text-sm"><span className="font-semibold">Maʿālajat lughawiyya:</span> Natural language processing</p>
+              <p className="text-sm"><span className="font-semibold">Ruʾya hasubiyya:</span> Computer vision</p>
+              <p className="text-sm"><span className="font-semibold">Maʿalajat lughawiyya:</span> Natural language processing</p>
               <p className="text-sm"><span className="font-semibold">Tanabbuʾ:</span> Prediction</p>
-              <p className="text-sm"><span className="font-semibold">Taṣnīf:</span> Classification</p>
-              <p className="text-sm"><span className="font-semibold">Tanqīb bayānāt:</span> Data mining</p>
+              <p className="text-sm"><span className="font-semibold">Tasnif:</span> Classification</p>
+              <p className="text-sm"><span className="font-semibold">Tanqib bayanat:</span> Data mining</p>
             </div>
           </div>
         </div>

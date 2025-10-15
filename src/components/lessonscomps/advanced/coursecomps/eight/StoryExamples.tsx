@@ -21,9 +21,9 @@ export default function StoryExamples() {
               
               <p className="text-gray-700">دخل يوسف للكهف، ولقى فيه واحد الصندوق القديم مليان بالذهب والجواهر. ولكن كان عندو حارس - واحد الجني كبير وقوي.</p>
               
-              <p className="text-gray-700">قال ليه الجني: "واش جيتي تسرق الكنز ديالي؟" جاوب يوسف بشجاعة: "أنا ما جيت نسرق، جيت نبحث على شي حاجة باش نساعد عائلتي الفقيرة."</p>
+              <p className="text-gray-700">قال ليه الجني: "واش جيتي تسرق الكنز ديالي؟" جاوب يوسف بشجاعة: "أنا ما جيت نسرق، جيت نبحث على شي حاجة باش نساعد عائلتي الفقيرة."</p>
               
-              <p className="text-gray-700">تأثر الجني بصدق يوسف وعطاه واحد الكيس صغير من الذهب. من ديك الساعة، ولا يوسف وعائلتو عايشين في سعادة وراحة.</p>
+              <p className="text-gray-700">تأثر الجني بصدق يوسف وعطاه واحد الكيس صغير من الذهب. من ديك الساعة، ولا يوسف وعائلتو عايشين في سعادة وراحة.</p>
             </div>
             
             <div className="mt-4 text-sm text-gray-600 italic border-t pt-3">
@@ -43,12 +43,12 @@ export default function StoryExamples() {
               
               <p className="text-gray-700">واحد النهار، جا واحد الرجل غني للمقهى وشاف كيفاش فاطمة كتعامل الناس بلطف ومحبة. عجبو الطريقة ديالها وقرر يساعدها.</p>
               
-              <p className="text-gray-700">عرض عليها خدمة في شركتو الكبيرة. فاطمة ترددت في البداية، ولكن قبلت في الأخير. اليوم، ولات مديرة قسم وولدها كيقرا في أحسن مدرسة.</p>
+              <p className="text-gray-700">عرض عليها خدمة في شركتو الكبيرة. فاطمة ترددت في البداية، ولكن قبلت في الأخير. اليوم، ولات مديرة قسم وولدها كيقرا في أحسن مدرسة.</p>
             </div>
             
             <div className="mt-4 text-sm text-gray-600 italic border-t pt-3">
-              <p>In a popular neighborhood in Casablanca, Fatima lived with her young son. She worked in a small café to make a living.</p>
-              <p>One day, a wealthy man came to the café and saw how Fatima treated people with kindness and love. He liked her approach and decided to help her.</p>
+              <p>In a popular neighborhood in Casablanca, Fatima lived with her young son. She worked in a small cafe to make a living.</p>
+              <p>One day, a wealthy man came to the cafe and saw how Fatima treated people with kindness and love. He liked her approach and decided to help her.</p>
               <p>He offered her a job in his big company. Fatima hesitated at first, but finally accepted. Today, she became a department manager and her son studies in the best school.</p>
             </div>
           </div>

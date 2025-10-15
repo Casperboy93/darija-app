@@ -11,13 +11,13 @@ export default function TraditionalPoetryForms() {
       </h2>
       
       <div className="bg-orange-50 border border-orange-200 p-6 rounded-lg">
-        <h3 className="font-bold text-lg text-orange-800 mb-4">Malhūn - The People's Poetry</h3>
+        <h3 className="font-bold text-lg text-orange-800 mb-4">Malhun - The People's Poetry</h3>
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border border-orange-200">
             <h4 className="font-semibold text-orange-700 mb-2">Example Verse</h4>
             <div className="text-center p-4 bg-orange-50 rounded-md">
-              <p className="font-semibold text-lg text-orange-800 mb-2">Yā ṭāʾir ghannī li ḥabībī</p>
-              <p className="text-gray-600 mb-2">Qūl lū anna qalbī ḥazīn</p>
+              <p className="font-semibold text-lg text-orange-800 mb-2">Ya taʾir ghanni li habibi</p>
+              <p className="text-gray-600 mb-2">Qul lu anna qalbi hazin</p>
               <p className="text-sm text-gray-500">O bird, sing to my beloved / Tell them that my heart is sad</p>
             </div>
           </div>

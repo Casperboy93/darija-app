@@ -19,11 +19,11 @@ export default function GlobalLeadership() {
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Leadership</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Qiyāda ʿālamiyya:</span> Global leadership</p>
-            <p className="text-sm"><span className="font-semibold">Ruʾya istirātījiyya:</span> Strategic vision</p>
-            <p className="text-sm"><span className="font-semibold">Qiyāda taḥwīliyya:</span> Transformational leadership</p>
-            <p className="text-sm"><span className="font-semibold">Dhakāʾ ʿāṭifī:</span> Emotional intelligence</p>
-            <p className="text-sm"><span className="font-semibold">Qiyāda thaqāfiyya:</span> Cultural leadership</p>
+            <p className="text-sm"><span className="font-semibold">Qiyada ʿalamiyya:</span> Global leadership</p>
+            <p className="text-sm"><span className="font-semibold">Ruʾya istiratijiyya:</span> Strategic vision</p>
+            <p className="text-sm"><span className="font-semibold">Qiyada tahwiliyya:</span> Transformational leadership</p>
+            <p className="text-sm"><span className="font-semibold">Dhakaʾ ʿatifi:</span> Emotional intelligence</p>
+            <p className="text-sm"><span className="font-semibold">Qiyada thaqafiyya:</span> Cultural leadership</p>
           </div>
         </div>
         
@@ -33,11 +33,11 @@ export default function GlobalLeadership() {
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Management</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Idāra mutaʿaddidat thaqāfāt:</span> Multicultural management</p>
-            <p className="text-sm"><span className="font-semibold">Takhtīṭ istirātījī:</span> Strategic planning</p>
-            <p className="text-sm"><span className="font-semibold">Idārat taghyīr:</span> Change management</p>
-            <p className="text-sm"><span className="font-semibold">Qiyādat farīq:</span> Team leadership</p>
-            <p className="text-sm"><span className="font-semibold">Ittikhadh qarārāt:</span> Decision making</p>
+            <p className="text-sm"><span className="font-semibold">Idara mutaʿaddidat thaqafat:</span> Multicultural management</p>
+            <p className="text-sm"><span className="font-semibold">Takhtit istiratiji:</span> Strategic planning</p>
+            <p className="text-sm"><span className="font-semibold">Idarat taghyir:</span> Change management</p>
+            <p className="text-sm"><span className="font-semibold">Qiyadat fariq:</span> Team leadership</p>
+            <p className="text-sm"><span className="font-semibold">Ittikhadh qararat:</span> Decision making</p>
           </div>
         </div>
       </div>

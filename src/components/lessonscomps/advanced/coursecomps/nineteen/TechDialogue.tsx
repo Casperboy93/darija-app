@@ -14,25 +14,25 @@ export default function TechDialogue() {
         <div className="space-y-4">
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-semibold text-blue-600">Dr. Layla:</p>
-            <p className="text-gray-700">Al-dhakāʾ al-iṣṭināʿī sayughayyir jamīʿ al-ṣināʿāt fī al-ʿuqūd al-qādima.</p>
+            <p className="text-gray-700">Al-dhakaʾ al-istinaʿi sayughayyir jamiʿ al-sinaʿat fi al-ʿuqud al-qadima.</p>
             <p className="text-sm text-gray-500 mt-1">Artificial intelligence will transform all industries in the coming decades.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-semibold text-green-600">Dr. Omar:</p>
-            <p className="text-gray-700">Naʿam, wa lākin yajibu an naḍaʿ qawānīn li-ḍamān al-amn wa al-khuṣūṣiyya.</p>
+            <p className="text-gray-700">Naʿam, wa lakin yajibu an nadaʿ qawanin li-daman al-amn wa al-khususiyya.</p>
             <p className="text-sm text-gray-500 mt-1">Yes, but we must establish laws to ensure security and privacy.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-blue-400">
             <p className="font-semibold text-blue-600">Dr. Layla:</p>
-            <p className="text-gray-700">Al-ḥāsūb al-kwāntī sayaḥull mushkilāt maʿqada lam nakun nataṣawwar ḥallahā.</p>
+            <p className="text-gray-700">Al-hasub al-kwanti sayahull mushkilat maʿqada lam nakun natasawwar hallaha.</p>
             <p className="text-sm text-gray-500 mt-1">Quantum computing will solve complex problems we couldn't imagine solving.</p>
           </div>
           
           <div className="bg-white p-4 rounded-lg border-l-4 border-green-400">
             <p className="font-semibold text-green-600">Dr. Omar:</p>
-            <p className="text-gray-700">Hādhā yataṭallab istithmārāt kabīra fī at-taʿlīm wa at-tadrīb at-tiqnī.</p>
+            <p className="text-gray-700">Hadha yatatallab istithmarat kabira fi at-taʿlim wa at-tadrib at-tiqni.</p>
             <p className="text-sm text-gray-500 mt-1">This requires major investments in education and technical training.</p>
           </div>
         </div>

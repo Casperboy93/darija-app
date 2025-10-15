@@ -66,7 +66,7 @@ export default function BusinessVocabulary() {
             </div>
             <div className="flex justify-between">
               <span className="text-gray-600">Deadline</span>
-              <span className="font-medium">موعد نهائي - Maw3id niha2i</span>
+              <span className="font-medium">موعد نهائي - Maw3id niha2i</span>
             </div>
           </div>
         </div>

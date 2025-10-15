@@ -17,19 +17,19 @@ export default function PhilosophicalArguments() {
             <h4 className="font-semibold text-blue-700 mb-2">Argument Structure</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Muqaddimāt</p>
+                <p className="text-sm font-medium">Muqaddimat</p>
                 <p className="text-xs text-gray-600">Premises</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Natīja</p>
+                <p className="text-sm font-medium">Natija</p>
                 <p className="text-xs text-gray-600">Conclusion</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Burhān</p>
+                <p className="text-sm font-medium">Burhan</p>
                 <p className="text-xs text-gray-600">Proof</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Dalīl</p>
+                <p className="text-sm font-medium">Dalil</p>
                 <p className="text-xs text-gray-600">Evidence</p>
               </div>
             </div>
@@ -39,15 +39,15 @@ export default function PhilosophicalArguments() {
             <h4 className="font-semibold text-blue-700 mb-2">Types of Arguments</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Istidlāl istiqrāʾī</p>
+                <p className="text-sm font-medium">Istidlal istiqraʾi</p>
                 <p className="text-xs text-gray-600">Inductive reasoning</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Istidlāl istinbāṭī</p>
+                <p className="text-sm font-medium">Istidlal istinbati</p>
                 <p className="text-xs text-gray-600">Deductive reasoning</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Qiyās</p>
+                <p className="text-sm font-medium">Qiyas</p>
                 <p className="text-xs text-gray-600">Analogy</p>
               </div>
               <div>

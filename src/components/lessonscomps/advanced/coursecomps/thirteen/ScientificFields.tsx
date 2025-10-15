@@ -19,11 +19,11 @@ export default function ScientificFields() {
             <span className="bg-teal-100 text-teal-800 text-xs px-2 py-1 rounded-full">Sciences</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Fīziyāʾ:</span> Physics</p>
-            <p className="text-sm"><span className="font-semibold">Kīmiyāʾ:</span> Chemistry</p>
-            <p className="text-sm"><span className="font-semibold">Riyāḍiyyāt:</span> Mathematics</p>
+            <p className="text-sm"><span className="font-semibold">Fiziyaʾ:</span> Physics</p>
+            <p className="text-sm"><span className="font-semibold">Kimiyaʾ:</span> Chemistry</p>
+            <p className="text-sm"><span className="font-semibold">Riyadiyyat:</span> Mathematics</p>
             <p className="text-sm"><span className="font-semibold">Falak:</span> Astronomy</p>
-            <p className="text-sm"><span className="font-semibold">Jiyūlūjiyā:</span> Geology</p>
+            <p className="text-sm"><span className="font-semibold">Jiyulujiya:</span> Geology</p>
           </div>
         </div>
         
@@ -33,10 +33,10 @@ export default function ScientificFields() {
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Biology</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Aḥyāʾ:</span> Biology</p>
-            <p className="text-sm"><span className="font-semibold">Ṭibb:</span> Medicine</p>
-            <p className="text-sm"><span className="font-semibold">Wirātha:</span> Genetics</p>
-            <p className="text-sm"><span className="font-semibold">Bīʾa:</span> Ecology</p>
+            <p className="text-sm"><span className="font-semibold">Ahyaʾ:</span> Biology</p>
+            <p className="text-sm"><span className="font-semibold">Tibb:</span> Medicine</p>
+            <p className="text-sm"><span className="font-semibold">Wiratha:</span> Genetics</p>
+            <p className="text-sm"><span className="font-semibold">Biʾa:</span> Ecology</p>
             <p className="text-sm"><span className="font-semibold">Nafs:</span> Psychology</p>
           </div>
         </div>

@@ -16,24 +16,24 @@ export default function GlobalIssues() {
           <div className="bg-white p-4 rounded-lg border border-red-200">
             <h4 className="font-semibold text-red-700 mb-2">Security Issues</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Irhāb:</span> Terrorism</p>
-              <p><span className="font-semibold">Asliḥa damār shāmil:</span> WMD</p>
-              <p><span className="font-semibold">Ṣirāʿāt:</span> Conflicts</p>
-              <p><span className="font-semibold">Lājīʾūn:</span> Refugees</p>
-              <p><span className="font-semibold">Amn qawmī:</span> National security</p>
-              <p><span className="font-semibold">Ḥifẓ salām:</span> Peacekeeping</p>
+              <p><span className="font-semibold">Irhab:</span> Terrorism</p>
+              <p><span className="font-semibold">Asliha damar shamil:</span> WMD</p>
+              <p><span className="font-semibold">Siraʿat:</span> Conflicts</p>
+              <p><span className="font-semibold">Lajiʾun:</span> Refugees</p>
+              <p><span className="font-semibold">Amn qawmi:</span> National security</p>
+              <p><span className="font-semibold">Hifz salam:</span> Peacekeeping</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-red-200">
             <h4 className="font-semibold text-red-700 mb-2">Economic & Environmental</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Taghyīr munākhī:</span> Climate change</p>
+              <p><span className="font-semibold">Taghyir munakhi:</span> Climate change</p>
               <p><span className="font-semibold">Faqr:</span> Poverty</p>
-              <p><span className="font-semibold">Tanmiya mustadāma:</span> Sustainable development</p>
-              <p><span className="font-semibold">Tijāra ʿālamiyya:</span> Global trade</p>
-              <p><span className="font-semibold">Azma māliyya:</span> Financial crisis</p>
-              <p><span className="font-semibold">Ḥuqūq insān:</span> Human rights</p>
+              <p><span className="font-semibold">Tanmiya mustadama:</span> Sustainable development</p>
+              <p><span className="font-semibold">Tijara ʿalamiyya:</span> Global trade</p>
+              <p><span className="font-semibold">Azma maliyya:</span> Financial crisis</p>
+              <p><span className="font-semibold">Huquq insan:</span> Human rights</p>
             </div>
           </div>
         </div>

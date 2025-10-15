@@ -17,15 +17,15 @@ export default function MetaphorsAndImagery() {
           <h3 className="font-bold text-lg text-blue-800 mb-3">Nature Metaphors</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-blue-700">Qalbī baḥr</p>
+              <p className="font-semibold text-blue-700">Qalbi bahr</p>
               <p className="text-gray-600 text-sm">My heart is an ocean (deep emotions)</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">ʿAynāyk najmatayn</p>
+              <p className="font-semibold text-blue-700">ʿAynayk najmatayn</p>
               <p className="text-gray-600 text-sm">Your eyes are two stars (beauty)</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Kalāmak ʿasal</p>
+              <p className="font-semibold text-blue-700">Kalamak ʿasal</p>
               <p className="text-gray-600 text-sm">Your words are honey (sweet speech)</p>
             </div>
           </div>
@@ -35,7 +35,7 @@ export default function MetaphorsAndImagery() {
           <h3 className="font-bold text-lg text-blue-800 mb-3">Abstract Concepts</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-blue-700">Aḥlām kāghaḍ</p>
+              <p className="font-semibold text-blue-700">Ahlam kaghad</p>
               <p className="text-gray-600 text-sm">Dreams are paper (fragile hopes)</p>
             </div>
             <div>
@@ -43,7 +43,7 @@ export default function MetaphorsAndImagery() {
               <p className="text-gray-600 text-sm">Time is a river (flowing, unstoppable)</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Ḥubb nār</p>
+              <p className="font-semibold text-blue-700">Hubb nar</p>
               <p className="text-gray-600 text-sm">Love is fire (passionate, consuming)</p>
             </div>
           </div>

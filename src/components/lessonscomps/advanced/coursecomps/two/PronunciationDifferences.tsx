@@ -38,7 +38,7 @@ export default function PronunciationDifferences() {
           <h3 className="font-bold text-lg text-gray-900 mb-3">Vowel Variations</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
-              <p className="font-medium text-purple-800">Word: "Where" (أين)</p>
+              <p className="font-medium text-purple-800">Word: "Where" (أين)</p>
               <ul className="mt-2 space-y-1">
                 <li><span className="font-medium">Northern:</span> fayn</li>
                 <li><span className="font-medium">Central:</span> feen</li>
@@ -47,7 +47,7 @@ export default function PronunciationDifferences() {
               </ul>
             </div>
             <div>
-              <p className="font-medium text-purple-800">Word: "Now" (الآن)</p>
+              <p className="font-medium text-purple-800">Word: "Now" (الآن)</p>
               <ul className="mt-2 space-y-1">
                 <li><span className="font-medium">Northern:</span> daba</li>
                 <li><span className="font-medium">Central:</span> daba</li>

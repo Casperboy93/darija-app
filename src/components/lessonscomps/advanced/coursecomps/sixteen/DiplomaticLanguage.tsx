@@ -17,19 +17,19 @@ export default function DiplomaticLanguage() {
             <h4 className="font-semibold text-orange-700 mb-2">Formal Openings</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Bi-ism ḥukūmatī</p>
+                <p className="text-sm font-medium">Bi-ism hukumati</p>
                 <p className="text-xs text-gray-600">On behalf of my government</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Yashrafunī an uʿbir</p>
+                <p className="text-sm font-medium">Yashrafuni an uʿbir</p>
                 <p className="text-xs text-gray-600">I have the honor to express</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Bi-kāmil al-iḥtirām</p>
+                <p className="text-sm font-medium">Bi-kamil al-ihtiram</p>
                 <p className="text-xs text-gray-600">With full respect</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Fī iṭār al-ʿalāqāt</p>
+                <p className="text-sm font-medium">Fi itar al-ʿalaqat</p>
                 <p className="text-xs text-gray-600">Within the framework of relations</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function DiplomaticLanguage() {
             <h4 className="font-semibold text-orange-700 mb-2">Diplomatic Positions</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Mawqif rasmī</p>
+                <p className="text-sm font-medium">Mawqif rasmi</p>
                 <p className="text-xs text-gray-600">Official position</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taʾkīd iltizām</p>
+                <p className="text-sm font-medium">Taʾkid iltizam</p>
                 <p className="text-xs text-gray-600">Reaffirm commitment</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Iʿrāb ʿan qalaq</p>
+                <p className="text-sm font-medium">Iʿrab ʿan qalaq</p>
                 <p className="text-xs text-gray-600">Express concern</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Daʿwa ilā ḥiwār</p>
+                <p className="text-sm font-medium">Daʿwa ila hiwar</p>
                 <p className="text-xs text-gray-600">Call for dialogue</p>
               </div>
             </div>

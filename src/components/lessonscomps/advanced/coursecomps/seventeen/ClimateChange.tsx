@@ -19,11 +19,11 @@ export default function ClimateChange() {
             <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Climate</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Taghyīr munākhī:</span> Climate change</p>
-            <p className="text-sm"><span className="font-semibold">Iḥtibās ḥarārī:</span> Global warming</p>
-            <p className="text-sm"><span className="font-semibold">Ghāzāt dafīʾa:</span> Greenhouse gases</p>
-            <p className="text-sm"><span className="font-semibold">Ṭabaqa ūzūn:</span> Ozone layer</p>
-            <p className="text-sm"><span className="font-semibold">Taṣaḥḥur:</span> Desertification</p>
+            <p className="text-sm"><span className="font-semibold">Taghyir munakhi:</span> Climate change</p>
+            <p className="text-sm"><span className="font-semibold">Ihtibas harari:</span> Global warming</p>
+            <p className="text-sm"><span className="font-semibold">Ghazat dafiʾa:</span> Greenhouse gases</p>
+            <p className="text-sm"><span className="font-semibold">Tabaqa uzun:</span> Ozone layer</p>
+            <p className="text-sm"><span className="font-semibold">Tasahhur:</span> Desertification</p>
           </div>
         </div>
         
@@ -33,11 +33,11 @@ export default function ClimateChange() {
             <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded-full">Effects</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Irtifāʿ mustawa al-biḥār:</span> Sea level rise</p>
-            <p className="text-sm"><span className="font-semibold">Dhawabān jalīd:</span> Ice melting</p>
-            <p className="text-sm"><span className="font-semibold">Ẓawāhir jawwiyya mutaṭarrifa:</span> Extreme weather</p>
-            <p className="text-sm"><span className="font-semibold">Jafāf:</span> Drought</p>
-            <p className="text-sm"><span className="font-semibold">Fayaḍānāt:</span> Floods</p>
+            <p className="text-sm"><span className="font-semibold">Irtifaʿ mustawa al-bihar:</span> Sea level rise</p>
+            <p className="text-sm"><span className="font-semibold">Dhawaban jalid:</span> Ice melting</p>
+            <p className="text-sm"><span className="font-semibold">Zawahir jawwiyya mutatarrifa:</span> Extreme weather</p>
+            <p className="text-sm"><span className="font-semibold">Jafaf:</span> Drought</p>
+            <p className="text-sm"><span className="font-semibold">Fayadanat:</span> Floods</p>
           </div>
         </div>
       </div>

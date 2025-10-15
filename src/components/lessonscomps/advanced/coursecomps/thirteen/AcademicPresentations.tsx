@@ -21,15 +21,15 @@ export default function AcademicPresentations() {
               <p className="text-gray-600 text-sm">Introduction</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">ʿArḍ al-mashaʾ</p>
+              <p className="font-semibold text-blue-700">ʿArd al-mashaʾ</p>
               <p className="text-gray-600 text-sm">Problem statement</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Manhajiyyat al-baḥth</p>
+              <p className="font-semibold text-blue-700">Manhajiyyat al-bahth</p>
               <p className="text-gray-600 text-sm">Research methodology</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Khulāṣa</p>
+              <p className="font-semibold text-blue-700">Khulasa</p>
               <p className="text-gray-600 text-sm">Conclusion</p>
             </div>
           </div>
@@ -43,15 +43,15 @@ export default function AcademicPresentations() {
               <p className="text-gray-600 text-sm">I will present to you</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Kama tarawn fī hādhihi al-ṣūra</p>
+              <p className="font-semibold text-blue-700">Kama tarawn fi hadhihi al-sura</p>
               <p className="text-gray-600 text-sm">As you see in this image</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Hādhā yuʾakkid anna</p>
+              <p className="font-semibold text-blue-700">Hadha yuʾakkid anna</p>
               <p className="text-gray-600 text-sm">This confirms that</p>
             </div>
             <div>
-              <p className="font-semibold text-blue-700">Fī al-khitām</p>
+              <p className="font-semibold text-blue-700">Fi al-khitam</p>
               <p className="text-gray-600 text-sm">In conclusion</p>
             </div>
           </div>

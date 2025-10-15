@@ -19,11 +19,11 @@ export default function PhilosophicalSchools() {
             <span className="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded-full">Traditional</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Falsafa islāmiyya:</span> Islamic philosophy</p>
-            <p className="text-sm"><span className="font-semibold">Kalām:</span> Theology</p>
-            <p className="text-sm"><span className="font-semibold">Taṣawwuf:</span> Sufism</p>
-            <p className="text-sm"><span className="font-semibold">Akhlāq:</span> Ethics/Morality</p>
-            <p className="text-sm"><span className="font-semibold">Ḥikma:</span> Wisdom</p>
+            <p className="text-sm"><span className="font-semibold">Falsafa islamiyya:</span> Islamic philosophy</p>
+            <p className="text-sm"><span className="font-semibold">Kalam:</span> Theology</p>
+            <p className="text-sm"><span className="font-semibold">Tasawwuf:</span> Sufism</p>
+            <p className="text-sm"><span className="font-semibold">Akhlaq:</span> Ethics/Morality</p>
+            <p className="text-sm"><span className="font-semibold">Hikma:</span> Wisdom</p>
           </div>
         </div>
         
@@ -34,10 +34,10 @@ export default function PhilosophicalSchools() {
           </div>
           <div className="mt-3 space-y-2">
             <p className="text-sm"><span className="font-semibold">Falsafa gharbiyya:</span> Western philosophy</p>
-            <p className="text-sm"><span className="font-semibold">Manṭiq:</span> Logic</p>
-            <p className="text-sm"><span className="font-semibold">Wujūdiyya:</span> Existentialism</p>
-            <p className="text-sm"><span className="font-semibold">Naẓariyyat maʿrifa:</span> Epistemology</p>
-            <p className="text-sm"><span className="font-semibold">Mītāfīzīqā:</span> Metaphysics</p>
+            <p className="text-sm"><span className="font-semibold">Mantiq:</span> Logic</p>
+            <p className="text-sm"><span className="font-semibold">Wujudiyya:</span> Existentialism</p>
+            <p className="text-sm"><span className="font-semibold">Nazariyyat maʿrifa:</span> Epistemology</p>
+            <p className="text-sm"><span className="font-semibold">Mitafiziqa:</span> Metaphysics</p>
           </div>
         </div>
       </div>

@@ -26,9 +26,9 @@ export default function FormalExpressions() {
           <h3 className="font-semibold text-gray-800 mb-2">Expressing Opinions Professionally</h3>
           <div className="space-y-2">
             <p><span className="font-medium">من وجهة نظري</span> - Min wijhat nazari (From my point of view)</p>
-            <p><span className="font-medium">أعتقد أن</span> - A3taqid anna (I believe that)</p>
+            <p><span className="font-medium">أعتقد أن</span> - A3taqid anna (I believe that)</p>
             <p><span className="font-medium">بصراحة</span> - Bi-saraha (Frankly speaking)</p>
-            <p><span className="font-medium">إذا سمحتو</span> - Idha samahtu (If you allow me)</p>
+            <p><span className="font-medium">إذا سمحتو</span> - Idha samahtu (If you allow me)</p>
           </div>
         </div>
         
@@ -37,7 +37,7 @@ export default function FormalExpressions() {
           <div className="space-y-2">
             <p><span className="font-medium">ممكن نقترح</span> - Mumkin naqtarih (May I suggest)</p>
             <p><span className="font-medium">واش ممكن</span> - Wash mumkin (Is it possible)</p>
-            <p><span className="font-medium">أقترح أن</span> - Aqtarih anna (I suggest that)</p>
+            <p><span className="font-medium">أقترح أن</span> - Aqtarih anna (I suggest that)</p>
             <p><span className="font-medium">لو سمحتو</span> - Law samahtu (Please/If you would)</p>
           </div>
         </div>

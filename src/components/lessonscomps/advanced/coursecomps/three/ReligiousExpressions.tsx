@@ -17,7 +17,7 @@ export default function ReligiousExpressions() {
           <h3 className="font-bold text-lg text-gray-900 mb-3">Common Religious Phrases</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
-              <p className="font-medium text-purple-800">Inshallah (إن شاء الله)</p>
+              <p className="font-medium text-purple-800">Inshallah (إن شاء الله)</p>
               <p className="text-gray-600">God willing - for future plans</p>
               <p className="text-sm italic text-gray-500">"Ghadi nji ghedda, inshallah."</p>
               <p className="text-sm text-gray-400">(I'll come tomorrow, God willing.)</p>

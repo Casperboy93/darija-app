@@ -15,19 +15,19 @@ export default function NewsWritingStyles() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Hard News</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Khabar ṣaḥafī</p>
+              <p className="font-semibold text-teal-700">Khabar sahafi</p>
               <p className="text-gray-600 text-sm">Straight news story</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Waqāʾiʿ</p>
+              <p className="font-semibold text-teal-700">Waqaʾiʿ</p>
               <p className="text-gray-600 text-sm">Facts</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Mukhtaṣar wa wāḍiḥ</p>
+              <p className="font-semibold text-teal-700">Mukhtasar wa wadih</p>
               <p className="text-gray-600 text-sm">Brief and clear</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Lā raʾy shakhṣī</p>
+              <p className="font-semibold text-teal-700">La raʾy shakhsi</p>
               <p className="text-gray-600 text-sm">No personal opinion</p>
             </div>
           </div>
@@ -37,19 +37,19 @@ export default function NewsWritingStyles() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Feature Stories</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Taqrīr mufaṣṣal</p>
+              <p className="font-semibold text-teal-700">Taqrir mufassal</p>
               <p className="text-gray-600 text-sm">In-depth report</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Qiṣaṣ insāniyya</p>
+              <p className="font-semibold text-teal-700">Qisas insaniyya</p>
               <p className="text-gray-600 text-sm">Human interest stories</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Taḥlīl</p>
+              <p className="font-semibold text-teal-700">Tahlil</p>
               <p className="text-gray-600 text-sm">Analysis</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Sard jādhib</p>
+              <p className="font-semibold text-teal-700">Sard jadhib</p>
               <p className="text-gray-600 text-sm">Engaging narrative</p>
             </div>
           </div>

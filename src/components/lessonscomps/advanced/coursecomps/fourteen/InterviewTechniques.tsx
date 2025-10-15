@@ -17,11 +17,11 @@ export default function InterviewTechniques() {
             <h4 className="font-semibold text-green-700 mb-2">Opening Questions</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Hal yumkinuka an tuḥaddithunā ʿan...</p>
+                <p className="text-sm font-medium">Hal yumkinuka an tuhaddithuna ʿan...</p>
                 <p className="text-xs text-gray-600">Can you tell us about...</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mā raʾyuka fī...</p>
+                <p className="text-sm font-medium">Ma raʾyuka fi...</p>
                 <p className="text-xs text-gray-600">What's your opinion on...</p>
               </div>
               <div>
@@ -29,7 +29,7 @@ export default function InterviewTechniques() {
                 <p className="text-xs text-gray-600">How do you explain...</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mā hiya khiṭṭatuka li...</p>
+                <p className="text-sm font-medium">Ma hiya khittatuka li...</p>
                 <p className="text-xs text-gray-600">What's your plan for...</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function InterviewTechniques() {
             <h4 className="font-semibold text-green-700 mb-2">Follow-up Questions</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Hal yumkinuka tawḍīḥ dhālik akthar?</p>
+                <p className="text-sm font-medium">Hal yumkinuka tawdih dhalik akthar?</p>
                 <p className="text-xs text-gray-600">Can you clarify that more?</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mā alladhī taqṣuduhu bi...</p>
+                <p className="text-sm font-medium">Ma alladhi taqsuduhu bi...</p>
                 <p className="text-xs text-gray-600">What do you mean by...</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Hal hunāka amthila ʿalā dhālik?</p>
+                <p className="text-sm font-medium">Hal hunaka amthila ʿala dhalik?</p>
                 <p className="text-xs text-gray-600">Are there examples of that?</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Kayf tataʿāmal maʿa...</p>
+                <p className="text-sm font-medium">Kayf tataʿamal maʿa...</p>
                 <p className="text-xs text-gray-600">How do you deal with...</p>
               </div>
             </div>

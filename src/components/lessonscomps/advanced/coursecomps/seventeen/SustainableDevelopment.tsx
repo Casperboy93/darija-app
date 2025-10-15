@@ -20,21 +20,21 @@ export default function SustainableDevelopment() {
                 <div className="bg-green-100 p-3 rounded-full w-16 h-16 mx-auto mb-2 flex items-center justify-center">
                   <span className="text-green-600 font-bold">🌱</span>
                 </div>
-                <p className="text-sm font-medium">Bīʾī</p>
+                <p className="text-sm font-medium">Biʾi</p>
                 <p className="text-xs text-gray-600">Environmental</p>
               </div>
               <div className="text-center">
                 <div className="bg-blue-100 p-3 rounded-full w-16 h-16 mx-auto mb-2 flex items-center justify-center">
                   <span className="text-blue-600 font-bold">💰</span>
                 </div>
-                <p className="text-sm font-medium">Iqtiṣādī</p>
+                <p className="text-sm font-medium">Iqtisadi</p>
                 <p className="text-xs text-gray-600">Economic</p>
               </div>
               <div className="text-center">
                 <div className="bg-purple-100 p-3 rounded-full w-16 h-16 mx-auto mb-2 flex items-center justify-center">
                   <span className="text-purple-600 font-bold">👥</span>
                 </div>
-                <p className="text-sm font-medium">Ijtimāʿī</p>
+                <p className="text-sm font-medium">Ijtimaʿi</p>
                 <p className="text-xs text-gray-600">Social</p>
               </div>
             </div>
@@ -44,19 +44,19 @@ export default function SustainableDevelopment() {
             <h4 className="font-semibold text-blue-700 mb-2">Sustainable Practices</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Zirāʿa ʿuḍwiyya</p>
+                <p className="text-sm font-medium">Ziraʿa ʿudwiyya</p>
                 <p className="text-xs text-gray-600">Organic farming</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Binā akhḍar</p>
+                <p className="text-sm font-medium">Bina akhdar</p>
                 <p className="text-xs text-gray-600">Green building</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Naql mustadām</p>
+                <p className="text-sm font-medium">Naql mustadam</p>
                 <p className="text-xs text-gray-600">Sustainable transport</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Iqtiṣād akhḍar</p>
+                <p className="text-sm font-medium">Iqtisad akhdar</p>
                 <p className="text-xs text-gray-600">Green economy</p>
               </div>
             </div>

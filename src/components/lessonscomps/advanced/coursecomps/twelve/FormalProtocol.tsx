@@ -20,9 +20,9 @@ export default function FormalProtocol() {
           </div>
           <div className="mt-3 space-y-2">
             <p className="text-sm"><span className="font-semibold">Ahlan wa sahlan bikum:</span> Welcome (formal)</p>
-            <p className="text-sm"><span className="font-semibold">Tasharrafna bi ziyāratikum:</span> We are honored by your visit</p>
-            <p className="text-sm"><span className="font-semibold">Bi kull iḥtirām:</span> With all respect</p>
-            <p className="text-sm"><span className="font-semibold">Fī khidmatikum:</span> At your service</p>
+            <p className="text-sm"><span className="font-semibold">Tasharrafna bi ziyaratikum:</span> We are honored by your visit</p>
+            <p className="text-sm"><span className="font-semibold">Bi kull ihtiram:</span> With all respect</p>
+            <p className="text-sm"><span className="font-semibold">Fi khidmatikum:</span> At your service</p>
           </div>
         </div>
         
@@ -32,10 +32,10 @@ export default function FormalProtocol() {
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Ceremonial</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Bi hādhihi al-munāsaba:</span> On this occasion</p>
-            <p className="text-sm"><span className="font-semibold">Yusarrunā an nu'lin:</span> We are pleased to announce</p>
-            <p className="text-sm"><span className="font-semibold">Fī ḥaḍrat as-sāda:</span> In the presence of distinguished guests</p>
-            <p className="text-sm"><span className="font-semibold">Takrīman li:</span> In honor of</p>
+            <p className="text-sm"><span className="font-semibold">Bi hadhihi al-munasaba:</span> On this occasion</p>
+            <p className="text-sm"><span className="font-semibold">Yusarruna an nu'lin:</span> We are pleased to announce</p>
+            <p className="text-sm"><span className="font-semibold">Fi hadrat as-sada:</span> In the presence of distinguished guests</p>
+            <p className="text-sm"><span className="font-semibold">Takriman li:</span> In honor of</p>
           </div>
         </div>
       </div>

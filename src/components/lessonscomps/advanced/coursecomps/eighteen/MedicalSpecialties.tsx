@@ -19,11 +19,11 @@ export default function MedicalSpecialties() {
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Surgery</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Jirāḥa qalb:</span> Cardiac surgery</p>
-            <p className="text-sm"><span className="font-semibold">Jirāḥa ʿaṣabiyya:</span> Neurosurgery</p>
-            <p className="text-sm"><span className="font-semibold">Jirāḥa tajmīliyya:</span> Plastic surgery</p>
-            <p className="text-sm"><span className="font-semibold">Jirāḥa ʿiẓām:</span> Orthopedic surgery</p>
-            <p className="text-sm"><span className="font-semibold">Jirāḥa ṣadr:</span> Thoracic surgery</p>
+            <p className="text-sm"><span className="font-semibold">Jiraha qalb:</span> Cardiac surgery</p>
+            <p className="text-sm"><span className="font-semibold">Jiraha ʿasabiyya:</span> Neurosurgery</p>
+            <p className="text-sm"><span className="font-semibold">Jiraha tajmiliyya:</span> Plastic surgery</p>
+            <p className="text-sm"><span className="font-semibold">Jiraha ʿizam:</span> Orthopedic surgery</p>
+            <p className="text-sm"><span className="font-semibold">Jiraha sadr:</span> Thoracic surgery</p>
           </div>
         </div>
         
@@ -33,11 +33,11 @@ export default function MedicalSpecialties() {
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Medicine</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Ṭibb bāṭinī:</span> Internal medicine</p>
-            <p className="text-sm"><span className="font-semibold">Amrāḍ qalb:</span> Cardiology</p>
-            <p className="text-sm"><span className="font-semibold">Amrāḍ ʿaṣabiyya:</span> Neurology</p>
-            <p className="text-sm"><span className="font-semibold">Amrāḍ ghudad:</span> Endocrinology</p>
-            <p className="text-sm"><span className="font-semibold">Amrāḍ dam:</span> Hematology</p>
+            <p className="text-sm"><span className="font-semibold">Tibb batini:</span> Internal medicine</p>
+            <p className="text-sm"><span className="font-semibold">Amrad qalb:</span> Cardiology</p>
+            <p className="text-sm"><span className="font-semibold">Amrad ʿasabiyya:</span> Neurology</p>
+            <p className="text-sm"><span className="font-semibold">Amrad ghudad:</span> Endocrinology</p>
+            <p className="text-sm"><span className="font-semibold">Amrad dam:</span> Hematology</p>
           </div>
         </div>
       </div>

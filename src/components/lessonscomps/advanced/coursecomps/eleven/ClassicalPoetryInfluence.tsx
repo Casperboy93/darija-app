@@ -21,9 +21,9 @@ export default function ClassicalPoetryInfluence() {
             <span className="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded-full">Classical</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Baḥr:</span> Poetic meter</p>
-            <p className="text-sm"><span className="font-semibold">Qāfiya:</span> Rhyme scheme</p>
-            <p className="text-sm"><span className="font-semibold">Maṭla':</span> Opening couplet</p>
+            <p className="text-sm"><span className="font-semibold">Bahr:</span> Poetic meter</p>
+            <p className="text-sm"><span className="font-semibold">Qafiya:</span> Rhyme scheme</p>
+            <p className="text-sm"><span className="font-semibold">Matla':</span> Opening couplet</p>
             <p className="text-sm"><span className="font-semibold">Khatm:</span> Closing verse</p>
           </div>
         </div>
@@ -34,10 +34,10 @@ export default function ClassicalPoetryInfluence() {
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Contemporary</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Shi'r ḥurr:</span> Free verse</p>
+            <p className="text-sm"><span className="font-semibold">Shi'r hurr:</span> Free verse</p>
             <p className="text-sm"><span className="font-semibold">Zajal:</span> Folk poetry</p>
-            <p className="text-sm"><span className="font-semibold">Malhūn:</span> Colloquial poetry</p>
-            <p className="text-sm"><span className="font-semibold">Ghināʾ:</span> Song poetry</p>
+            <p className="text-sm"><span className="font-semibold">Malhun:</span> Colloquial poetry</p>
+            <p className="text-sm"><span className="font-semibold">Ghinaʾ:</span> Song poetry</p>
           </div>
         </div>
       </div>

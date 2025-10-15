@@ -16,33 +16,33 @@ export default function MedicalResearch() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Study Types</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Dirāsa ʿashwāʾiyya:</span> Randomized study</p>
-              <p><span className="font-semibold">Tajriba sarīriyya:</span> Clinical trial</p>
-              <p><span className="font-semibold">Dirāsa waṣfiyya:</span> Descriptive study</p>
-              <p><span className="font-semibold">Dirāsa muqārana:</span> Comparative study</p>
-              <p><span className="font-semibold">Dirāsa mustaqbaliyya:</span> Prospective study</p>
+              <p><span className="font-semibold">Dirasa ʿashwaʾiyya:</span> Randomized study</p>
+              <p><span className="font-semibold">Tajriba saririyya:</span> Clinical trial</p>
+              <p><span className="font-semibold">Dirasa wasfiyya:</span> Descriptive study</p>
+              <p><span className="font-semibold">Dirasa muqarana:</span> Comparative study</p>
+              <p><span className="font-semibold">Dirasa mustaqbaliyya:</span> Prospective study</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Research Ethics</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Muwāfaqa mūʿlama:</span> Informed consent</p>
-              <p><span className="font-semibold">Akhlāqiyyāt baḥth:</span> Research ethics</p>
-              <p><span className="font-semibold">Lajna akhlāqiyya:</span> Ethics committee</p>
-              <p><span className="font-semibold">Sirriyya marīḍ:</span> Patient confidentiality</p>
-              <p><span className="font-semibold">Ḥuqūq marīḍ:</span> Patient rights</p>
+              <p><span className="font-semibold">Muwafaqa muʿlama:</span> Informed consent</p>
+              <p><span className="font-semibold">Akhlaqiyyat bahth:</span> Research ethics</p>
+              <p><span className="font-semibold">Lajna akhlaqiyya:</span> Ethics committee</p>
+              <p><span className="font-semibold">Sirriyya marid:</span> Patient confidentiality</p>
+              <p><span className="font-semibold">Huquq marid:</span> Patient rights</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Data Analysis</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Taḥlīl iḥṣāʾī:</span> Statistical analysis</p>
-              <p><span className="font-semibold">Bayānāt sarīriyya:</span> Clinical data</p>
-              <p><span className="font-semibold">Natāʾij muhimma:</span> Significant results</p>
-              <p><span className="font-semibold">Muʿāyir jūda:</span> Quality standards</p>
-              <p><span className="font-semibold">Taqyīm natāʾij:</span> Results evaluation</p>
+              <p><span className="font-semibold">Tahlil ihsaʾi:</span> Statistical analysis</p>
+              <p><span className="font-semibold">Bayanat saririyya:</span> Clinical data</p>
+              <p><span className="font-semibold">Nataʾij muhimma:</span> Significant results</p>
+              <p><span className="font-semibold">Muʿayir juda:</span> Quality standards</p>
+              <p><span className="font-semibold">Taqyim nataʾij:</span> Results evaluation</p>
             </div>
           </div>
         </div>

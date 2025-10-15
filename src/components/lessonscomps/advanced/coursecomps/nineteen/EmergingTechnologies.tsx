@@ -16,11 +16,11 @@ export default function EmergingTechnologies() {
           <div className="bg-white p-4 rounded-lg border border-orange-200">
             <h4 className="font-semibold text-orange-700 mb-2">Quantum Computing</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Ḥāsūb kwāntī:</span> Quantum computer</p>
-              <p><span className="font-semibold">Fīziyāʾ kwāntiyya:</span> Quantum physics</p>
-              <p><span className="font-semibold">Khuwarizmiyyāt kwāntiyya:</span> Quantum algorithms</p>
-              <p><span className="font-semibold">Tashābuk kwāntī:</span> Quantum entanglement</p>
-              <p><span className="font-semibold">Fawqiyya kwāntiyya:</span> Quantum supremacy</p>
+              <p><span className="font-semibold">Hasub kwanti:</span> Quantum computer</p>
+              <p><span className="font-semibold">Fiziyaʾ kwantiyya:</span> Quantum physics</p>
+              <p><span className="font-semibold">Khuwarizmiyyat kwantiyya:</span> Quantum algorithms</p>
+              <p><span className="font-semibold">Tashabuk kwanti:</span> Quantum entanglement</p>
+              <p><span className="font-semibold">Fawqiyya kwantiyya:</span> Quantum supremacy</p>
             </div>
           </div>
           
@@ -29,9 +29,9 @@ export default function EmergingTechnologies() {
             <div className="space-y-2 text-sm">
               <p><span className="font-semibold">Silsilat kutla:</span> Blockchain</p>
               <p><span className="font-semibold">ʿUmla raqamiyya:</span> Cryptocurrency</p>
-              <p><span className="font-semibold">ʿUqūd dhakiyya:</span> Smart contracts</p>
-              <p><span className="font-semibold">Tashfīr:</span> Encryption</p>
-              <p><span className="font-semibold">Lāmarkaziyya:</span> Decentralization</p>
+              <p><span className="font-semibold">ʿUqud dhakiyya:</span> Smart contracts</p>
+              <p><span className="font-semibold">Tashfir:</span> Encryption</p>
+              <p><span className="font-semibold">Lamarkaziyya:</span> Decentralization</p>
             </div>
           </div>
         </div>

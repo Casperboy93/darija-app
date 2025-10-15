@@ -16,33 +16,33 @@ export default function RenewableEnergy() {
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <h4 className="font-semibold text-yellow-700 mb-2">Solar Energy</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Ṭāqa shamsiyya:</span> Solar energy</p>
-              <p><span className="font-semibold">Alwāḥ shamsiyya:</span> Solar panels</p>
-              <p><span className="font-semibold">Khaḷāyā ḍawʾiyya:</span> Photovoltaic cells</p>
-              <p><span className="font-semibold">Maḥaṭṭa shamsiyya:</span> Solar power plant</p>
-              <p><span className="font-semibold">Takhzīn ṭāqa:</span> Energy storage</p>
+              <p><span className="font-semibold">Taqa shamsiyya:</span> Solar energy</p>
+              <p><span className="font-semibold">Alwah shamsiyya:</span> Solar panels</p>
+              <p><span className="font-semibold">Khalaya dawʾiyya:</span> Photovoltaic cells</p>
+              <p><span className="font-semibold">Mahatta shamsiyya:</span> Solar power plant</p>
+              <p><span className="font-semibold">Takhzin taqa:</span> Energy storage</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <h4 className="font-semibold text-yellow-700 mb-2">Wind Energy</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Ṭāqa riyāḥ:</span> Wind energy</p>
-              <p><span className="font-semibold">Ṭawāḥīn hawāʾ:</span> Wind turbines</p>
-              <p><span className="font-semibold">Ḥaql riyāḥ:</span> Wind farm</p>
-              <p><span className="font-semibold">Riyāḥ baḥriyya:</span> Offshore wind</p>
-              <p><span className="font-semibold">Kahraba riyāḥ:</span> Wind electricity</p>
+              <p><span className="font-semibold">Taqa riyah:</span> Wind energy</p>
+              <p><span className="font-semibold">Tawahin hawaʾ:</span> Wind turbines</p>
+              <p><span className="font-semibold">Haql riyah:</span> Wind farm</p>
+              <p><span className="font-semibold">Riyah bahriyya:</span> Offshore wind</p>
+              <p><span className="font-semibold">Kahraba riyah:</span> Wind electricity</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-yellow-200">
             <h4 className="font-semibold text-yellow-700 mb-2">Other Sources</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Ṭāqa māʾiyya:</span> Hydroelectric</p>
-              <p><span className="font-semibold">Ṭāqa jawfiyya:</span> Geothermal</p>
-              <p><span className="font-semibold">Ṭāqa ḥayawiyya:</span> Biomass</p>
-              <p><span className="font-semibold">Waqūd ḥayawī:</span> Biofuel</p>
-              <p><span className="font-semibold">Hidrūjīn:</span> Hydrogen</p>
+              <p><span className="font-semibold">Taqa maʾiyya:</span> Hydroelectric</p>
+              <p><span className="font-semibold">Taqa jawfiyya:</span> Geothermal</p>
+              <p><span className="font-semibold">Taqa hayawiyya:</span> Biomass</p>
+              <p><span className="font-semibold">Waqud hayawi:</span> Biofuel</p>
+              <p><span className="font-semibold">Hidrujin:</span> Hydrogen</p>
             </div>
           </div>
         </div>

@@ -19,7 +19,7 @@ export default function ExistentialQuestions() {
               <h4 className="font-semibold text-purple-700 mb-3">Purpose and Meaning</h4>
               <div className="space-y-3">
                 <div className="border-l-4 border-purple-300 pl-4">
-                  <p className="font-medium">أشنو هو المعنى ديال الحياة؟</p>
+                  <p className="font-medium">أشنو هو المعنى ديال الحياة؟</p>
                   <p className="text-sm text-gray-600 italic">Ashnu huwa l-ma3na dyal l-hayat?</p>
                   <p className="text-sm text-gray-500">(What is the meaning of life?)</p>
                 </div>
@@ -29,7 +29,7 @@ export default function ExistentialQuestions() {
                   <p className="text-sm text-gray-500">(Why are we here?)</p>
                 </div>
                 <div className="border-l-4 border-purple-300 pl-4">
-                  <p className="font-medium">أشنو هو الهدف ديالنا؟</p>
+                  <p className="font-medium">أشنو هو الهدف ديالنا؟</p>
                   <p className="text-sm text-gray-600 italic">Ashnu huwa l-hadaf dyalna?</p>
                   <p className="text-sm text-gray-500">(What is our purpose?)</p>
                 </div>
@@ -40,12 +40,12 @@ export default function ExistentialQuestions() {
               <h4 className="font-semibold text-purple-700 mb-3">Ethics and Morality</h4>
               <div className="space-y-3">
                 <div className="border-l-4 border-purple-300 pl-4">
-                  <p className="font-medium">أشنو هو الصح والخطأ؟</p>
+                  <p className="font-medium">أشنو هو الصح والخطأ؟</p>
                   <p className="text-sm text-gray-600 italic">Ashnu huwa s-sah w l-khata'?</p>
                   <p className="text-sm text-gray-500">(What is right and wrong?)</p>
                 </div>
                 <div className="border-l-4 border-purple-300 pl-4">
-                  <p className="font-medium">كيفاش نعرفو أشنو عدل؟</p>
+                  <p className="font-medium">كيفاش نعرفو أشنو عدل؟</p>
                   <p className="text-sm text-gray-600 italic">Kifash n3arfu ashnu 3adl?</p>
                   <p className="text-sm text-gray-500">(How do we know what is just?)</p>
                 </div>

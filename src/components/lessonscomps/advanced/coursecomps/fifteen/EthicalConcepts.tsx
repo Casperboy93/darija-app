@@ -19,33 +19,33 @@ export default function EthicalConcepts() {
               <p><span className="font-semibold">Khayr:</span> Good</p>
               <p><span className="font-semibold">Sharr:</span> Evil</p>
               <p><span className="font-semibold">ʿAdl:</span> Justice</p>
-              <p><span className="font-semibold">Ẓulm:</span> Injustice</p>
-              <p><span className="font-semibold">Faḍīla:</span> Virtue</p>
-              <p><span className="font-semibold">Radhīla:</span> Vice</p>
+              <p><span className="font-semibold">Zulm:</span> Injustice</p>
+              <p><span className="font-semibold">Fadila:</span> Virtue</p>
+              <p><span className="font-semibold">Radhila:</span> Vice</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-semibold text-green-700 mb-2">Ethical Principles</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Masʾūliyya:</span> Responsibility</p>
-              <p><span className="font-semibold">Ḥurriyya:</span> Freedom</p>
-              <p><span className="font-semibold">Karāma:</span> Dignity</p>
-              <p><span className="font-semibold">Musāwāt:</span> Equality</p>
-              <p><span className="font-semibold">Raḥma:</span> Compassion</p>
-              <p><span className="font-semibold">Ṣidq:</span> Honesty</p>
+              <p><span className="font-semibold">Masʾuliyya:</span> Responsibility</p>
+              <p><span className="font-semibold">Hurriyya:</span> Freedom</p>
+              <p><span className="font-semibold">Karama:</span> Dignity</p>
+              <p><span className="font-semibold">Musawat:</span> Equality</p>
+              <p><span className="font-semibold">Rahma:</span> Compassion</p>
+              <p><span className="font-semibold">Sidq:</span> Honesty</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-semibold text-green-700 mb-2">Moral Reasoning</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Ḍamīr:</span> Conscience</p>
-              <p><span className="font-semibold">Ikhtiyār:</span> Choice</p>
+              <p><span className="font-semibold">Damir:</span> Conscience</p>
+              <p><span className="font-semibold">Ikhtiyar:</span> Choice</p>
               <p><span className="font-semibold">Niyya:</span> Intention</p>
-              <p><span className="font-semibold">ʿAwāqib:</span> Consequences</p>
-              <p><span className="font-semibold">Wājib:</span> Duty</p>
-              <p><span className="font-semibold">Ḥaqq:</span> Right</p>
+              <p><span className="font-semibold">ʿAwaqib:</span> Consequences</p>
+              <p><span className="font-semibold">Wajib:</span> Duty</p>
+              <p><span className="font-semibold">Haqq:</span> Right</p>
             </div>
           </div>
         </div>

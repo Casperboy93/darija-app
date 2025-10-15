@@ -20,7 +20,7 @@ export default function PhilosophicalDialogue() {
               <div className="space-y-4">
                 <div className="bg-blue-50 p-3 rounded">
                   <p className="font-medium text-blue-800">Person A:</p>
-                  <p className="text-blue-700">أنا كانفكر بلي الحياة ماعندهاش معنى بلا هدف واضح.</p>
+                  <p className="text-blue-700">أنا كانفكر بلي الحياة ماعندهاش معنى بلا هدف واضح.</p>
                   <p className="text-sm text-blue-600 italic">Ana kanfakkar blli l-hayat ma3andhash ma3na bla hadaf wadih.</p>
                   <p className="text-xs text-blue-500">(I think life has no meaning without a clear purpose.)</p>
                 </div>

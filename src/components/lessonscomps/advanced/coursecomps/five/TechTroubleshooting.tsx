@@ -29,7 +29,7 @@ export default function TechTroubleshooting() {
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">No signal</span>
-                <span className="text-gray-800 font-medium">Ma-kayensh réseau</span>
+                <span className="text-gray-800 font-medium">Ma-kayensh reseau</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Battery dead</span>
@@ -42,15 +42,15 @@ export default function TechTroubleshooting() {
             <div className="space-y-2 text-sm">
               <div className="flex justify-between">
                 <span className="text-gray-600">Restart</span>
-                <span className="text-gray-800 font-medium">Redémarre / I3awad shel</span>
+                <span className="text-gray-800 font-medium">Redemarre / I3awad shel</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Update</span>
-                <span className="text-gray-800 font-medium">Update / Mise à jour</span>
+                <span className="text-gray-800 font-medium">Update / Mise a jour</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Reset</span>
-                <span className="text-gray-800 font-medium">Reset / Remise à zéro</span>
+                <span className="text-gray-800 font-medium">Reset / Remise a zero</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-600">Check connection</span>

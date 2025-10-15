@@ -18,11 +18,11 @@ export default function EmailCommunication() {
           <p><span className="font-medium">Subject:</span> بخصوص الاجتماع ديال غدا - Bi-khusus l-ijtima3 dyal ghudda</p>
           <div className="border-l-4 border-blue-500 pl-4">
             <p className="mb-2">السلام عليكم ورحمة الله وبركاته</p>
-            <p className="mb-2">أستاذ محمد المحترم،</p>
-            <p className="mb-2">أكتب لكم بخصوص الاجتماع المقرر غدا في الساعة العاشرة صباحا.</p>
-            <p className="mb-2">أرجو التأكيد على الحضور وإحضار التقارير المطلوبة.</p>
-            <p className="mb-2">مع فائق الاحترام والتقدير</p>
-            <p>أحمد الإدريسي</p>
+            <p className="mb-2">أستاذ محمد المحترم،</p>
+            <p className="mb-2">أكتب لكم بخصوص الاجتماع المقرر غدا في الساعة العاشرة صباحا.</p>
+            <p className="mb-2">أرجو التأكيد على الحضور وإحضار التقارير المطلوبة.</p>
+            <p className="mb-2">مع فائق الاحترام والتقدير</p>
+            <p>أحمد الإدريسي</p>
           </div>
           <div className="text-gray-600 italic text-xs mt-4">
             <p>Peace be upon you,</p>

@@ -20,7 +20,7 @@ export default function ProfessionalScenarios() {
             <p className="text-gray-700 mb-3">حدثني عن نفسك - Haddithni 3an nafsak (Tell me about yourself)</p>
             
             <p className="font-medium text-green-800 mb-2">Candidate:</p>
-            <p className="text-gray-700">اسمي أحمد، عندي خبرة خمس سنوات في المجال ديال التسويق. تخرجت من الجامعة ديال الرباط وخدمت في شركات مختلفة.</p>
+            <p className="text-gray-700">اسمي أحمد، عندي خبرة خمس سنوات في المجال ديال التسويق. تخرجت من الجامعة ديال الرباط وخدمت في شركات مختلفة.</p>
             <p className="text-sm text-gray-600 italic">My name is Ahmed, I have five years of experience in marketing. I graduated from Rabat University and worked in different companies.</p>
           </div>
         </div>

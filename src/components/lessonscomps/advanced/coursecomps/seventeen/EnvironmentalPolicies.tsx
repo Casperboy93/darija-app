@@ -17,19 +17,19 @@ export default function EnvironmentalPolicies() {
             <h4 className="font-semibold text-orange-700 mb-2">Global Agreements</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Ittifāqiyyat Bārīs</p>
+                <p className="text-sm font-medium">Ittifaqiyyat Baris</p>
                 <p className="text-xs text-gray-600">Paris Agreement</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Brūtūkūl Kyōtō</p>
+                <p className="text-sm font-medium">Brutukul Kyoto</p>
                 <p className="text-xs text-gray-600">Kyoto Protocol</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ittifāqiyyat Munākh</p>
+                <p className="text-sm font-medium">Ittifaqiyyat Munakh</p>
                 <p className="text-xs text-gray-600">Climate Convention</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ahdāf Tanmiya</p>
+                <p className="text-sm font-medium">Ahdaf Tanmiya</p>
                 <p className="text-xs text-gray-600">SDGs</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function EnvironmentalPolicies() {
             <h4 className="font-semibold text-orange-700 mb-2">Policy Tools</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Ḍarāʾib karbūn</p>
+                <p className="text-sm font-medium">Daraʾib karbun</p>
                 <p className="text-xs text-gray-600">Carbon tax</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tijārat anbiʿāthāt</p>
+                <p className="text-sm font-medium">Tijarat anbiʿathat</p>
                 <p className="text-xs text-gray-600">Emissions trading</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Daʿm ṭāqa naẓīfa</p>
+                <p className="text-sm font-medium">Daʿm taqa nazifa</p>
                 <p className="text-xs text-gray-600">Clean energy subsidies</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Lawāʾiḥ bīʾiyya</p>
+                <p className="text-sm font-medium">Lawaʾih biʾiyya</p>
                 <p className="text-xs text-gray-600">Environmental regulations</p>
               </div>
             </div>

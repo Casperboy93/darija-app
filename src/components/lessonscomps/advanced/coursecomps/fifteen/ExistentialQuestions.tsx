@@ -16,11 +16,11 @@ export default function ExistentialQuestions() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Existence and Being</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Mā hiya ḥaqīqat al-wujūd?</span></p>
+              <p><span className="font-semibold">Ma hiya haqiqat al-wujud?</span></p>
               <p className="text-gray-600">What is the nature of existence?</p>
-              <p><span className="font-semibold">Mā maʿnā al-ḥayāt?</span></p>
+              <p><span className="font-semibold">Ma maʿna al-hayat?</span></p>
               <p className="text-gray-600">What is the meaning of life?</p>
-              <p><span className="font-semibold">Hal hunāka hadaf min al-wujūd?</span></p>
+              <p><span className="font-semibold">Hal hunaka hadaf min al-wujud?</span></p>
               <p className="text-gray-600">Is there a purpose to existence?</p>
             </div>
           </div>
@@ -28,11 +28,11 @@ export default function ExistentialQuestions() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Knowledge and Reality</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Kayf naʿrif al-ḥaqīqa?</span></p>
+              <p><span className="font-semibold">Kayf naʿrif al-haqiqa?</span></p>
               <p className="text-gray-600">How do we know truth?</p>
-              <p><span className="font-semibold">Mā hiya ḥudūd al-maʿrifa?</span></p>
+              <p><span className="font-semibold">Ma hiya hudud al-maʿrifa?</span></p>
               <p className="text-gray-600">What are the limits of knowledge?</p>
-              <p><span className="font-semibold">Hal al-wāqiʿ mawjūd ḥaqqan?</span></p>
+              <p><span className="font-semibold">Hal al-waqiʿ mawjud haqqan?</span></p>
               <p className="text-gray-600">Does reality truly exist?</p>
             </div>
           </div>

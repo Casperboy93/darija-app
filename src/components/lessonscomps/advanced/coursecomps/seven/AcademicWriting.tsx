@@ -16,7 +16,7 @@ export default function AcademicWriting() {
         <h3 className="font-semibold text-gray-800 mb-4">Sample Academic Paragraph</h3>
         <div className="space-y-3">
           <div className="border-l-4 border-blue-500 pl-4">
-            <p className="mb-2">إن دراسة الظواهر الاجتماعية تتطلب منهجية علمية دقيقة. من خلال تحليل البيانات المتوفرة، يمكننا أن نلاحظ أن هناك تغيرات جذرية في بنية المجتمع المغربي خلال العقود الأخيرة. هذه التغيرات لا تقتصر على الجانب الاقتصادي فحسب، بل تشمل أيضا الجوانب الثقافية والاجتماعية.</p>
+            <p className="mb-2">إن دراسة الظواهر الاجتماعية تتطلب منهجية علمية دقيقة. من خلال تحليل البيانات المتوفرة، يمكننا أن نلاحظ أن هناك تغيرات جذرية في بنية المجتمع المغربي خلال العقود الأخيرة. هذه التغيرات لا تقتصر على الجانب الاقتصادي فحسب، بل تشمل أيضا الجوانب الثقافية والاجتماعية.</p>
           </div>
           <div className="text-gray-600 italic text-sm">
             <p>The study of social phenomena requires precise scientific methodology. Through analyzing available data, we can observe that there are radical changes in the structure of Moroccan society during recent decades. These changes are not limited to the economic aspect only, but also include cultural and social aspects.</p>

@@ -17,19 +17,19 @@ export default function CloudComputing() {
             <h4 className="font-semibold text-sky-700 mb-2">Cloud Services</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Ḥāsūb saḥābī</p>
+                <p className="text-sm font-medium">Hasub sahabi</p>
                 <p className="text-xs text-gray-600">Cloud computing</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Takhzīn saḥābī</p>
+                <p className="text-sm font-medium">Takhzin sahabi</p>
                 <p className="text-xs text-gray-600">Cloud storage</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Khidmāt saḥābiyya</p>
+                <p className="text-sm font-medium">Khidmat sahabiyya</p>
                 <p className="text-xs text-gray-600">Cloud services</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Niẓām muwazzaʿ</p>
+                <p className="text-sm font-medium">Nizam muwazzaʿ</p>
                 <p className="text-xs text-gray-600">Distributed system</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function CloudComputing() {
             <h4 className="font-semibold text-sky-700 mb-2">Virtualization</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Iftirāḍiyya</p>
+                <p className="text-sm font-medium">Iftiradiyya</p>
                 <p className="text-xs text-gray-600">Virtualization</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ḥāwiya</p>
+                <p className="text-sm font-medium">Hawiya</p>
                 <p className="text-xs text-gray-600">Container</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Khādim iftirāḍī</p>
+                <p className="text-sm font-medium">Khadim iftiradi</p>
                 <p className="text-xs text-gray-600">Virtual server</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mawārid mushtaraka</p>
+                <p className="text-sm font-medium">Mawarid mushtaraka</p>
                 <p className="text-xs text-gray-600">Shared resources</p>
               </div>
             </div>

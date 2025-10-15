@@ -19,11 +19,11 @@ export default function InternationalOrganizations() {
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Global</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Al-Umam al-Muttaḥida:</span> United Nations</p>
+            <p className="text-sm"><span className="font-semibold">Al-Umam al-Muttahida:</span> United Nations</p>
             <p className="text-sm"><span className="font-semibold">Majlis al-Amn:</span> Security Council</p>
-            <p className="text-sm"><span className="font-semibold">Al-Jamʿiyya al-ʿĀmma:</span> General Assembly</p>
-            <p className="text-sm"><span className="font-semibold">Maḥkamat al-ʿAdl:</span> International Court of Justice</p>
-            <p className="text-sm"><span className="font-semibold">Al-Amīn al-ʿĀmm:</span> Secretary-General</p>
+            <p className="text-sm"><span className="font-semibold">Al-Jamʿiyya al-ʿAmma:</span> General Assembly</p>
+            <p className="text-sm"><span className="font-semibold">Mahkamat al-ʿAdl:</span> International Court of Justice</p>
+            <p className="text-sm"><span className="font-semibold">Al-Amin al-ʿAmm:</span> Secretary-General</p>
           </div>
         </div>
         
@@ -33,11 +33,11 @@ export default function InternationalOrganizations() {
             <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">Regional</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Jāmiʿat al-Duwal al-ʿArabiyya:</span> Arab League</p>
-            <p className="text-sm"><span className="font-semibold">Al-Ittiḥād al-Ūrūbbī:</span> European Union</p>
-            <p className="text-sm"><span className="font-semibold">Al-Ittiḥād al-Afrīqī:</span> African Union</p>
-            <p className="text-sm"><span className="font-semibold">Ḥilf Shamāl al-Aṭlasī:</span> NATO</p>
-            <p className="text-sm"><span className="font-semibold">Munẓẓamat al-Taʿāwun al-Islāmī:</span> OIC</p>
+            <p className="text-sm"><span className="font-semibold">Jamiʿat al-Duwal al-ʿArabiyya:</span> Arab League</p>
+            <p className="text-sm"><span className="font-semibold">Al-Ittihad al-Urubbi:</span> European Union</p>
+            <p className="text-sm"><span className="font-semibold">Al-Ittihad al-Afriqi:</span> African Union</p>
+            <p className="text-sm"><span className="font-semibold">Hilf Shamal al-Atlasi:</span> NATO</p>
+            <p className="text-sm"><span className="font-semibold">Munzzamat al-Taʿawun al-Islami:</span> OIC</p>
           </div>
         </div>
       </div>

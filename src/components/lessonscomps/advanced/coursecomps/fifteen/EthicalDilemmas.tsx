@@ -17,19 +17,19 @@ export default function EthicalDilemmas() {
             <h4 className="font-semibold text-orange-700 mb-2">Discussing Ethical Issues</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Mushkila akhlāqiyya</p>
+                <p className="text-sm font-medium">Mushkila akhlaqiyya</p>
                 <p className="text-xs text-gray-600">Moral problem</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tanāquḍ qiyam</p>
+                <p className="text-sm font-medium">Tanaqud qiyam</p>
                 <p className="text-xs text-gray-600">Conflict of values</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ikhtiyār ṣaʿb</p>
+                <p className="text-sm font-medium">Ikhtiyar saʿb</p>
                 <p className="text-xs text-gray-600">Difficult choice</p>
               </div>
               <div>
-                <p className="text-sm font-medium">ʿAwāqib ghayr mutawaqaʿa</p>
+                <p className="text-sm font-medium">ʿAwaqib ghayr mutawaqaʿa</p>
                 <p className="text-xs text-gray-600">Unintended consequences</p>
               </div>
             </div>
@@ -39,7 +39,7 @@ export default function EthicalDilemmas() {
             <h4 className="font-semibold text-orange-700 mb-2">Ethical Analysis</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Min nāḥiya akhlāqiyya</p>
+                <p className="text-sm font-medium">Min nahiya akhlaqiyya</p>
                 <p className="text-xs text-gray-600">From an ethical standpoint</p>
               </div>
               <div>
@@ -47,11 +47,11 @@ export default function EthicalDilemmas() {
                 <p className="text-xs text-gray-600">We must consider</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Hādhā yaṭraḥ suʾālan</p>
+                <p className="text-sm font-medium">Hadha yatrah suʾalan</p>
                 <p className="text-xs text-gray-600">This raises a question</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Lā yumkin tajāhul</p>
+                <p className="text-sm font-medium">La yumkin tajahul</p>
                 <p className="text-xs text-gray-600">Cannot ignore</p>
               </div>
             </div>

@@ -17,19 +17,19 @@ export default function MulticulturalTeams() {
             <h4 className="font-semibold text-teal-700 mb-2">Team Building</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Binā farīq</p>
+                <p className="text-sm font-medium">Bina fariq</p>
                 <p className="text-xs text-gray-600">Team building</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taʿāwun farīq</p>
+                <p className="text-sm font-medium">Taʿawun fariq</p>
                 <p className="text-xs text-gray-600">Team collaboration</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tanwīʿ mahārāt</p>
+                <p className="text-sm font-medium">Tanwiʿ maharat</p>
                 <p className="text-xs text-gray-600">Skill diversity</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tawāzun farīq</p>
+                <p className="text-sm font-medium">Tawazun fariq</p>
                 <p className="text-xs text-gray-600">Team balance</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function MulticulturalTeams() {
             <h4 className="font-semibold text-teal-700 mb-2">Performance Management</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Taqyīm adāʾ</p>
+                <p className="text-sm font-medium">Taqyim adaʾ</p>
                 <p className="text-xs text-gray-600">Performance evaluation</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taṭwīr mahārāt</p>
+                <p className="text-sm font-medium">Tatwir maharat</p>
                 <p className="text-xs text-gray-600">Skill development</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taḥfīz farīq</p>
+                <p className="text-sm font-medium">Tahfiz fariq</p>
                 <p className="text-xs text-gray-600">Team motivation</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Qiyās natāʾij</p>
+                <p className="text-sm font-medium">Qiyas nataʾij</p>
                 <p className="text-xs text-gray-600">Results measurement</p>
               </div>
             </div>

@@ -17,27 +17,27 @@ export default function DataScience() {
             <h4 className="font-semibold text-purple-700 mb-2">Data Processing</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">ʿIlm bayānāt</p>
+                <p className="text-sm font-medium">ʿIlm bayanat</p>
                 <p className="text-xs text-gray-600">Data science</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Bayānāt ḍakhma</p>
+                <p className="text-sm font-medium">Bayanat dakhma</p>
                 <p className="text-xs text-gray-600">Big data</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taḥlīl bayānāt</p>
+                <p className="text-sm font-medium">Tahlil bayanat</p>
                 <p className="text-xs text-gray-600">Data analysis</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tanẓīf bayānāt</p>
+                <p className="text-sm font-medium">Tanzif bayanat</p>
                 <p className="text-xs text-gray-600">Data cleaning</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Takhzīn bayānāt</p>
+                <p className="text-sm font-medium">Takhzin bayanat</p>
                 <p className="text-xs text-gray-600">Data storage</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Qawāʿid bayānāt</p>
+                <p className="text-sm font-medium">Qawaʿid bayanat</p>
                 <p className="text-xs text-gray-600">Databases</p>
               </div>
             </div>
@@ -47,19 +47,19 @@ export default function DataScience() {
             <h4 className="font-semibold text-purple-700 mb-2">Analytics Tools</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Taṣwīr bayānāt</p>
+                <p className="text-sm font-medium">Taswir bayanat</p>
                 <p className="text-xs text-gray-600">Data visualization</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Iḥṣāʾiyyāt</p>
+                <p className="text-sm font-medium">Ihsaʾiyyat</p>
                 <p className="text-xs text-gray-600">Statistics</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Namādhij riyāḍiyya</p>
+                <p className="text-sm font-medium">Namadhij riyadiyya</p>
                 <p className="text-xs text-gray-600">Mathematical models</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Khuwarizmiyyāt taḥlīl</p>
+                <p className="text-sm font-medium">Khuwarizmiyyat tahlil</p>
                 <p className="text-xs text-gray-600">Analytics algorithms</p>
               </div>
             </div>

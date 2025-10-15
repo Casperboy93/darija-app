@@ -15,19 +15,19 @@ export default function GlobalCommunication() {
           <h3 className="font-bold text-lg text-pink-800 mb-3">Digital Communication</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-pink-700">Tawāṣul raqamī</p>
+              <p className="font-semibold text-pink-700">Tawasul raqami</p>
               <p className="text-gray-600 text-sm">Digital communication</p>
             </div>
             <div>
-              <p className="font-semibold text-pink-700">Muʾtamarāt ʿan buʿd</p>
+              <p className="font-semibold text-pink-700">Muʾtamarat ʿan buʿd</p>
               <p className="text-gray-600 text-sm">Video conferences</p>
             </div>
             <div>
-              <p className="font-semibold text-pink-700">Manāṣṣāt ʿālamiyya</p>
+              <p className="font-semibold text-pink-700">Manassat ʿalamiyya</p>
               <p className="text-gray-600 text-sm">Global platforms</p>
             </div>
             <div>
-              <p className="font-semibold text-pink-700">Tawāṣul fawrī</p>
+              <p className="font-semibold text-pink-700">Tawasul fawri</p>
               <p className="text-gray-600 text-sm">Instant communication</p>
             </div>
           </div>
@@ -37,19 +37,19 @@ export default function GlobalCommunication() {
           <h3 className="font-bold text-lg text-pink-800 mb-3">Presentation Skills</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-pink-700">Taqdīm ʿālamī</p>
+              <p className="font-semibold text-pink-700">Taqdim ʿalami</p>
               <p className="text-gray-600 text-sm">Global presentation</p>
             </div>
             <div>
-              <p className="font-semibold text-pink-700">Khuṭab ʿāmma</p>
+              <p className="font-semibold text-pink-700">Khutab ʿamma</p>
               <p className="text-gray-600 text-sm">Public speaking</p>
             </div>
             <div>
-              <p className="font-semibold text-pink-700">Tawāṣul muʾaththir</p>
+              <p className="font-semibold text-pink-700">Tawasul muʾaththir</p>
               <p className="text-gray-600 text-sm">Impactful communication</p>
             </div>
             <div>
-              <p className="font-semibold text-pink-700">Iqnāʿ jamhūr</p>
+              <p className="font-semibold text-pink-700">Iqnaʿ jamhur</p>
               <p className="text-gray-600 text-sm">Audience persuasion</p>
             </div>
           </div>

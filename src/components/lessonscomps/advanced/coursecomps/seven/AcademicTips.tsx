@@ -23,7 +23,7 @@ export default function AcademicTips() {
             <div className="w-2 h-2 bg-yellow-500 rounded-full mt-2 mr-3 flex-shrink-0"></div>
             <div>
               <h3 className="font-semibold text-yellow-800">Respectful Disagreement</h3>
-              <p className="text-gray-700">Learn to disagree respectfully in academic discussions using phrases like "أحترم رأيك ولكن" (I respect your opinion, but) to maintain scholarly decorum.</p>
+              <p className="text-gray-700">Learn to disagree respectfully in academic discussions using phrases like "أحترم رأيك ولكن" (I respect your opinion, but) to maintain scholarly decorum.</p>
             </div>
           </div>
           <div className="flex items-start">

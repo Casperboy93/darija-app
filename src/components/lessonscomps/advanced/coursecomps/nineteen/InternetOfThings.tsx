@@ -17,19 +17,19 @@ export default function InternetOfThings() {
             <h4 className="font-semibold text-teal-700 mb-2">IoT Components</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Internet al-ashyāʾ</p>
+                <p className="text-sm font-medium">Internet al-ashyaʾ</p>
                 <p className="text-xs text-gray-600">Internet of Things</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ajhiza mutaṣṣila</p>
+                <p className="text-sm font-medium">Ajhiza mutassila</p>
                 <p className="text-xs text-gray-600">Connected devices</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ḥassāsāt dhakiyya</p>
+                <p className="text-sm font-medium">Hassasat dhakiyya</p>
                 <p className="text-xs text-gray-600">Smart sensors</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Shabakat lāsilkiyya</p>
+                <p className="text-sm font-medium">Shabakat lasilkiyya</p>
                 <p className="text-xs text-gray-600">Wireless network</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function InternetOfThings() {
             <h4 className="font-semibold text-teal-700 mb-2">Smart Applications</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Bayt dhākī</p>
+                <p className="text-sm font-medium">Bayt dhaki</p>
                 <p className="text-xs text-gray-600">Smart home</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Madīna dhakiyya</p>
+                <p className="text-sm font-medium">Madina dhakiyya</p>
                 <p className="text-xs text-gray-600">Smart city</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Zirāʿa dhakiyya</p>
+                <p className="text-sm font-medium">Ziraʿa dhakiyya</p>
                 <p className="text-xs text-gray-600">Smart agriculture</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Naql dhākī</p>
+                <p className="text-sm font-medium">Naql dhaki</p>
                 <p className="text-xs text-gray-600">Smart transportation</p>
               </div>
             </div>

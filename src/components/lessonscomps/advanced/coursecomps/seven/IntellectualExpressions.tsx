@@ -16,7 +16,7 @@ export default function IntellectualExpressions() {
         <div className="bg-gray-50 p-4 rounded-lg border border-gray-200">
           <h3 className="font-semibold text-gray-800 mb-2">Presenting Arguments</h3>
           <div className="space-y-2">
-            <p><span className="font-medium">من ناحية أخرى</span> - Min nahiya ukhra (On the other hand)</p>
+            <p><span className="font-medium">من ناحية أخرى</span> - Min nahiya ukhra (On the other hand)</p>
             <p><span className="font-medium">بناء على ذلك</span> - Bina2an 3ala dhalik (Based on that)</p>
             <p><span className="font-medium">في المقابل</span> - Fi l-muqabil (In contrast)</p>
             <p><span className="font-medium">علاوة على ذلك</span> - 3alawatan 3ala dhalik (Furthermore)</p>
@@ -26,10 +26,10 @@ export default function IntellectualExpressions() {
         <div className="bg-gray-50 p-4 rounded-lg border border-gray-200">
           <h3 className="font-semibold text-gray-800 mb-2">Analyzing & Evaluating</h3>
           <div className="space-y-2">
-            <p><span className="font-medium">إذا نظرنا إلى</span> - Idha nazarna ila (If we look at)</p>
-            <p><span className="font-medium">يمكن القول أن</span> - Yumkin al-qawl anna (It can be said that)</p>
-            <p><span className="font-medium">من المهم أن نلاحظ</span> - Min al-muhimm an nulahiz (It's important to note)</p>
-            <p><span className="font-medium">هذا يشير إلى</span> - Hadha yushir ila (This indicates)</p>
+            <p><span className="font-medium">إذا نظرنا إلى</span> - Idha nazarna ila (If we look at)</p>
+            <p><span className="font-medium">يمكن القول أن</span> - Yumkin al-qawl anna (It can be said that)</p>
+            <p><span className="font-medium">من المهم أن نلاحظ</span> - Min al-muhimm an nulahiz (It's important to note)</p>
+            <p><span className="font-medium">هذا يشير إلى</span> - Hadha yushir ila (This indicates)</p>
           </div>
         </div>
         

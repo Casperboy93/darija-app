@@ -17,19 +17,19 @@ export default function MediaEthics() {
             <h4 className="font-semibold text-orange-700 mb-2">Journalistic Principles</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Ṣidq</p>
+                <p className="text-sm font-medium">Sidq</p>
                 <p className="text-xs text-gray-600">Truthfulness</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mawḍūʿiyya</p>
+                <p className="text-sm font-medium">Mawduʿiyya</p>
                 <p className="text-xs text-gray-600">Objectivity</p>
               </div>
               <div>
-                <p className="text-sm font-medium">ʿAdāla</p>
+                <p className="text-sm font-medium">ʿAdala</p>
                 <p className="text-xs text-gray-600">Fairness</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Masʾūliyya</p>
+                <p className="text-sm font-medium">Masʾuliyya</p>
                 <p className="text-xs text-gray-600">Responsibility</p>
               </div>
             </div>
@@ -39,19 +39,19 @@ export default function MediaEthics() {
             <h4 className="font-semibold text-orange-700 mb-2">Ethical Considerations</h4>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <div>
-                <p className="text-sm font-medium">Khuṣūṣiyya</p>
+                <p className="text-sm font-medium">Khususiyya</p>
                 <p className="text-xs text-gray-600">Privacy</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Sirr mihnī</p>
+                <p className="text-sm font-medium">Sirr mihni</p>
                 <p className="text-xs text-gray-600">Professional secrecy</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taḍārub maṣāliḥ</p>
+                <p className="text-sm font-medium">Tadarub masalih</p>
                 <p className="text-xs text-gray-600">Conflict of interest</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taṣḥīḥ akhṭāʾ</p>
+                <p className="text-sm font-medium">Tashih akhtaʾ</p>
                 <p className="text-xs text-gray-600">Correction of errors</p>
               </div>
             </div>

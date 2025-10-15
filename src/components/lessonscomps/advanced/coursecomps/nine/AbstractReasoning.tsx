@@ -23,7 +23,7 @@ export default function AbstractReasoning() {
                     <p><span className="font-medium">من جهة...</span> - mn jiha... (on one hand...)</p>
                   </div>
                   <div className="bg-yellow-50 p-3 rounded border">
-                    <p><span className="font-medium">من جهة أخرى...</span> - mn jiha ukhra... (on the other hand...)</p>
+                    <p><span className="font-medium">من جهة أخرى...</span> - mn jiha ukhra... (on the other hand...)</p>
                   </div>
                   <div className="bg-yellow-50 p-3 rounded border">
                     <p><span className="font-medium">بالتالي...</span> - bit-tali... (therefore...)</p>
@@ -31,7 +31,7 @@ export default function AbstractReasoning() {
                 </div>
                 <div className="space-y-3">
                   <div className="bg-yellow-50 p-3 rounded border">
-                    <p><span className="font-medium">إذن...</span> - idhan... (thus...)</p>
+                    <p><span className="font-medium">إذن...</span> - idhan... (thus...)</p>
                   </div>
                   <div className="bg-yellow-50 p-3 rounded border">
                     <p><span className="font-medium">لكن...</span> - lakin... (however...)</p>

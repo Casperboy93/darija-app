@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
@@ -14,9 +14,71 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+
 export const metadata: Metadata = {
-  title: "Darija App - Learn Moroccan Arabic",
-  description: "Learn Moroccan Arabic (Darija) with interactive lessons, translator tools, and e-books",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "Darija App – Learn Moroccan Arabic (Darija)",
+    template: "%s | Darija App",
+  },
+  description:
+    "Learn Moroccan Arabic (Darija) through structured lessons, real conversations, cultural insights, and a built-in translator. Start speaking confidently from day one.",
+  keywords: [
+    "Darija",
+    "Moroccan Arabic",
+    "Learn Darija",
+    "Interactive lessons",
+    "Translator",
+    "Vocabulary",
+    "Grammar",
+    "Culture",
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Course",
+    "Education",
+  ],
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Darija App – Learn Moroccan Arabic (Darija)",
+    description:
+      "Structured lessons, real conversations, and cultural insights to master Moroccan Arabic.",
+    url: "/",
+    siteName: "Darija App",
+    type: "website",
+    images: [
+      {
+        url: "/favicon.ico",
+        alt: "Darija App",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Darija App – Learn Moroccan Arabic (Darija)",
+    description:
+      "Structured lessons, real conversations, and cultural insights to master Moroccan Arabic.",
+    images: ["/favicon.ico"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  icons: {
+    icon: "/favicon.ico",
+  },
+  category: "education",
+  applicationName: "Darija App",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  themeColor: "#ffffff",
 };
 
 export default function RootLayout({

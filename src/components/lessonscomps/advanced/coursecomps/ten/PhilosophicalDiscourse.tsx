@@ -59,7 +59,7 @@ export default function PhilosophicalDiscourse({ completedChallenges, toggleChal
               </div>
               <div className="space-y-3">
                 <div className="bg-indigo-50 p-3 rounded border">
-                  <p><span className="font-medium">الأخلاق</span> - l-akhlaq (ethics)</p>
+                  <p><span className="font-medium">الأخلاق</span> - l-akhlaq (ethics)</p>
                 </div>
                 <div className="bg-indigo-50 p-3 rounded border">
                   <p><span className="font-medium">المنطق</span> - l-mantiq (logic)</p>

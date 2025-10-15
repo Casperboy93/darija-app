@@ -30,7 +30,7 @@ export default function DescriptiveLanguage() {
             <p><span className="font-medium">قصر فخم</span> - Qasr fakham (Magnificent palace)</p>
             <p><span className="font-medium">غابة مظلمة</span> - Ghaba muzlima (Dark forest)</p>
             <p><span className="font-medium">صحراء واسعة</span> - Sahra2 wasi3a (Vast desert)</p>
-            <p><span className="font-medium">بحر هائج</span> - Bahr ha2ij (Raging sea)</p>
+            <p><span className="font-medium">بحر هائج</span> - Bahr ha2ij (Raging sea)</p>
             <p><span className="font-medium">جبل شاهق</span> - Jabal shahiq (Towering mountain)</p>
           </div>
         </div>

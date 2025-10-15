@@ -63,7 +63,7 @@ export default function PhilosophicalVocabulary() {
               <p><span className="font-medium">الحرية</span> - l-hurriya (freedom)</p>
             </div>
             <div className="bg-white p-3 rounded border">
-              <p><span className="font-medium">المسؤولية</span> - l-mas'uliya (responsibility)</p>
+              <p><span className="font-medium">المسؤولية</span> - l-mas'uliya (responsibility)</p>
             </div>
           </div>
         </div>

@@ -16,33 +16,33 @@ export default function DiplomaticVocabulary() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Negotiations</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Tafāwuḍ:</span> Negotiation</p>
-              <p><span className="font-semibold">Ittifāqiyya:</span> Agreement</p>
-              <p><span className="font-semibold">Tasāwī:</span> Compromise</p>
-              <p><span className="font-semibold">Ḥall wasat:</span> Middle solution</p>
-              <p><span className="font-semibold">Tawāfuq:</span> Consensus</p>
+              <p><span className="font-semibold">Tafawud:</span> Negotiation</p>
+              <p><span className="font-semibold">Ittifaqiyya:</span> Agreement</p>
+              <p><span className="font-semibold">Tasawi:</span> Compromise</p>
+              <p><span className="font-semibold">Hall wasat:</span> Middle solution</p>
+              <p><span className="font-semibold">Tawafuq:</span> Consensus</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Official Relations</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Siyāsa:</span> Policy</p>
-              <p><span className="font-semibold">Diplomāsiyya:</span> Diplomacy</p>
-              <p><span className="font-semibold">ʿAlāqāt rasmiyya:</span> Official relations</p>
-              <p><span className="font-semibold">Taʿāwun:</span> Cooperation</p>
-              <p><span className="font-semibold">Sharāka:</span> Partnership</p>
+              <p><span className="font-semibold">Siyasa:</span> Policy</p>
+              <p><span className="font-semibold">Diplomasiyya:</span> Diplomacy</p>
+              <p><span className="font-semibold">ʿAlaqat rasmiyya:</span> Official relations</p>
+              <p><span className="font-semibold">Taʿawun:</span> Cooperation</p>
+              <p><span className="font-semibold">Sharaka:</span> Partnership</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Formal Procedures</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Ijrāʾāt:</span> Procedures</p>
-              <p><span className="font-semibold">Brūtūkūl:</span> Protocol</p>
-              <p><span className="font-semibold">Marāsim:</span> Ceremonies</p>
-              <p><span className="font-semibold">Tanẓīm:</span> Organization</p>
-              <p><span className="font-semibold">Tanfīdh:</span> Implementation</p>
+              <p><span className="font-semibold">Ijraʾat:</span> Procedures</p>
+              <p><span className="font-semibold">Brutukul:</span> Protocol</p>
+              <p><span className="font-semibold">Marasim:</span> Ceremonies</p>
+              <p><span className="font-semibold">Tanzim:</span> Organization</p>
+              <p><span className="font-semibold">Tanfidh:</span> Implementation</p>
             </div>
           </div>
         </div>

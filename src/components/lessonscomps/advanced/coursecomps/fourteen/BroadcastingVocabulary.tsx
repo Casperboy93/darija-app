@@ -16,10 +16,10 @@ export default function BroadcastingVocabulary() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Studio Operations</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Istūdyū:</span> Studio</p>
-              <p><span className="font-semibold">Kāmīrā:</span> Camera</p>
-              <p><span className="font-semibold">Mikrūfūn:</span> Microphone</p>
-              <p><span className="font-semibold">Iḍāʾa:</span> Lighting</p>
+              <p><span className="font-semibold">Istudyu:</span> Studio</p>
+              <p><span className="font-semibold">Kamira:</span> Camera</p>
+              <p><span className="font-semibold">Mikrufun:</span> Microphone</p>
+              <p><span className="font-semibold">Idaʾa:</span> Lighting</p>
               <p><span className="font-semibold">Mukhrij:</span> Director</p>
               <p><span className="font-semibold">Muqaddim:</span> Presenter/Host</p>
             </div>
@@ -28,12 +28,12 @@ export default function BroadcastingVocabulary() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Live Broadcasting</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Barāmij mubāshira:</span> Live programs</p>
-              <p><span className="font-semibold">Naql mubāshir:</span> Live broadcast</p>
-              <p><span className="font-semibold">Taqrīr mīdānī:</span> Field report</p>
-              <p><span className="font-semibold">Muraslūn:</span> Correspondents</p>
-              <p><span className="font-semibold">Nashrat akhbār:</span> News bulletin</p>
-              <p><span className="font-semibold">Faṣl iʿlānī:</span> Commercial break</p>
+              <p><span className="font-semibold">Baramij mubashira:</span> Live programs</p>
+              <p><span className="font-semibold">Naql mubashir:</span> Live broadcast</p>
+              <p><span className="font-semibold">Taqrir midani:</span> Field report</p>
+              <p><span className="font-semibold">Muraslun:</span> Correspondents</p>
+              <p><span className="font-semibold">Nashrat akhbar:</span> News bulletin</p>
+              <p><span className="font-semibold">Fasl iʿlani:</span> Commercial break</p>
             </div>
           </div>
         </div>

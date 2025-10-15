@@ -15,7 +15,7 @@ export default function FamousPhilosophers() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Islamic Philosophers</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Ibn Sīnā (Avicenna)</p>
+              <p className="font-semibold text-teal-700">Ibn Sina (Avicenna)</p>
               <p className="text-gray-600 text-sm">Metaphysics and medicine</p>
             </div>
             <div>
@@ -23,11 +23,11 @@ export default function FamousPhilosophers() {
               <p className="text-gray-600 text-sm">Aristotelian philosophy</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Al-Ghazālī</p>
+              <p className="font-semibold text-teal-700">Al-Ghazali</p>
               <p className="text-gray-600 text-sm">Theology and mysticism</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Ibn Khaldūn</p>
+              <p className="font-semibold text-teal-700">Ibn Khaldun</p>
               <p className="text-gray-600 text-sm">Social philosophy</p>
             </div>
           </div>
@@ -37,7 +37,7 @@ export default function FamousPhilosophers() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Western Philosophers</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Arisṭū (Aristotle)</p>
+              <p className="font-semibold text-teal-700">Aristu (Aristotle)</p>
               <p className="text-gray-600 text-sm">Logic and ethics</p>
             </div>
             <div>

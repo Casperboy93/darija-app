@@ -23,11 +23,11 @@ export default function MultilateralDiplomacy() {
               <p className="text-gray-600 text-sm">Conference</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Jalsa ʿāmma</p>
+              <p className="font-semibold text-teal-700">Jalsa ʿamma</p>
               <p className="text-gray-600 text-sm">Plenary session</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Lajān farʿiyya</p>
+              <p className="font-semibold text-teal-700">Lajan farʿiyya</p>
               <p className="text-gray-600 text-sm">Working committees</p>
             </div>
           </div>
@@ -37,11 +37,11 @@ export default function MultilateralDiplomacy() {
           <h3 className="font-bold text-lg text-teal-800 mb-3">Voting and Decisions</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-teal-700">Taṣwīt</p>
+              <p className="font-semibold text-teal-700">Taswit</p>
               <p className="text-gray-600 text-sm">Voting</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Ijmāʿ</p>
+              <p className="font-semibold text-teal-700">Ijmaʿ</p>
               <p className="text-gray-600 text-sm">Consensus</p>
             </div>
             <div>
@@ -49,7 +49,7 @@ export default function MultilateralDiplomacy() {
               <p className="text-gray-600 text-sm">Majority</p>
             </div>
             <div>
-              <p className="font-semibold text-teal-700">Ḥaqq naqḍ</p>
+              <p className="font-semibold text-teal-700">Haqq naqd</p>
               <p className="text-gray-600 text-sm">Veto power</p>
             </div>
           </div>

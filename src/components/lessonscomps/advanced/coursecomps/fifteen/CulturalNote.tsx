@@ -13,7 +13,7 @@ export default function CulturalNote() {
       </h2>
       <p className="text-lg">You've mastered philosophical and ethical discourse in Darija! Morocco has a rich philosophical tradition, from medieval Islamic philosophers like Ibn Rushd to modern thinkers. This vocabulary connects you to centuries of wisdom and intellectual tradition.</p>
       <div className="mt-4 p-4 bg-white text-black bg-opacity-20 rounded-md">
-        <p className="text-sm">🤔 Fun fact: Córdoba-born Ibn Rushd (Averroes) was known as "The Commentator" for his influential works on Aristotle!</p>
+        <p className="text-sm">🤔 Fun fact: Cordoba-born Ibn Rushd (Averroes) was known as "The Commentator" for his influential works on Aristotle!</p>
       </div>
     </div>
   );

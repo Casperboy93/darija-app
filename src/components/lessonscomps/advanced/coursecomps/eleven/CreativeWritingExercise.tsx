@@ -18,10 +18,10 @@ export default function CreativeWritingExercise() {
             <div>
               <h4 className="font-semibold text-green-700 mb-2">Theme Options:</h4>
               <ul className="text-sm space-y-1">
-                <li>• Homesickness (al-hanīn lil-waṭan)</li>
-                <li>• Childhood memories (dhikrayāt aṭ-ṭufūla)</li>
-                <li>• The beauty of Morocco (jamāl al-Maghrib)</li>
-                <li>• Friendship (aṣ-ṣadāqa)</li>
+                <li>• Homesickness (al-hanin lil-watan)</li>
+                <li>• Childhood memories (dhikrayat at-tufula)</li>
+                <li>• The beauty of Morocco (jamal al-Maghrib)</li>
+                <li>• Friendship (as-sadaqa)</li>
               </ul>
             </div>
             <div>

@@ -17,27 +17,27 @@ export default function ConservationBiodiversity() {
             <h4 className="font-semibold text-green-700 mb-2">Biodiversity Terms</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Tanawwuʿ ḥayawī</p>
+                <p className="text-sm font-medium">Tanawwuʿ hayawi</p>
                 <p className="text-xs text-gray-600">Biodiversity</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Niẓām bīʾī</p>
+                <p className="text-sm font-medium">Nizam biʾi</p>
                 <p className="text-xs text-gray-600">Ecosystem</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Anwāʿ muhdadda</p>
+                <p className="text-sm font-medium">Anwaʿ muhdadda</p>
                 <p className="text-xs text-gray-600">Endangered species</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Inqirāḍ</p>
+                <p className="text-sm font-medium">Inqirad</p>
                 <p className="text-xs text-gray-600">Extinction</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mawṭin ṭabīʿī</p>
+                <p className="text-sm font-medium">Mawtin tabiʿi</p>
                 <p className="text-xs text-gray-600">Natural habitat</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Maḥmiyya ṭabīʿiyya</p>
+                <p className="text-sm font-medium">Mahmiyya tabiʿiyya</p>
                 <p className="text-xs text-gray-600">Nature reserve</p>
               </div>
             </div>
@@ -47,19 +47,19 @@ export default function ConservationBiodiversity() {
             <h4 className="font-semibold text-green-700 mb-2">Conservation Strategies</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Ḥimāya bīʾiyya</p>
+                <p className="text-sm font-medium">Himaya biʾiyya</p>
                 <p className="text-xs text-gray-600">Environmental protection</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Iʿādat taʾhīl</p>
+                <p className="text-sm font-medium">Iʿadat taʾhil</p>
                 <p className="text-xs text-gray-600">Restoration</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Idāra mustadāma</p>
+                <p className="text-sm font-medium">Idara mustadama</p>
                 <p className="text-xs text-gray-600">Sustainable management</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Takthīr fī al-asir</p>
+                <p className="text-sm font-medium">Takthir fi al-asir</p>
                 <p className="text-xs text-gray-600">Captive breeding</p>
               </div>
             </div>

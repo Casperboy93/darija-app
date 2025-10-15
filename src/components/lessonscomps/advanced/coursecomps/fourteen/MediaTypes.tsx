@@ -19,11 +19,11 @@ export default function MediaTypes() {
             <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded-full">Classic</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Jarīda:</span> Newspaper</p>
+            <p className="text-sm"><span className="font-semibold">Jarida:</span> Newspaper</p>
             <p className="text-sm"><span className="font-semibold">Majalla:</span> Magazine</p>
-            <p className="text-sm"><span className="font-semibold">Idhāʿa:</span> Radio</p>
-            <p className="text-sm"><span className="font-semibold">Tilifizyūn:</span> Television</p>
-            <p className="text-sm"><span className="font-semibold">Ṣaḥāfa:</span> Press/Journalism</p>
+            <p className="text-sm"><span className="font-semibold">Idhaʿa:</span> Radio</p>
+            <p className="text-sm"><span className="font-semibold">Tilifizyun:</span> Television</p>
+            <p className="text-sm"><span className="font-semibold">Sahafa:</span> Press/Journalism</p>
           </div>
         </div>
         
@@ -33,11 +33,11 @@ export default function MediaTypes() {
             <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">Modern</span>
           </div>
           <div className="mt-3 space-y-2">
-            <p className="text-sm"><span className="font-semibold">Mawqiʿ iliktronī:</span> Website</p>
-            <p className="text-sm"><span className="font-semibold">Shabakāt ijtimāʿiyya:</span> Social media</p>
+            <p className="text-sm"><span className="font-semibold">Mawqiʿ iliktroni:</span> Website</p>
+            <p className="text-sm"><span className="font-semibold">Shabakat ijtimaʿiyya:</span> Social media</p>
             <p className="text-sm"><span className="font-semibold">Mudawwana:</span> Blog</p>
-            <p className="text-sm"><span className="font-semibold">Būdkāst:</span> Podcast</p>
-            <p className="text-sm"><span className="font-semibold">Fīdyū:</span> Video content</p>
+            <p className="text-sm"><span className="font-semibold">Budkast:</span> Podcast</p>
+            <p className="text-sm"><span className="font-semibold">Fidyu:</span> Video content</p>
           </div>
         </div>
       </div>

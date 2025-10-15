@@ -17,27 +17,27 @@ export default function InternationalBusiness() {
             <h4 className="font-semibold text-green-700 mb-2">International Trade</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Tijāra ʿālamiyya</p>
+                <p className="text-sm font-medium">Tijara ʿalamiyya</p>
                 <p className="text-xs text-gray-600">Global trade</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ṣādirāt wa wāridāt</p>
+                <p className="text-sm font-medium">Sadirat wa waridat</p>
                 <p className="text-xs text-gray-600">Exports and imports</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ittifāqiyyāt tijāriyya</p>
+                <p className="text-sm font-medium">Ittifaqiyyat tijariyya</p>
                 <p className="text-xs text-gray-600">Trade agreements</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Aswāq ʿālamiyya</p>
+                <p className="text-sm font-medium">Aswaq ʿalamiyya</p>
                 <p className="text-xs text-gray-600">Global markets</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Sharākāt istirātījiyya</p>
+                <p className="text-sm font-medium">Sharakat istiratijiyya</p>
                 <p className="text-xs text-gray-600">Strategic partnerships</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Istithmār ajnabī</p>
+                <p className="text-sm font-medium">Istithmar ajnabi</p>
                 <p className="text-xs text-gray-600">Foreign investment</p>
               </div>
             </div>
@@ -47,19 +47,19 @@ export default function InternationalBusiness() {
             <h4 className="font-semibold text-green-700 mb-2">Business Development</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Tanmiya aʿmāl</p>
+                <p className="text-sm font-medium">Tanmiya aʿmal</p>
                 <p className="text-xs text-gray-600">Business development</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tawassuʿ ʿālamī</p>
+                <p className="text-sm font-medium">Tawassuʿ ʿalami</p>
                 <p className="text-xs text-gray-600">Global expansion</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Ibtikār wa taṭwīr</p>
+                <p className="text-sm font-medium">Ibtikar wa tatwir</p>
                 <p className="text-xs text-gray-600">Innovation and development</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tanāfusiyya</p>
+                <p className="text-sm font-medium">Tanafusiyya</p>
                 <p className="text-xs text-gray-600">Competitiveness</p>
               </div>
             </div>

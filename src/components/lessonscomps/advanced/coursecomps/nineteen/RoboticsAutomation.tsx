@@ -16,33 +16,33 @@ export default function RoboticsAutomation() {
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-semibold text-green-700 mb-2">Robot Types</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Rūbūt ṣināʿī:</span> Industrial robot</p>
-              <p><span className="font-semibold">Rūbūt khidmī:</span> Service robot</p>
-              <p><span className="font-semibold">Rūbūt ṭibbī:</span> Medical robot</p>
-              <p><span className="font-semibold">Rūbūt dhākī:</span> Smart robot</p>
-              <p><span className="font-semibold">Rūbūt mutaḥarrik:</span> Mobile robot</p>
+              <p><span className="font-semibold">Rubut sinaʿi:</span> Industrial robot</p>
+              <p><span className="font-semibold">Rubut khidmi:</span> Service robot</p>
+              <p><span className="font-semibold">Rubut tibbi:</span> Medical robot</p>
+              <p><span className="font-semibold">Rubut dhaki:</span> Smart robot</p>
+              <p><span className="font-semibold">Rubut mutaharrik:</span> Mobile robot</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-semibold text-green-700 mb-2">Automation Systems</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Atamata ṣināʿiyya:</span> Industrial automation</p>
-              <p><span className="font-semibold">Raqāba āliyya:</span> Automated control</p>
-              <p><span className="font-semibold">Niẓām dhākī:</span> Smart system</p>
-              <p><span className="font-semibold">Ḥassāsāt:</span> Sensors</p>
-              <p><span className="font-semibold">Muḥarrikāt:</span> Actuators</p>
+              <p><span className="font-semibold">Atamata sinaʿiyya:</span> Industrial automation</p>
+              <p><span className="font-semibold">Raqaba aliyya:</span> Automated control</p>
+              <p><span className="font-semibold">Nizam dhaki:</span> Smart system</p>
+              <p><span className="font-semibold">Hassasat:</span> Sensors</p>
+              <p><span className="font-semibold">Muharrikat:</span> Actuators</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-green-200">
             <h4 className="font-semibold text-green-700 mb-2">Human-Robot Interaction</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Tafāʿul insān-rūbūt:</span> Human-robot interaction</p>
-              <p><span className="font-semibold">Wājha mustakhdim:</span> User interface</p>
-              <p><span className="font-semibold">Amān rūbūtī:</span> Robot safety</p>
-              <p><span className="font-semibold">Taʿāwun rūbūtī:</span> Robot collaboration</p>
-              <p><span className="font-semibold">Dhakāʾ ijtimāʿī:</span> Social intelligence</p>
+              <p><span className="font-semibold">Tafaʿul insan-rubut:</span> Human-robot interaction</p>
+              <p><span className="font-semibold">Wajha mustakhdim:</span> User interface</p>
+              <p><span className="font-semibold">Aman rubuti:</span> Robot safety</p>
+              <p><span className="font-semibold">Taʿawun rubuti:</span> Robot collaboration</p>
+              <p><span className="font-semibold">Dhakaʾ ijtimaʿi:</span> Social intelligence</p>
             </div>
           </div>
         </div>

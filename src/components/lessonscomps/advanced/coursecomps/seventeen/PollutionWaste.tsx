@@ -16,24 +16,24 @@ export default function PollutionWaste() {
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Air and Water Pollution</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Talawwuth hawāʾ:</span> Air pollution</p>
-              <p><span className="font-semibold">Talawwuth māʾ:</span> Water pollution</p>
-              <p><span className="font-semibold">Anbiʿāthāt:</span> Emissions</p>
-              <p><span className="font-semibold">Miyyāh ṣarf:</span> Wastewater</p>
-              <p><span className="font-semibold">Mawādd sāmma:</span> Toxic substances</p>
-              <p><span className="font-semibold">Tanẓīf hawāʾ:</span> Air purification</p>
+              <p><span className="font-semibold">Talawwuth hawaʾ:</span> Air pollution</p>
+              <p><span className="font-semibold">Talawwuth maʾ:</span> Water pollution</p>
+              <p><span className="font-semibold">Anbiʿathat:</span> Emissions</p>
+              <p><span className="font-semibold">Miyyah sarf:</span> Wastewater</p>
+              <p><span className="font-semibold">Mawadd samma:</span> Toxic substances</p>
+              <p><span className="font-semibold">Tanzif hawaʾ:</span> Air purification</p>
             </div>
           </div>
           
           <div className="bg-white p-4 rounded-lg border border-purple-200">
             <h4 className="font-semibold text-purple-700 mb-2">Waste Management</h4>
             <div className="space-y-2 text-sm">
-              <p><span className="font-semibold">Idārat nufa̧yāt:</span> Waste management</p>
-              <p><span className="font-semibold">Iʿādat tadwīr:</span> Recycling</p>
-              <p><span className="font-semibold">Taqlīl nufāyāt:</span> Waste reduction</p>
-              <p><span className="font-semibold">Nufāyāt ṣulba:</span> Solid waste</p>
-              <p><span className="font-semibold">Nufāyāt khāṭira:</span> Hazardous waste</p>
-              <p><span className="font-semibold">Samād ʿuḍwī:</span> Composting</p>
+              <p><span className="font-semibold">Idarat nufayat:</span> Waste management</p>
+              <p><span className="font-semibold">Iʿadat tadwir:</span> Recycling</p>
+              <p><span className="font-semibold">Taqlil nufayat:</span> Waste reduction</p>
+              <p><span className="font-semibold">Nufayat sulba:</span> Solid waste</p>
+              <p><span className="font-semibold">Nufayat khatira:</span> Hazardous waste</p>
+              <p><span className="font-semibold">Samad ʿudwi:</span> Composting</p>
             </div>
           </div>
         </div>

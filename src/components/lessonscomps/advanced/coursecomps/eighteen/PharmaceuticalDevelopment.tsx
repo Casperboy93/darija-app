@@ -17,27 +17,27 @@ export default function PharmaceuticalDevelopment() {
             <h4 className="font-semibold text-green-700 mb-2">Discovery and Development</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Iktishāf dawāʾ</p>
+                <p className="text-sm font-medium">Iktishaf dawaʾ</p>
                 <p className="text-xs text-gray-600">Drug discovery</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Taṭwīr dawāʾ</p>
+                <p className="text-sm font-medium">Tatwir dawaʾ</p>
                 <p className="text-xs text-gray-600">Drug development</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tajārib mukhtabara</p>
+                <p className="text-sm font-medium">Tajarib mukhtabara</p>
                 <p className="text-xs text-gray-600">Laboratory trials</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Tajārib ḥayawānāt</p>
+                <p className="text-sm font-medium">Tajarib hayawanat</p>
                 <p className="text-xs text-gray-600">Animal trials</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Marāḥil sarīriyya</p>
+                <p className="text-sm font-medium">Marahil saririyya</p>
                 <p className="text-xs text-gray-600">Clinical phases</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Muwāfaqa tanẓīmiyya</p>
+                <p className="text-sm font-medium">Muwafaqa tanzimiyya</p>
                 <p className="text-xs text-gray-600">Regulatory approval</p>
               </div>
             </div>
@@ -47,19 +47,19 @@ export default function PharmaceuticalDevelopment() {
             <h4 className="font-semibold text-green-700 mb-2">Pharmaceutical Manufacturing</h4>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               <div>
-                <p className="text-sm font-medium">Ṣināʿa dawāʾiyya</p>
+                <p className="text-sm font-medium">Sinaʿa dawaʾiyya</p>
                 <p className="text-xs text-gray-600">Pharmaceutical manufacturing</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Raqāba jūda</p>
+                <p className="text-sm font-medium">Raqaba juda</p>
                 <p className="text-xs text-gray-600">Quality control</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Mamārasāt ṣināʿiyya</p>
+                <p className="text-sm font-medium">Mamarasat sinaʿiyya</p>
                 <p className="text-xs text-gray-600">Manufacturing practices</p>
               </div>
               <div>
-                <p className="text-sm font-medium">Takhzīn wa tawzīʿ</p>
+                <p className="text-sm font-medium">Takhzin wa tawziʿ</p>
                 <p className="text-xs text-gray-600">Storage and distribution</p>
               </div>
             </div>

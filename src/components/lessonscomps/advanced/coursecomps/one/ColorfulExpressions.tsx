@@ -36,8 +36,8 @@ export default function ColorfulExpressions() {
         </div>
         
         <div className="bg-orange-50 border border-orange-200 p-4 rounded-lg">
-          <h3 className="font-bold text-orange-800 mb-2">L-café l-qdim</h3>
-          <p className="text-gray-700 mb-2">The old café</p>
+          <h3 className="font-bold text-orange-800 mb-2">L-cafe l-qdim</h3>
+          <p className="text-gray-700 mb-2">The old cafe</p>
           <p className="text-sm text-gray-600 italic">Referring to a familiar place</p>
         </div>
         

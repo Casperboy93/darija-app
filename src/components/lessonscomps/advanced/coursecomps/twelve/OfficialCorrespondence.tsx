@@ -17,15 +17,15 @@ export default function OfficialCorrespondence() {
           <h3 className="font-bold text-lg text-green-800 mb-3">Letter Openings</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-green-700">Sayyidī al-muḥtaram</p>
+              <p className="font-semibold text-green-700">Sayyidi al-muhtaram</p>
               <p className="text-gray-600 text-sm">Dear Sir (formal)</p>
             </div>
             <div>
-              <p className="font-semibold text-green-700">Sayyidatī al-muḥtarama</p>
+              <p className="font-semibold text-green-700">Sayyidati al-muhtarama</p>
               <p className="text-gray-600 text-sm">Dear Madam (formal)</p>
             </div>
             <div>
-              <p className="font-semibold text-green-700">Aṣḥāb as-saʿāda</p>
+              <p className="font-semibold text-green-700">Ashab as-saʿada</p>
               <p className="text-gray-600 text-sm">Your Excellencies</p>
             </div>
           </div>
@@ -35,15 +35,15 @@ export default function OfficialCorrespondence() {
           <h3 className="font-bold text-lg text-green-800 mb-3">Letter Closings</h3>
           <div className="space-y-3">
             <div>
-              <p className="font-semibold text-green-700">Taqabbalū fāʾiq al-iḥtirām</p>
+              <p className="font-semibold text-green-700">Taqabbalu faʾiq al-ihtiram</p>
               <p className="text-gray-600 text-sm">Accept our highest respect</p>
             </div>
             <div>
-              <p className="font-semibold text-green-700">Wa tafaḍḍalū bi-qabūl</p>
+              <p className="font-semibold text-green-700">Wa tafaddalu bi-qabul</p>
               <p className="text-gray-600 text-sm">Please accept</p>
             </div>
             <div>
-              <p className="font-semibold text-green-700">Fī intizār radikum</p>
+              <p className="font-semibold text-green-700">Fi intizar radikum</p>
               <p className="text-gray-600 text-sm">Awaiting your response</p>
             </div>
           </div>
