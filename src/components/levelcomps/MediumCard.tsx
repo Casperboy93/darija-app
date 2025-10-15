@@ -1,7 +1,13 @@
 import React from 'react';
 import Link from 'next/link';
+import { intermediateLessons } from '@/data/intermediateLessons';
 
 const MediumCard: React.FC = () => {
+  const lessonCount = intermediateLessons.length;
+  const totalMinutes = intermediateLessons.reduce((sum, l) => sum + parseInt(l.timeNeeded, 10), 0);
+  const timeLabel = `${Math.floor(totalMinutes / 60)}h ${totalMinutes % 60}m`;
+  const previewTitles = intermediateLessons.slice(0, 3);
+
   return (
     <div className="bg-white rounded-xl border border-blue-200 shadow-lg hover:shadow-xl transition-all duration-300 p-6 hover:border-blue-300">
       {/* Level Badge */}
@@ -12,7 +18,7 @@ const MediumCard: React.FC = () => {
         </span>
         <div className="text-right">
           <div className="text-sm text-gray-500">Total Time</div>
-          <div className="text-lg font-semibold text-blue-600">6-8 hours</div>
+          <div className="text-lg font-semibold text-blue-600">{timeLabel}</div>
         </div>
       </div>
 
@@ -21,19 +27,9 @@ const MediumCard: React.FC = () => {
       
       {/* Stats */}
       <div className="flex items-center justify-between mb-4 p-3 bg-blue-50 rounded-lg border border-blue-100">
-        <div className="text-center">
-          <div className="text-2xl font-bold text-blue-600">15</div>
+        <div className="text-center w-full">
+          <div className="text-2xl font-bold text-blue-600">{lessonCount}</div>
           <div className="text-sm text-blue-700">Lessons</div>
-        </div>
-        <div className="w-px h-8 bg-blue-200"></div>
-        <div className="text-center">
-          <div className="text-2xl font-bold text-blue-600">60</div>
-          <div className="text-sm text-blue-700">Exercises</div>
-        </div>
-        <div className="w-px h-8 bg-blue-200"></div>
-        <div className="text-center">
-          <div className="text-2xl font-bold text-blue-600">12</div>
-          <div className="text-sm text-blue-700">Quizzes</div>
         </div>
       </div>
 
@@ -72,16 +68,18 @@ const MediumCard: React.FC = () => {
       <div className="mb-6 p-4 bg-gray-50 rounded-lg border">
         <h4 className="font-semibold text-gray-900 mb-2">Course Content Preview:</h4>
         <div className="space-y-1 text-sm text-gray-600">
-          <div>• Lesson 1: Daily Conversations</div>
-          <div>• Lesson 2: Shopping & Markets</div>
-          <div>• Lesson 3: Transportation & Directions</div>
-          <div className="text-blue-600 font-medium">+ 12 more lessons</div>
+          {previewTitles.map((l, i) => (
+            <div key={l.slug}>• Lesson {i + 1}: {l.title}</div>
+          ))}
+          {lessonCount > 3 && (
+            <div className="text-blue-600 font-medium">+ {lessonCount - 3} more lessons</div>
+          )}
         </div>
       </div>
 
       {/* Action Button */}
       <Link 
-        href="/lessons/intermediate" 
+        href="/lessons?level=medium" 
         className="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg"
       >
         Start Learning →

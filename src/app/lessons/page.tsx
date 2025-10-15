@@ -1,12 +1,21 @@
 "use client";
 
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 import BeginnerSection from '@/components/lessonscomps/common/BeginnerSection';
 import MediumSection from '@/components/lessonscomps/common/MediumSection';
 import AdvancedSection from '@/components/lessonscomps/common/AdvancedSection';
 
 export default function LessonsPage() {
+  const searchParams = useSearchParams();
   const [activeTab, setActiveTab] = useState<'beginner' | 'medium' | 'advanced'>('beginner');
+
+  useEffect(() => {
+    const level = searchParams.get('level');
+    if (level === 'beginner' || level === 'medium' || level === 'advanced') {
+      setActiveTab(level);
+    }
+  }, [searchParams]);
   return (
     <main className="min-h-screen bg-white">
       <div className="max-w-7xl mx-auto">
